@@ -1,0 +1,1207 @@
+project_id,department,project_category,city,fiscal_quarter,cost_center_tier,age,gender,headcount,approval_days,online_score,risk_rating,annual_income,spending,monthly_spending,budget_deviation,loyal_customer
+PRJ-FIN-1000,Marketing & Growth,Marketing Campaigns,Singapore,Q1,Tier 3,37,Male,89,5.0,72.0,Medium,164046.33,164395.6,13699.63,349.27,1
+PRJ-FIN-1001,Sales Operations,Cloud Infrastructure,Tokyo,Q1,Tier 1,46,Male,61,16.0,65.1,Medium,116663.5,106660.24,8888.35,-10003.26,1
+PRJ-FIN-1002,IT & Cloud,Software Licenses,Bangalore,Q2,Tier 3,51,Female,38,26.0,73.3,Critical,193755.43,236263.45,19688.62,42508.02,0
+PRJ-FIN-1003,IT & Cloud,Facility Operations,San Francisco,Q1,Tier 3,38,Female,56,4.0,66.4,Medium,184449.01,181866.52,15155.54,-2582.49,1
+PRJ-FIN-1004,Finance & Accounting,Facility Operations,London,Q4,Tier 1,53,Female,46,10.0,53.8,High,132644.87,166055.95,13838.0,33411.08,0
+PRJ-FIN-1005,Human Resources,Hardware Upgrades,New York,Q4,Tier 2,43,Female,51,,62.2,Medium,135094.11,146193.8,12182.82,11099.69,0
+PRJ-FIN-1006,Engineering,Software Licenses,New York,Q3,Tier 2,27,Female,106,7.0,63.0,Medium,209839.53,205319.89,17109.99,-4519.64,1
+PRJ-FIN-1007,Legal & Compliance,Facility Operations,Tokyo,Q1,Tier 1,32,Female,87,4.0,75.9,Low,180304.79,158411.47,13200.96,-21893.32,1
+PRJ-FIN-1008,Finance & Accounting,Staff Augmentation,Bangalore,Q1,Tier 1,29,Female,15,8.0,81.4,Low,73255.52,58694.42,4891.2,-14561.1,1
+PRJ-FIN-1009,Engineering,Hardware Upgrades,New York,Q4,Tier 1,36,Male,88,3.0,63.8,Medium,309756.5,321567.89,26797.32,11811.39,0
+PRJ-FIN-1010,Sales Operations,Software Licenses,San Francisco,Q2,Tier 2,41,Female,99,13.0,83.0,Medium,161621.88,147573.61,12297.8,-14048.27,1
+PRJ-FIN-1011,Engineering,Consulting Services,Singapore,Q3,Tier 1,27,Female,61,4.0,67.6,Medium,255684.18,279186.34,23265.53,23502.16,0
+PRJ-FIN-1012,Engineering,Cloud Infrastructure,Chicago,Q3,Tier 2,44,Female,22,22.0,54.4,High,150905.56,192139.31,16011.61,41233.75,0
+PRJ-FIN-1013,Human Resources,Marketing Campaigns,London,Q2,Tier 1,38,Female,15,16.0,64.5,Medium,73996.84,69352.5,5779.38,-4644.34,1
+PRJ-FIN-1014,R&D Innovation,Software Licenses,Singapore,Q4,Tier 1,28,Male,99,24.0,61.6,High,208146.6,269526.68,22460.56,61380.08,0
+PRJ-FIN-1015,Engineering,Consulting Services,Chicago,Q3,Tier 1,40,Male,29,3.0,84.0,Low,171154.86,149105.29,12425.44,-22049.57,1
+PRJ-FIN-1016,IT & Cloud,Marketing Campaigns,Tokyo,Q1,Tier 2,39,Male,81,3.0,50.6,High,185616.76,203823.07,16985.26,18206.31,0
+PRJ-FIN-1017,Sales Operations,Hardware Upgrades,Bangalore,Q1,Tier 1,33,Female,93,4.0,89.1,Low,177704.35,162769.26,13564.11,-14935.09,1
+PRJ-FIN-1018,Finance & Accounting,Cloud Infrastructure,Bangalore,Q1,Tier 2,26,Female,58,11.0,90.4,Medium,136946.94,120718.74,10059.9,-16228.2,1
+PRJ-FIN-1019,Engineering,Hardware Upgrades,London,Q1,Tier 3,53,Female,7,4.0,50.9,High,112393.64,118865.56,9905.46,6471.92,0
+PRJ-FIN-1020,Finance & Accounting,Software Licenses,San Francisco,Q2,Tier 2,46,Male,82,10.0,85.8,Medium,146717.95,140518.91,11709.91,-6199.04,1
+PRJ-FIN-1021,Marketing & Growth,Consulting Services,Tokyo,Q3,Tier 1,49,Male,108,25.0,58.6,High,190344.59,201085.75,16757.15,10741.16,0
+PRJ-FIN-1022,IT & Cloud,Staff Augmentation,London,Q1,Tier 1,33,Male,33,11.0,53.3,High,155102.72,170360.56,14196.71,15257.84,0
+PRJ-FIN-1023,IT & Cloud,Cloud Infrastructure,London,Q3,Tier 2,33,Female,8,11.0,64.3,Medium,82606.34,82961.02,6913.42,354.68,1
+PRJ-FIN-1024,Engineering,Facility Operations,Bangalore,Q4,Tier 1,46,Male,62,5.0,73.8,Medium,206261.29,232886.18,19407.18,26624.89,0
+PRJ-FIN-1025,R&D Innovation,Software Licenses,San Francisco,Q4,Tier 1,30,Female,21,11.0,73.9,Medium,153312.11,177198.72,14766.56,23886.61,0
+PRJ-FIN-1026,Marketing & Growth,Software Licenses,New York,Q3,Tier 2,53,Male,43,15.0,42.1,High,114094.87,143083.57,11923.63,28988.7,0
+PRJ-FIN-1027,Sales Operations,Hardware Upgrades,Singapore,Q4,Tier 1,47,Male,50,4.0,53.7,High,123783.13,163440.22,13620.02,39657.09,0
+PRJ-FIN-1028,Finance & Accounting,Hardware Upgrades,London,Q4,Tier 1,43,Male,50,4.0,85.8,Low,109522.91,107560.6,8963.38,-1962.31,1
+PRJ-FIN-1029,Sales Operations,Cloud Infrastructure,London,Q4,Tier 2,44,Male,94,,76.7,Medium,140513.34,145465.97,12122.16,4952.63,0
+PRJ-FIN-1030,Legal & Compliance,Marketing Campaigns,Sydney,Q3,Tier 2,51,Female,9,4.0,94.7,Low,88156.67,81295.21,6774.6,-6861.46,1
+PRJ-FIN-1031,Human Resources,Staff Augmentation,London,Q4,Tier 2,47,Female,67,4.0,71.6,Medium,87248.21,102160.35,8513.36,14912.14,0
+PRJ-FIN-1032,Marketing & Growth,Software Licenses,Tokyo,Q3,Tier 2,40,Female,56,18.0,66.9,Medium,134760.53,149469.66,12455.8,14709.13,0
+PRJ-FIN-1033,Engineering,Software Licenses,Tokyo,Q1,Tier 1,39,Male,56,16.0,66.2,Medium,233989.89,220736.25,18394.69,-13253.64,1
+PRJ-FIN-1034,R&D Innovation,Facility Operations,San Francisco,Q2,Tier 1,56,Female,14,10.0,61.7,Medium,65193.16,59481.87,4956.82,-5711.29,1
+PRJ-FIN-1035,Engineering,Cloud Infrastructure,Bangalore,Q3,Tier 1,42,Female,54,26.0,60.7,Critical,154336.68,190653.99,15887.83,36317.31,0
+PRJ-FIN-1036,Legal & Compliance,Hardware Upgrades,London,Q1,Tier 2,38,Female,99,24.0,59.7,,151818.29,136560.04,11380.0,-15258.25,1
+PRJ-FIN-1037,Human Resources,Software Licenses,London,Q2,Tier 1,42,Male,35,17.0,65.3,Medium,97896.89,98929.85,8244.15,1032.96,1
+PRJ-FIN-1038,Marketing & Growth,Staff Augmentation,London,Q4,Tier 1,45,Female,94,5.0,58.4,Medium,208325.62,237191.75,19765.98,28866.13,0
+PRJ-FIN-1039,R&D Innovation,Cloud Infrastructure,San Francisco,Q2,Tier 2,36,Female,49,6.0,71.1,Medium,211724.51,204467.46,17038.95,-7257.05,1
+PRJ-FIN-1040,IT & Cloud,Cloud Infrastructure,Toronto,Q4,Tier 2,26,Female,92,8.0,57.9,Medium,209365.76,250608.73,20884.06,41242.97,0
+PRJ-FIN-1041,IT & Cloud,Marketing Campaigns,New York,Q4,Tier 1,28,Male,89,46.0,67.9,Critical,236580.15,337734.56,28144.55,101154.41,0
+PRJ-FIN-1042,Finance & Accounting,Cloud Infrastructure,New York,Q4,Tier 1,38,Female,33,11.0,54.5,High,98116.53,130038.06,10836.5,31921.53,0
+PRJ-FIN-1043,Legal & Compliance,Software Licenses,Chicago,Q2,Tier 2,49,Male,19,7.0,75.8,Low,72532.0,66503.36,5541.95,-6028.64,1
+PRJ-FIN-1044,IT & Cloud,Staff Augmentation,New York,Q2,Tier 3,42,Female,74,8.0,48.4,High,185152.99,223245.05,18603.75,38092.06,0
+PRJ-FIN-1045,Engineering,Facility Operations,Tokyo,Q3,Tier 1,34,Female,19,8.0,79.7,Low,130518.86,112767.75,9397.31,-17751.11,1
+PRJ-FIN-1046,Sales Operations,Hardware Upgrades,New York,Q1,Tier 2,37,Female,34,15.0,75.3,Medium,129223.18,107153.58,8929.46,-22069.6,1
+PRJ-FIN-1047,IT & Cloud,Hardware Upgrades,San Francisco,Q4,Tier 2,36,Female,6,21.0,75.5,High,83339.33,91602.66,7633.56,8263.33,0
+PRJ-FIN-1048,Finance & Accounting,Staff Augmentation,London,Q2,Tier 1,50,Male,64,20.0,77.1,High,91138.4,102252.5,8521.04,11114.1,0
+PRJ-FIN-1049,Marketing & Growth,Hardware Upgrades,Tokyo,Q1,Tier 1,41,Male,96,31.0,81.8,Critical,189220.16,216204.97,18017.08,26984.81,0
+PRJ-FIN-1050,Finance & Accounting,Staff Augmentation,Bangalore,Q1,Tier 1,31,Female,31,16.0,59.5,Medium,82327.72,82142.18,6845.18,-185.54,1
+PRJ-FIN-1051,Marketing & Growth,Staff Augmentation,New York,Q4,Tier 3,44,Female,82,10.0,61.9,Medium,169096.95,193514.25,16126.19,24417.3,0
+PRJ-FIN-1052,IT & Cloud,Facility Operations,New York,Q2,Tier 1,60,Female,72,12.0,49.8,High,164150.48,171175.43,14264.62,7024.95,0
+PRJ-FIN-1053,Engineering,Cloud Infrastructure,Tokyo,Q3,Tier 1,35,Male,100,10.0,79.8,Medium,212635.11,185929.04,15494.09,-26706.07,1
+PRJ-FIN-1054,Sales Operations,Cloud Infrastructure,Sydney,Q3,Tier 2,56,Male,73,13.0,57.6,Medium,142600.38,152442.27,12703.52,9841.89,0
+PRJ-FIN-1055,IT & Cloud,Staff Augmentation,Berlin,Q3,Tier 1,40,Male,26,7.0,62.8,Medium,127250.98,133902.61,11158.55,6651.63,0
+PRJ-FIN-1056,Marketing & Growth,Facility Operations,Toronto,Q3,Tier 2,42,Male,72,15.0,65.4,Medium,181035.98,171619.35,14301.61,-9416.63,1
+PRJ-FIN-1057,IT & Cloud,Facility Operations,Singapore,Q1,Tier 1,53,Male,105,39.0,73.7,Critical,189074.5,215610.64,17967.55,26536.14,0
+PRJ-FIN-1058,IT & Cloud,Hardware Upgrades,Tokyo,Q4,Tier 1,43,Female,12,23.0,80.1,High,134958.18,170742.69,14228.56,35784.51,0
+PRJ-FIN-1059,IT & Cloud,Software Licenses,Bangalore,Q1,Tier 3,56,Female,55,24.0,73.9,High,159182.3,171381.04,14281.75,12198.74,0
+PRJ-FIN-1060,Marketing & Growth,Cloud Infrastructure,London,Q3,Tier 2,47,Female,6,23.0,74.0,High,121234.66,127388.4,10615.7,6153.74,0
+PRJ-FIN-1061,Legal & Compliance,Hardware Upgrades,San Francisco,Q3,Tier 1,39,Female,11,12.0,55.1,Medium,112224.4,116710.97,9725.91,4486.57,0
+PRJ-FIN-1062,R&D Innovation,Staff Augmentation,Tokyo,Q1,Tier 1,56,Female,76,8.0,80.4,Low,188743.21,171351.04,14279.25,-17392.17,1
+PRJ-FIN-1063,Marketing & Growth,Staff Augmentation,New York,Q3,Tier 1,32,Male,104,4.0,49.3,,224626.5,296052.41,24671.03,71425.91,0
+PRJ-FIN-1064,Marketing & Growth,Hardware Upgrades,Bangalore,Q2,Tier 1,50,Female,79,5.0,95.9,Low,175261.84,151806.03,12650.5,-23455.81,1
+PRJ-FIN-1065,Sales Operations,Hardware Upgrades,Singapore,Q3,Tier 2,40,Male,88,17.0,66.6,Medium,190688.87,190495.74,15874.64,-193.13,1
+PRJ-FIN-1066,Engineering,Hardware Upgrades,New York,Q2,Tier 2,24,Female,35,17.0,84.1,Medium,149291.88,165404.7,13783.72,16112.82,0
+PRJ-FIN-1067,IT & Cloud,Staff Augmentation,Bangalore,Q3,Tier 2,49,Male,80,19.0,43.8,High,186394.94,193818.88,16151.57,7423.94,0
+PRJ-FIN-1068,IT & Cloud,Marketing Campaigns,San Francisco,Q2,Tier 1,31,Non-Binary,80,6.0,60.6,Medium,175173.26,158281.17,13190.1,-16892.09,1
+PRJ-FIN-1069,Sales Operations,Facility Operations,San Francisco,Q2,Tier 2,57,Non-Binary,9,15.0,87.7,Medium,131102.32,128206.85,10683.9,-2895.47,1
+PRJ-FIN-1070,Human Resources,Hardware Upgrades,Tokyo,Q2,Tier 1,44,Female,74,18.0,72.6,Medium,118326.2,110351.83,9195.99,-7974.37,1
+PRJ-FIN-1071,Sales Operations,Hardware Upgrades,New York,Q1,Tier 1,33,Female,61,8.0,79.6,Low,146861.37,125588.43,10465.7,-21272.94,1
+PRJ-FIN-1072,Sales Operations,Consulting Services,New York,Q2,Tier 3,55,Male,52,44.0,65.9,Critical,147277.37,175464.98,14622.08,28187.61,0
+PRJ-FIN-1073,Marketing & Growth,Marketing Campaigns,Singapore,Q3,Tier 2,34,Male,47,4.0,59.3,Medium,125467.53,136988.48,11415.71,11520.95,0
+PRJ-FIN-1074,Sales Operations,Consulting Services,San Francisco,Q3,Tier 3,46,Non-Binary,98,34.0,56.7,Critical,167774.32,209303.29,17441.94,41528.97,0
+PRJ-FIN-1075,Engineering,Hardware Upgrades,San Francisco,Q1,Tier 1,43,Female,97,6.0,70.2,Medium,275592.07,226092.15,18841.01,-49499.92,1
+PRJ-FIN-1076,Sales Operations,Hardware Upgrades,New York,Q2,Tier 2,53,Female,68,5.0,60.8,Medium,138938.78,159753.3,13312.78,20814.52,0
+PRJ-FIN-1077,Marketing & Growth,Marketing Campaigns,New York,Q2,Tier 2,59,Male,27,16.0,57.8,Medium,125715.03,125920.83,10493.4,205.8,1
+PRJ-FIN-1078,Finance & Accounting,Software Licenses,New York,Q2,Tier 2,47,Male,8,13.0,65.0,Medium,151320.13,139366.03,11613.84,-11954.1,1
+PRJ-FIN-1079,IT & Cloud,Hardware Upgrades,Bangalore,Q4,Tier 1,24,Male,109,44.0,66.1,Critical,253982.41,342601.22,28550.1,88618.81,0
+PRJ-FIN-1080,Human Resources,Staff Augmentation,San Francisco,Q4,Tier 1,27,Female,67,31.0,82.2,Critical,139154.04,175981.49,14665.12,36827.45,0
+PRJ-FIN-1081,Finance & Accounting,Consulting Services,Tokyo,Q1,Tier 1,34,Non-Binary,77,4.0,52.1,High,142490.78,150258.05,12521.5,7767.27,0
+PRJ-FIN-1082,Finance & Accounting,Marketing Campaigns,Berlin,Q4,Tier 2,41,Female,14,3.0,80.7,Low,59177.1,58915.57,4909.63,-261.53,1
+PRJ-FIN-1083,Marketing & Growth,Software Licenses,Chicago,Q1,Tier 1,36,Male,16,26.0,85.8,Critical,92767.84,111520.69,9293.39,18752.85,0
+PRJ-FIN-1084,R&D Innovation,Marketing Campaigns,London,Q1,Tier 1,39,Female,108,5.0,85.7,Low,260948.18,187639.49,15636.62,-73308.69,1
+PRJ-FIN-1085,Engineering,Facility Operations,San Francisco,Q2,Tier 2,46,Female,54,4.0,76.5,Low,198441.89,154279.84,12856.65,-44162.05,1
+PRJ-FIN-1086,Engineering,Cloud Infrastructure,Chicago,Q3,Tier 2,35,Male,61,17.0,50.3,High,165873.86,186673.61,15556.13,20799.75,0
+PRJ-FIN-1087,Engineering,Hardware Upgrades,New York,Q1,Tier 1,48,Male,23,4.0,52.6,High,145328.75,150844.47,12570.37,5515.72,0
+PRJ-FIN-1088,IT & Cloud,Cloud Infrastructure,Singapore,Q2,Tier 3,34,Female,75,8.0,75.9,Low,167445.53,154081.08,12840.09,-13364.45,1
+PRJ-FIN-1089,Legal & Compliance,Marketing Campaigns,Tokyo,Q4,Tier 1,32,Male,50,13.0,45.2,High,97159.79,118457.52,9871.46,21297.73,0
+PRJ-FIN-1090,IT & Cloud,Hardware Upgrades,New York,Q3,Tier 2,43,Male,68,22.0,56.0,High,224471.57,240974.05,20081.17,16502.48,0
+PRJ-FIN-1091,Sales Operations,Facility Operations,Sydney,Q2,Tier 2,47,Female,82,18.0,68.0,Medium,217602.1,194255.96,16188.0,-23346.14,1
+PRJ-FIN-1092,Sales Operations,Consulting Services,New York,Q4,Tier 1,52,Male,61,19.0,99.0,Medium,146534.28,146795.97,12233.0,261.69,1
+PRJ-FIN-1093,Engineering,Consulting Services,New York,Q4,Tier 1,32,Male,51,15.0,60.6,Medium,245274.72,294047.49,24503.96,48772.77,0
+PRJ-FIN-1094,IT & Cloud,Consulting Services,San Francisco,Q2,Tier 1,43,Female,20,8.0,52.4,High,121313.46,132620.93,11051.74,11307.47,0
+PRJ-FIN-1095,Human Resources,Cloud Infrastructure,Singapore,Q4,Tier 1,44,Male,93,20.0,90.4,High,104920.28,112293.58,9357.8,7373.3,0
+PRJ-FIN-1096,Marketing & Growth,Staff Augmentation,Berlin,Q2,Tier 1,31,Male,15,4.0,90.7,Low,124266.73,95904.84,7992.07,-28361.89,1
+PRJ-FIN-1097,Sales Operations,Staff Augmentation,New York,Q3,Tier 3,39,Male,50,6.0,60.8,Medium,130349.82,130727.25,10893.94,377.43,1
+PRJ-FIN-1098,Finance & Accounting,Cloud Infrastructure,San Francisco,Q2,Tier 2,43,Male,31,3.0,61.4,Medium,105184.56,95353.99,7946.17,-9830.57,1
+PRJ-FIN-1099,Sales Operations,Consulting Services,Singapore,Q1,Tier 2,41,Male,14,12.0,66.0,Medium,186915.1,184956.82,15413.07,-1958.28,1
+PRJ-FIN-1100,Finance & Accounting,Hardware Upgrades,New York,Q2,Tier 2,47,Female,27,14.0,71.8,Medium,75377.56,,,-6423.95,1
+PRJ-FIN-1101,Engineering,Marketing Campaigns,New York,Q2,Tier 2,50,Male,20,17.0,65.6,Medium,156605.04,154802.79,12900.23,-1802.25,1
+PRJ-FIN-1102,Marketing & Growth,Facility Operations,Berlin,Q3,Tier 2,34,Female,43,15.0,62.2,Medium,168864.75,167158.87,13929.91,-1705.88,1
+PRJ-FIN-1103,Engineering,Marketing Campaigns,New York,Q1,Tier 2,29,Female,28,10.0,71.9,Medium,177814.83,178428.77,14869.06,613.94,1
+PRJ-FIN-1104,R&D Innovation,Cloud Infrastructure,Toronto,Q4,Tier 1,49,Male,60,29.0,41.9,Critical,154287.53,222854.09,18571.17,68566.56,0
+PRJ-FIN-1105,Engineering,Consulting Services,New York,Q3,Tier 3,49,Female,54,6.0,,Low,219126.74,194544.76,16212.06,-24581.98,1
+PRJ-FIN-1106,IT & Cloud,Staff Augmentation,Singapore,Q3,Tier 1,51,Male,7,6.0,94.2,Low,156808.22,135880.96,11323.41,-20927.26,1
+PRJ-FIN-1107,IT & Cloud,Cloud Infrastructure,San Francisco,Q1,Tier 2,44,Male,84,24.0,85.3,High,191055.8,194715.19,16226.27,3659.39,1
+PRJ-FIN-1108,R&D Innovation,Cloud Infrastructure,Bangalore,Q4,Tier 1,42,Non-Binary,19,3.0,60.9,Medium,211589.07,245191.85,20432.65,33602.78,0
+PRJ-FIN-1109,Engineering,Cloud Infrastructure,Bangalore,Q3,Tier 1,42,Female,53,4.0,75.0,Medium,211747.42,198488.86,16540.74,-13258.56,1
+PRJ-FIN-1110,Finance & Accounting,Staff Augmentation,London,Q3,Tier 1,47,Female,20,15.0,63.7,Medium,63897.75,68785.84,5732.15,4888.09,0
+PRJ-FIN-1111,Legal & Compliance,Hardware Upgrades,New York,Q2,Tier 1,36,Male,49,19.0,71.9,Medium,140396.88,144385.72,12032.14,3988.84,0
+PRJ-FIN-1112,Finance & Accounting,Software Licenses,New York,Q3,Tier 2,53,Male,78,22.0,59.5,High,182486.47,201875.69,16822.97,19389.22,0
+PRJ-FIN-1113,Marketing & Growth,Staff Augmentation,Tokyo,Q1,Tier 2,52,Non-Binary,61,8.0,64.9,Medium,135376.85,109422.04,9118.5,-25954.81,1
+PRJ-FIN-1114,R&D Innovation,Hardware Upgrades,San Francisco,Q2,Tier 3,43,Female,43,27.0,44.1,Critical,258128.48,312324.93,26027.08,54196.45,0
+PRJ-FIN-1115,Finance & Accounting,Consulting Services,New York,Q2,Tier 1,30,Male,55,48.0,63.8,Critical,98350.85,131208.33,10934.03,32857.48,0
+PRJ-FIN-1116,Engineering,Facility Operations,Tokyo,Q3,Tier 1,42,Female,9,27.0,60.6,Critical,149760.44,182679.34,15223.28,32918.9,0
+PRJ-FIN-1117,Human Resources,Facility Operations,Bangalore,Q1,Tier 1,45,Female,22,39.0,69.1,Critical,99241.81,110897.7,9241.48,11655.89,0
+PRJ-FIN-1118,Finance & Accounting,Software Licenses,Berlin,Q1,Tier 1,33,Female,85,,88.6,,203168.32,165983.14,13831.93,-37185.18,1
+PRJ-FIN-1119,Marketing & Growth,Marketing Campaigns,San Francisco,Q4,Tier 3,37,Female,47,7.0,53.7,High,186403.57,220595.07,18382.92,34191.5,0
+PRJ-FIN-1120,Engineering,Marketing Campaigns,Singapore,Q4,Tier 1,46,Female,77,15.0,60.8,Medium,275027.34,313077.63,26089.8,38050.29,0
+PRJ-FIN-1121,Finance & Accounting,Cloud Infrastructure,San Francisco,Q2,Tier 3,56,Female,89,13.0,74.1,Medium,136146.74,127219.94,10601.66,-8926.8,1
+PRJ-FIN-1122,Human Resources,Software Licenses,New York,Q3,Tier 2,39,Male,108,21.0,99.0,,115449.68,134998.05,11249.84,19548.37,0
+PRJ-FIN-1123,Engineering,Marketing Campaigns,Sydney,Q1,Tier 1,47,Male,71,16.0,61.7,Medium,212804.84,188015.3,15667.94,-24789.54,1
+PRJ-FIN-1124,Marketing & Growth,Hardware Upgrades,Bangalore,Q3,Tier 1,56,Female,36,14.0,54.0,High,124087.46,164629.1,13719.09,40541.64,0
+PRJ-FIN-1125,Engineering,Marketing Campaigns,Tokyo,Q1,Tier 1,31,Male,11,6.0,85.4,Low,159918.79,120673.4,10056.12,-39245.39,1
+PRJ-FIN-1126,Engineering,Staff Augmentation,Singapore,Q1,Tier 1,55,Female,31,8.0,58.2,Medium,122402.95,99978.6,8331.55,-22424.35,1
+PRJ-FIN-1127,Sales Operations,Hardware Upgrades,Singapore,Q4,Tier 1,48,Female,35,17.0,64.6,Medium,137892.31,140234.06,11686.17,2341.75,1
+PRJ-FIN-1128,Marketing & Growth,Facility Operations,Singapore,Q2,Tier 2,49,Female,90,26.0,68.3,Critical,178255.96,216572.6,18047.72,38316.64,0
+PRJ-FIN-1129,Sales Operations,Facility Operations,Chicago,Q4,Tier 2,37,Female,72,9.0,79.5,Low,141209.3,149334.13,12444.51,8124.83,0
+PRJ-FIN-1130,Engineering,Software Licenses,London,Q2,Tier 2,42,Male,16,,55.4,Medium,165809.85,164690.93,13724.24,-1118.92,1
+PRJ-FIN-1131,Engineering,Hardware Upgrades,London,Q2,Tier 3,49,Female,15,9.0,69.6,Medium,133278.57,115445.89,9620.49,-17832.68,1
+PRJ-FIN-1132,Engineering,Facility Operations,Bangalore,Q4,Tier 2,52,Male,60,40.0,78.2,Critical,193488.85,275278.35,22939.86,81789.5,0
+PRJ-FIN-1133,R&D Innovation,Marketing Campaigns,Tokyo,Q3,Tier 2,42,Female,69,4.0,58.8,Medium,246012.71,243991.6,20332.63,-2021.11,1
+PRJ-FIN-1134,IT & Cloud,Software Licenses,London,Q1,Tier 1,37,Female,19,11.0,59.7,Medium,152835.95,143551.84,11962.65,-9284.11,1
+PRJ-FIN-1135,Sales Operations,Software Licenses,Tokyo,Q2,Tier 1,57,Female,49,30.0,86.8,Critical,152706.02,179329.65,14944.14,26623.63,0
+PRJ-FIN-1136,Sales Operations,Staff Augmentation,New York,Q2,Tier 2,58,Male,5,13.0,71.7,Medium,85237.85,80067.55,6672.3,-5170.3,1
+PRJ-FIN-1137,IT & Cloud,Hardware Upgrades,New York,Q2,Tier 2,39,Male,28,10.0,62.1,Medium,127376.3,128144.75,10678.73,768.45,1
+PRJ-FIN-1138,Legal & Compliance,Facility Operations,Singapore,Q3,Tier 2,41,Male,98,10.0,54.1,High,132659.44,146837.97,12236.5,14178.53,0
+PRJ-FIN-1139,IT & Cloud,Marketing Campaigns,Chicago,Q4,Tier 1,43,Female,77,26.0,65.2,Critical,198004.6,252164.99,21013.75,54160.39,0
+PRJ-FIN-1140,Sales Operations,Staff Augmentation,New York,Q1,Tier 1,56,Female,38,25.0,55.8,High,107019.04,112241.32,9353.44,5222.28,0
+PRJ-FIN-1141,IT & Cloud,Consulting Services,Singapore,Q1,Tier 2,39,Male,23,5.0,94.7,Low,152820.34,135083.86,11256.99,-17736.48,1
+PRJ-FIN-1142,Finance & Accounting,Facility Operations,San Francisco,Q4,Tier 2,33,Female,102,6.0,62.2,Medium,137509.4,164089.86,13674.16,26580.46,0
+PRJ-FIN-1143,Legal & Compliance,Facility Operations,Chicago,Q1,Tier 1,44,Male,50,3.0,77.2,,151891.93,122416.86,10201.41,-29475.07,1
+PRJ-FIN-1144,Finance & Accounting,Cloud Infrastructure,Tokyo,Q4,Tier 1,54,Male,77,5.0,62.6,Medium,156173.81,187557.77,15629.81,31383.96,0
+PRJ-FIN-1145,Engineering,Hardware Upgrades,San Francisco,Q1,Tier 1,46,Male,16,5.0,34.5,High,147192.67,141073.97,11756.16,-6118.7,1
+PRJ-FIN-1146,Legal & Compliance,Facility Operations,Tokyo,Q4,Tier 1,49,Female,50,13.0,69.3,Medium,68362.57,70061.01,5838.42,1698.44,0
+PRJ-FIN-1147,Sales Operations,Software Licenses,Berlin,Q4,Tier 1,30,Male,99,6.0,85.1,Low,209333.86,190285.79,15857.15,-19048.07,1
+PRJ-FIN-1148,Engineering,Marketing Campaigns,Berlin,Q1,Tier 1,33,Male,102,3.0,93.6,Low,219686.69,180817.63,15068.14,-38869.06,1
+PRJ-FIN-1149,Human Resources,Consulting Services,Tokyo,Q2,Tier 1,55,Male,15,4.0,56.7,Medium,69837.89,69070.91,5755.91,-766.98,1
+PRJ-FIN-1150,Engineering,Consulting Services,Sydney,Q4,Tier 3,48,Male,69,9.0,81.9,Low,253211.68,268488.34,22374.03,15276.66,0
+PRJ-FIN-1151,Human Resources,Software Licenses,San Francisco,Q3,Tier 2,33,Male,43,10.0,84.7,Medium,91131.65,86862.42,7238.54,-4269.23,1
+PRJ-FIN-1152,IT & Cloud,Marketing Campaigns,Sydney,Q1,Tier 1,29,Female,9,8.0,88.3,Low,132165.4,96447.27,8037.27,-35718.13,1
+PRJ-FIN-1153,Legal & Compliance,Software Licenses,London,Q2,Tier 1,35,Female,89,9.0,70.9,Medium,126207.2,116590.24,9715.85,-9616.96,1
+PRJ-FIN-1154,Engineering,Cloud Infrastructure,Tokyo,Q2,Tier 3,31,Female,91,17.0,70.5,Medium,256676.05,265802.54,22150.21,9126.49,0
+PRJ-FIN-1155,Sales Operations,Cloud Infrastructure,London,Q2,Tier 1,56,Male,65,3.0,63.8,Medium,200991.74,204042.84,17003.57,3051.1,1
+PRJ-FIN-1156,Legal & Compliance,Cloud Infrastructure,New York,Q3,Tier 1,49,Male,103,15.0,73.7,Medium,135173.06,129446.27,10787.19,-5726.79,1
+PRJ-FIN-1157,R&D Innovation,Marketing Campaigns,Singapore,Q3,Tier 1,53,Male,99,9.0,83.8,Low,255973.84,216784.24,18065.35,-39189.6,1
+PRJ-FIN-1158,IT & Cloud,Software Licenses,New York,Q4,Tier 1,38,Female,79,9.0,68.7,Medium,237463.13,286283.82,23856.98,48820.69,0
+PRJ-FIN-1159,R&D Innovation,Software Licenses,Bangalore,Q2,Tier 1,40,Male,42,15.0,62.9,Medium,125827.38,110449.12,9204.09,-15378.26,1
+PRJ-FIN-1160,Marketing & Growth,Hardware Upgrades,Chicago,Q3,Tier 2,49,Male,26,27.0,82.9,Critical,149721.57,183857.57,15321.46,34136.0,0
+PRJ-FIN-1161,R&D Innovation,Software Licenses,Tokyo,Q1,Tier 1,55,Non-Binary,95,14.0,62.6,Medium,222322.42,219345.58,18278.8,-2976.84,1
+PRJ-FIN-1162,Sales Operations,Cloud Infrastructure,Bangalore,Q2,Tier 3,49,Female,57,5.0,59.8,Medium,142799.85,132819.44,11068.29,-9980.41,1
+PRJ-FIN-1163,Engineering,Staff Augmentation,London,Q1,Tier 1,50,Female,45,3.0,83.1,Low,203475.18,163979.87,13664.99,-39495.31,1
+PRJ-FIN-1164,Sales Operations,Software Licenses,New York,Q1,Tier 1,33,Female,12,7.0,64.7,Medium,70109.76,65523.26,5460.27,-4586.5,1
+PRJ-FIN-1165,Marketing & Growth,Cloud Infrastructure,London,Q2,Tier 1,40,Female,78,,,High,128459.19,151165.21,12597.1,22706.02,0
+PRJ-FIN-1166,Sales Operations,Consulting Services,New York,Q3,Tier 1,30,Female,91,8.0,61.9,Medium,151163.27,144726.39,12060.53,-6436.88,1
+PRJ-FIN-1167,Marketing & Growth,Hardware Upgrades,Chicago,Q2,Tier 3,55,Male,10,9.0,,High,136413.32,151723.71,12643.64,15310.39,0
+PRJ-FIN-1168,Engineering,Software Licenses,New York,Q3,Tier 3,48,Male,78,13.0,56.8,Medium,229407.33,229188.99,19099.08,-218.34,1
+PRJ-FIN-1169,Finance & Accounting,Staff Augmentation,Toronto,Q2,Tier 3,33,Female,109,44.0,75.3,Critical,122629.97,156060.08,13005.01,33430.11,0
+PRJ-FIN-1170,Human Resources,Consulting Services,Bangalore,Q3,Tier 2,32,Female,79,4.0,97.0,Low,97379.66,87318.77,7276.56,-10060.89,1
+PRJ-FIN-1171,Legal & Compliance,Facility Operations,Bangalore,Q3,Tier 2,36,Female,56,9.0,43.7,High,79842.05,90389.59,7532.47,10547.54,0
+PRJ-FIN-1172,Engineering,Software Licenses,San Francisco,Q2,Tier 1,46,Male,12,25.0,77.2,High,110195.59,137843.0,11486.92,27647.41,0
+PRJ-FIN-1173,Sales Operations,Staff Augmentation,Tokyo,Q2,Tier 3,43,Female,23,48.0,,Critical,114700.68,137912.95,11492.75,23212.27,0
+PRJ-FIN-1174,IT & Cloud,Staff Augmentation,Singapore,Q2,Tier 2,45,Male,10,5.0,83.0,Low,146277.33,138203.55,11516.96,-8073.78,1
+PRJ-FIN-1175,Engineering,Marketing Campaigns,London,Q1,Tier 1,47,Female,39,9.0,47.8,High,161218.37,182398.82,15199.9,21180.45,0
+PRJ-FIN-1176,Human Resources,Hardware Upgrades,London,Q2,Tier 1,36,Male,66,12.0,52.8,High,132662.29,154949.47,12912.46,22287.18,0
+PRJ-FIN-1177,Legal & Compliance,Marketing Campaigns,San Francisco,Q2,Tier 2,29,Female,87,,59.4,Medium,94033.07,89508.93,7459.08,-4524.14,1
+PRJ-FIN-1178,Legal & Compliance,Staff Augmentation,San Francisco,Q4,Tier 1,44,Male,15,6.0,80.9,Low,71712.47,71489.83,5957.49,-222.64,1
+PRJ-FIN-1179,Finance & Accounting,Software Licenses,Tokyo,Q2,Tier 1,33,Female,34,6.0,47.8,High,129373.67,138611.44,11550.95,9237.77,0
+PRJ-FIN-1180,Legal & Compliance,Software Licenses,New York,Q2,Tier 1,53,Male,96,30.0,77.1,Critical,118537.92,146056.98,12171.42,27519.06,0
+PRJ-FIN-1181,Marketing & Growth,Marketing Campaigns,San Francisco,Q4,Tier 3,45,Female,103,4.0,51.6,High,204000.47,257843.51,21486.96,53843.04,0
+PRJ-FIN-1182,IT & Cloud,Cloud Infrastructure,Singapore,Q3,Tier 2,35,Male,76,9.0,82.7,Low,210278.05,199346.78,16612.23,-10931.27,1
+PRJ-FIN-1183,Engineering,Facility Operations,Sydney,Q4,Tier 2,34,Male,91,18.0,88.0,Medium,191617.6,224101.27,18675.11,32483.67,0
+PRJ-FIN-1184,Engineering,Hardware Upgrades,London,Q1,Tier 1,43,Male,79,9.0,86.2,Low,216849.12,164671.0,13722.58,-52178.12,1
+PRJ-FIN-1185,IT & Cloud,Staff Augmentation,Chicago,Q4,Tier 2,34,Female,37,6.0,70.3,Medium,143458.58,164872.79,13739.4,21414.21,0
+PRJ-FIN-1186,Engineering,Hardware Upgrades,Bangalore,Q2,Tier 3,39,Female,24,18.0,69.0,Medium,128880.22,110961.64,9246.8,-17918.58,1
+PRJ-FIN-1187,R&D Innovation,Staff Augmentation,New York,Q3,Tier 1,40,Male,71,13.0,67.1,Medium,133088.88,136211.31,11350.94,3122.43,0
+PRJ-FIN-1188,Finance & Accounting,Hardware Upgrades,New York,Q1,Tier 1,61,Female,31,11.0,54.2,High,105791.76,116122.95,9676.91,10331.19,0
+PRJ-FIN-1189,Legal & Compliance,Cloud Infrastructure,Singapore,Q4,Tier 1,48,Non-Binary,31,,,High,63964.86,77964.56,6497.05,13999.7,0
+PRJ-FIN-1190,Sales Operations,Consulting Services,Bangalore,Q2,Tier 2,27,Female,68,4.0,58.7,Medium,194325.71,184732.35,15394.36,-9593.36,1
+PRJ-FIN-1191,Marketing & Growth,Cloud Infrastructure,San Francisco,Q1,Tier 1,40,Male,55,18.0,75.9,Medium,121858.53,115137.41,9594.78,-6721.12,1
+PRJ-FIN-1192,Engineering,Consulting Services,Singapore,Q3,Tier 2,37,Male,101,14.0,82.5,Medium,225819.87,225023.11,18751.93,-796.76,1
+PRJ-FIN-1193,Marketing & Growth,Hardware Upgrades,Bangalore,Q1,Tier 3,34,Female,14,8.0,77.3,Low,90913.91,75136.9,6261.41,-15777.01,1
+PRJ-FIN-1194,Sales Operations,Hardware Upgrades,New York,Q3,Tier 1,48,Female,72,4.0,56.4,Medium,159606.92,178257.23,14854.77,18650.31,0
+PRJ-FIN-1195,Human Resources,Cloud Infrastructure,New York,Q2,Tier 3,48,Female,74,4.0,69.2,,134328.47,142092.15,11841.01,7763.68,0
+PRJ-FIN-1196,IT & Cloud,Marketing Campaigns,New York,Q2,Tier 2,40,Female,6,4.0,49.6,High,163040.75,184923.92,15410.33,21883.17,0
+PRJ-FIN-1197,Finance & Accounting,Cloud Infrastructure,Singapore,Q2,Tier 1,42,Male,54,5.0,53.1,High,151553.36,161152.64,13429.39,9599.28,0
+PRJ-FIN-1198,IT & Cloud,Hardware Upgrades,New York,Q3,Tier 3,35,Male,104,7.0,65.7,Medium,313386.22,312356.42,26029.7,-1029.8,1
+PRJ-FIN-1199,Sales Operations,Software Licenses,New York,Q2,Tier 2,57,Male,26,6.0,81.2,Low,101520.28,101169.08,8430.76,-351.2,1
+PRJ-FIN-1200,Marketing & Growth,Marketing Campaigns,Chicago,Q1,Tier 1,27,Male,52,37.0,68.5,Critical,129206.0,155623.16,12968.6,26417.16,0
+PRJ-FIN-1201,Engineering,Facility Operations,San Francisco,Q3,Tier 3,54,Female,32,5.0,65.5,Medium,199849.36,194050.22,16170.85,-5799.14,1
+PRJ-FIN-1202,Sales Operations,Staff Augmentation,New York,Q2,Tier 3,52,Male,69,17.0,90.8,Medium,170617.94,166074.87,13839.57,-4543.07,1
+PRJ-FIN-1203,IT & Cloud,Marketing Campaigns,Berlin,Q3,Tier 1,44,Female,84,12.0,76.1,Medium,203455.0,189124.98,15760.42,-14330.02,1
+PRJ-FIN-1204,Human Resources,Hardware Upgrades,Singapore,Q3,Tier 2,27,Male,55,29.0,50.3,Critical,101915.22,116435.07,9702.92,14519.85,0
+PRJ-FIN-1205,Marketing & Growth,Facility Operations,San Francisco,Q3,Tier 3,50,Female,98,13.0,82.8,Medium,213978.84,187905.59,15658.8,-26073.25,1
+PRJ-FIN-1206,Engineering,Consulting Services,London,Q2,Tier 1,36,Male,59,35.0,63.4,Critical,183454.77,226840.48,18903.37,43385.71,0
+PRJ-FIN-1207,Marketing & Growth,Staff Augmentation,London,Q2,Tier 1,34,Non-Binary,8,8.0,50.8,,98785.87,107102.0,8925.17,8316.13,0
+PRJ-FIN-1208,Engineering,Software Licenses,New York,Q1,Tier 1,32,Non-Binary,101,9.0,74.0,Medium,220678.15,204163.68,17013.64,-16514.47,1
+PRJ-FIN-1209,Marketing & Growth,Cloud Infrastructure,Tokyo,Q2,Tier 3,24,Female,7,6.0,73.9,Medium,138013.96,124559.46,10379.96,-13454.5,1
+PRJ-FIN-1210,R&D Innovation,Marketing Campaigns,Singapore,Q3,Tier 1,43,Male,28,6.0,48.4,High,177736.7,217936.34,18161.36,40199.64,0
+PRJ-FIN-1211,Finance & Accounting,Software Licenses,Bangalore,Q1,Tier 2,39,Male,11,39.0,91.3,Critical,86522.26,93355.18,7779.6,6832.92,0
+PRJ-FIN-1212,Marketing & Growth,Hardware Upgrades,Bangalore,Q3,Tier 2,24,Female,35,5.0,57.4,Medium,165014.38,157940.8,13161.73,-7073.58,1
+PRJ-FIN-1213,Marketing & Growth,Cloud Infrastructure,Singapore,Q3,Tier 2,56,Female,16,7.0,59.1,Medium,100075.56,103401.6,8616.8,3326.04,0
+PRJ-FIN-1214,IT & Cloud,Software Licenses,Sydney,Q2,Tier 2,39,Male,43,8.0,49.6,High,142222.07,158909.61,13242.47,16687.54,0
+PRJ-FIN-1215,Sales Operations,Facility Operations,New York,Q3,Tier 2,33,Male,44,6.0,48.6,High,157615.34,176343.6,14695.3,18728.26,0
+PRJ-FIN-1216,Finance & Accounting,Consulting Services,New York,Q1,Tier 1,27,Non-Binary,66,26.0,97.6,Critical,121362.08,133897.92,11158.16,12535.84,0
+PRJ-FIN-1217,Marketing & Growth,Cloud Infrastructure,San Francisco,Q2,Tier 1,50,Female,22,11.0,49.5,High,125014.24,136923.36,11410.28,11909.12,0
+PRJ-FIN-1218,Finance & Accounting,Marketing Campaigns,New York,Q3,Tier 1,38,Female,48,5.0,59.1,Medium,115513.43,119115.39,9926.28,3601.96,0
+PRJ-FIN-1219,Finance & Accounting,Software Licenses,Singapore,Q2,Tier 3,39,Male,25,21.0,57.5,High,94337.37,287771.23199999996,23980.94,193433.86199999996,0
+PRJ-FIN-1220,IT & Cloud,Facility Operations,New York,Q4,Tier 1,40,Female,27,36.0,37.3,Critical,178288.29,275364.2,22947.02,97075.91,0
+PRJ-FIN-1221,Sales Operations,Facility Operations,Singapore,Q1,Tier 1,43,Male,13,17.0,58.0,Medium,111157.24,105087.67,8757.31,-6069.57,1
+PRJ-FIN-1222,Legal & Compliance,Facility Operations,New York,Q1,Tier 3,43,Female,103,8.0,69.0,Medium,133830.71,115797.95,9649.83,-18032.76,1
+PRJ-FIN-1223,IT & Cloud,Marketing Campaigns,Tokyo,Q1,Tier 3,49,Female,103,7.0,67.1,Medium,275793.67,255642.46,21303.54,-20151.21,1
+PRJ-FIN-1224,Human Resources,Facility Operations,San Francisco,Q2,Tier 2,41,Male,24,11.0,42.8,High,54141.1,61179.36,5098.28,7038.26,0
+PRJ-FIN-1225,R&D Innovation,Software Licenses,Berlin,Q1,Tier 1,51,Female,38,21.0,82.4,High,191738.41,182495.11,15207.93,-9243.3,1
+PRJ-FIN-1226,IT & Cloud,Consulting Services,Tokyo,Q3,Tier 1,37,Male,89,22.0,49.5,High,232281.27,279948.93,23329.08,47667.66,0
+PRJ-FIN-1227,Marketing & Growth,Cloud Infrastructure,Tokyo,Q4,Tier 2,34,Male,41,20.0,68.1,High,155882.78,180662.94,15055.24,24780.16,0
+PRJ-FIN-1228,Marketing & Growth,Marketing Campaigns,Bangalore,Q2,Tier 1,38,Non-Binary,22,3.0,68.0,Medium,113243.1,104901.96,8741.83,-8341.14,1
+PRJ-FIN-1229,Sales Operations,Cloud Infrastructure,London,Q4,Tier 1,40,Non-Binary,76,12.0,78.4,Medium,151582.57,172568.36,14380.7,20985.79,0
+PRJ-FIN-1230,Engineering,Cloud Infrastructure,San Francisco,Q1,Tier 3,47,Non-Binary,57,9.0,68.8,Medium,115662.63,116658.32,9721.53,995.69,1
+PRJ-FIN-1231,Marketing & Growth,Staff Augmentation,New York,Q1,Tier 1,48,Male,85,5.0,75.7,Low,216082.26,194934.86,16244.57,-21147.4,1
+PRJ-FIN-1232,Engineering,Marketing Campaigns,Singapore,Q2,Tier 2,47,Male,88,31.0,70.6,Critical,227674.67,262225.53,21852.13,34550.86,0
+PRJ-FIN-1233,Sales Operations,Staff Augmentation,San Francisco,Q3,Tier 1,46,Male,46,13.0,70.2,Medium,122257.88,125623.87,10468.66,3365.99,0
+PRJ-FIN-1234,Engineering,Facility Operations,Bangalore,Q3,Tier 1,42,Female,100,11.0,82.5,Medium,215219.29,221163.19,18430.27,5943.9,0
+PRJ-FIN-1235,R&D Innovation,Consulting Services,Singapore,Q2,Tier 1,38,Male,54,20.0,55.8,High,176714.2,215601.91,17966.83,38887.71,0
+PRJ-FIN-1236,Legal & Compliance,Hardware Upgrades,San Francisco,Q2,Tier 1,39,Male,36,48.0,79.4,Critical,97161.8,105974.32,8831.19,8812.52,0
+PRJ-FIN-1237,IT & Cloud,Cloud Infrastructure,New York,Q2,Tier 1,51,Male,40,7.0,64.1,Medium,145823.14,148746.87,12395.57,2923.73,0
+PRJ-FIN-1238,Finance & Accounting,Hardware Upgrades,New York,Q4,Tier 2,50,Male,51,6.0,77.1,Low,108702.4,105528.41,8794.03,-3173.99,1
+PRJ-FIN-1239,Legal & Compliance,Cloud Infrastructure,New York,Q4,Tier 1,46,Female,91,16.0,45.4,High,125419.46,145510.64,12125.89,20091.18,0
+PRJ-FIN-1240,Sales Operations,Hardware Upgrades,New York,Q3,Tier 2,44,Female,107,3.0,78.6,Low,191347.32,191272.88,15939.41,-74.44,1
+PRJ-FIN-1241,Marketing & Growth,Staff Augmentation,Bangalore,Q2,Tier 1,48,Female,92,4.0,77.0,Low,183165.92,162605.02,13550.42,-20560.9,1
+PRJ-FIN-1242,Human Resources,Cloud Infrastructure,Bangalore,Q4,Tier 3,39,Male,53,14.0,82.7,Medium,110391.01,115839.85,9653.32,5448.84,0
+PRJ-FIN-1243,IT & Cloud,Marketing Campaigns,New York,Q2,Tier 3,31,Male,5,12.0,45.1,High,69694.36,83927.51,6993.96,14233.15,0
+PRJ-FIN-1244,Engineering,Marketing Campaigns,Bangalore,Q3,Tier 2,30,Male,6,8.0,79.6,Low,174341.83,175911.79,14659.32,1569.96,1
+PRJ-FIN-1245,Engineering,Hardware Upgrades,Bangalore,Q4,Tier 3,41,Male,49,7.0,69.2,Medium,277326.64,312985.39,26082.12,35658.75,0
+PRJ-FIN-1246,Engineering,Cloud Infrastructure,San Francisco,Q4,Tier 2,35,Female,96,5.0,57.5,Medium,234485.22,280857.2,23404.77,46371.98,0
+PRJ-FIN-1247,Finance & Accounting,Hardware Upgrades,London,Q1,Tier 2,44,Female,16,5.0,60.9,Medium,79309.85,69782.61,5815.22,-9527.24,1
+PRJ-FIN-1248,R&D Innovation,Software Licenses,New York,Q1,Tier 2,60,Female,76,9.0,42.8,High,328006.45,345107.23,28758.94,17100.78,0
+PRJ-FIN-1249,Marketing & Growth,Hardware Upgrades,New York,Q2,Tier 1,34,Female,73,6.0,61.2,Medium,204494.98,209951.32,17495.94,5456.34,0
+PRJ-FIN-1250,IT & Cloud,Hardware Upgrades,Bangalore,Q4,Tier 1,41,Male,105,6.0,68.5,Medium,168438.5,199435.46,16619.62,30996.96,0
+PRJ-FIN-1251,Sales Operations,Marketing Campaigns,Tokyo,Q2,Tier 1,24,Male,106,6.0,64.5,Medium,239308.64,226139.94,18845.0,-13168.7,1
+PRJ-FIN-1252,Engineering,Facility Operations,Tokyo,Q3,Tier 2,60,Female,69,23.0,69.7,High,210523.68,253491.54,21124.3,42967.86,0
+PRJ-FIN-1253,Marketing & Growth,Consulting Services,Tokyo,Q2,Tier 2,45,Female,99,,55.3,Medium,204567.14,204378.16,17031.51,-188.98,1
+PRJ-FIN-1254,IT & Cloud,Consulting Services,Sydney,Q1,Tier 1,45,Female,17,3.0,97.3,Low,116269.97,101902.97,8491.91,-14367.0,1
+PRJ-FIN-1255,Engineering,Consulting Services,London,Q2,Tier 1,46,Female,69,6.0,61.0,Medium,227071.4,209084.16,17423.68,-17987.24,1
+PRJ-FIN-1256,Human Resources,Consulting Services,San Francisco,Q2,Tier 2,50,Male,53,18.0,59.4,Medium,105516.98,105213.19,8767.77,-303.79,1
+PRJ-FIN-1257,Marketing & Growth,Hardware Upgrades,London,Q2,Tier 2,41,Female,80,4.0,76.0,Low,171184.44,151301.99,12608.5,-19882.45,1
+PRJ-FIN-1258,Sales Operations,Hardware Upgrades,Singapore,Q3,Tier 1,24,Male,98,7.0,67.3,Medium,155930.52,160489.02,13374.08,4558.5,0
+PRJ-FIN-1259,Finance & Accounting,Software Licenses,London,Q3,Tier 1,43,Male,68,10.0,73.7,Medium,116357.05,109796.04,9149.67,-6561.01,1
+PRJ-FIN-1260,Legal & Compliance,Cloud Infrastructure,Tokyo,Q2,Tier 2,31,Male,40,10.0,60.3,Medium,97630.38,104406.57,8700.55,6776.19,0
+PRJ-FIN-1261,Human Resources,Consulting Services,Bangalore,Q3,Tier 2,54,Female,60,12.0,81.0,Medium,101854.16,102263.03,8521.92,408.87,1
+PRJ-FIN-1262,Finance & Accounting,Facility Operations,San Francisco,Q3,Tier 2,36,Female,53,3.0,87.8,Low,159993.65,170770.82,14230.9,10777.17,0
+PRJ-FIN-1263,Engineering,Facility Operations,San Francisco,Q2,Tier 1,59,Female,25,11.0,62.6,Medium,106017.72,106409.46,8867.46,391.74,1
+PRJ-FIN-1264,Engineering,Hardware Upgrades,Sydney,Q3,Tier 2,46,Male,76,34.0,62.2,Critical,249141.68,313144.01,26095.33,64002.33,0
+PRJ-FIN-1265,Human Resources,Consulting Services,New York,Q2,Tier 2,33,Female,32,18.0,54.5,High,94264.86,94138.28,7844.86,-126.58,1
+PRJ-FIN-1266,Sales Operations,Facility Operations,Toronto,Q2,Tier 1,43,Male,84,12.0,67.0,Medium,175979.82,194858.6,16238.22,18878.78,0
+PRJ-FIN-1267,Engineering,Consulting Services,London,Q1,Tier 1,44,Female,11,16.0,58.2,Medium,175625.94,147152.3,12262.69,-28473.64,1
+PRJ-FIN-1268,IT & Cloud,Cloud Infrastructure,London,Q1,Tier 2,36,Female,94,3.0,57.7,Medium,217935.18,217466.94,18122.24,-468.24,1
+PRJ-FIN-1269,Engineering,Consulting Services,Sydney,Q4,Tier 2,46,Female,36,7.0,51.6,High,159221.12,210685.04,17557.09,51463.92,0
+PRJ-FIN-1270,Marketing & Growth,Marketing Campaigns,Bangalore,Q1,Tier 2,43,Male,62,9.0,69.2,Medium,136868.53,123338.27,10278.19,-13530.26,1
+PRJ-FIN-1271,Human Resources,Staff Augmentation,Berlin,Q1,Tier 2,40,Male,8,5.0,62.8,Medium,48734.54,47330.47,3944.21,-1404.07,1
+PRJ-FIN-1272,Legal & Compliance,Consulting Services,New York,Q4,Tier 3,38,Male,17,13.0,,Medium,69975.53,77269.1,6439.09,7293.57,0
+PRJ-FIN-1273,Finance & Accounting,Hardware Upgrades,New York,Q3,Tier 1,41,Female,94,10.0,55.0,High,164471.8,182017.63,15168.14,17545.83,0
+PRJ-FIN-1274,Sales Operations,Marketing Campaigns,Singapore,Q1,Tier 3,43,Female,35,14.0,57.9,Medium,116935.05,123655.15,10304.6,6720.1,0
+PRJ-FIN-1275,Human Resources,Marketing Campaigns,Singapore,Q3,Tier 3,42,Male,45,7.0,65.9,Medium,91307.17,93781.22,7815.1,2474.05,0
+PRJ-FIN-1276,IT & Cloud,Consulting Services,London,Q3,Tier 2,28,Male,90,6.0,63.1,Medium,245255.5,256269.54,21355.8,11014.04,0
+PRJ-FIN-1277,Human Resources,Cloud Infrastructure,Bangalore,Q2,Tier 3,51,Male,10,25.0,83.7,High,77591.63,79896.63,6658.05,2305.0,0
+PRJ-FIN-1278,IT & Cloud,Facility Operations,Singapore,Q4,Tier 2,32,Male,26,4.0,48.9,High,125604.83,160014.51,13334.54,34409.68,0
+PRJ-FIN-1279,IT & Cloud,Software Licenses,Singapore,Q1,Tier 1,42,Female,41,7.0,97.8,Low,148484.6,129014.13,10751.18,-19470.47,1
+PRJ-FIN-1280,Finance & Accounting,Facility Operations,San Francisco,Q1,Tier 1,52,Female,86,6.0,84.1,Low,171279.28,126626.93,10552.24,-44652.35,1
+PRJ-FIN-1281,Engineering,Software Licenses,San Francisco,Q3,Tier 2,36,Female,7,6.0,84.0,Low,111485.49,89911.68,7492.64,-21573.81,1
+PRJ-FIN-1282,Sales Operations,Marketing Campaigns,San Francisco,Q1,Tier 1,43,Male,109,3.0,55.6,Medium,240816.52,211260.84,17605.07,-29555.68,1
+PRJ-FIN-1283,IT & Cloud,Software Licenses,Singapore,Q2,Tier 2,40,Female,13,12.0,81.6,Medium,148891.32,141538.15,11794.85,-7353.17,1
+PRJ-FIN-1284,IT & Cloud,Consulting Services,Bangalore,Q3,Tier 2,34,Female,43,7.0,68.9,Medium,143683.11,148641.5,12386.79,4958.39,0
+PRJ-FIN-1285,IT & Cloud,Staff Augmentation,San Francisco,Q3,Tier 1,30,Female,8,15.0,62.5,Medium,122431.13,134207.72,11183.98,11776.59,0
+PRJ-FIN-1286,Engineering,Software Licenses,Sydney,Q2,Tier 1,53,Female,24,18.0,77.9,Medium,165679.39,146660.75,12221.73,-19018.64,1
+PRJ-FIN-1287,Sales Operations,Staff Augmentation,Bangalore,Q2,Tier 3,43,Male,11,28.0,87.3,Critical,133823.05,,,48952.47,0
+PRJ-FIN-1288,Engineering,Cloud Infrastructure,San Francisco,Q1,Tier 2,26,Female,57,4.0,92.3,Low,209763.61,186251.45,15520.95,-23512.16,1
+PRJ-FIN-1289,R&D Innovation,Facility Operations,Bangalore,Q4,Tier 1,45,Female,88,5.0,68.8,Medium,174834.29,187544.71,15628.73,12710.42,0
+PRJ-FIN-1290,Engineering,Facility Operations,London,Q2,Tier 1,52,Female,63,17.0,70.7,Medium,166451.99,148577.4,12381.45,-17874.59,1
+PRJ-FIN-1291,Finance & Accounting,Consulting Services,Bangalore,Q3,Tier 1,39,Female,28,21.0,66.7,High,60675.05,67728.44,5644.04,7053.39,0
+PRJ-FIN-1292,Finance & Accounting,Facility Operations,New York,Q2,Tier 1,39,Male,107,14.0,99.0,Medium,164697.8,160818.14,13401.51,-3879.66,1
+PRJ-FIN-1293,R&D Innovation,Marketing Campaigns,Bangalore,Q1,Tier 1,25,Male,94,20.0,78.7,High,268347.77,290839.83,24236.65,22492.06,0
+PRJ-FIN-1294,Human Resources,Software Licenses,New York,Q4,Tier 2,50,Male,49,3.0,67.7,Medium,123541.88,135457.53,11288.13,11915.65,0
+PRJ-FIN-1295,Engineering,Consulting Services,New York,Q1,Tier 2,56,Female,45,16.0,56.9,Medium,169663.36,146268.98,12189.08,-23394.38,1
+PRJ-FIN-1296,Engineering,Consulting Services,New York,Q3,Tier 2,38,Male,58,,54.0,High,175849.78,210461.55,17538.46,34611.77,0
+PRJ-FIN-1297,Finance & Accounting,Software Licenses,San Francisco,Q3,Tier 2,46,Female,49,5.0,,Low,148532.69,124902.48,10408.54,-23630.21,1
+PRJ-FIN-1298,Engineering,Consulting Services,San Francisco,Q2,Tier 3,31,Female,42,3.0,64.1,Medium,209309.31,201270.21,16772.52,-8039.1,1
+PRJ-FIN-1299,Engineering,Hardware Upgrades,Singapore,Q1,Tier 1,37,Female,56,9.0,66.7,Medium,271972.36,221138.02,18428.17,-50834.34,1
+PRJ-FIN-1300,Finance & Accounting,Staff Augmentation,Tokyo,Q3,Tier 3,40,Female,30,13.0,85.4,Medium,85112.95,78118.06,6509.84,-6994.89,1
+PRJ-FIN-1301,Marketing & Growth,Marketing Campaigns,Berlin,Q1,Tier 1,44,Female,82,13.0,38.9,High,159422.0,168352.9,14029.41,8930.9,0
+PRJ-FIN-1302,IT & Cloud,Staff Augmentation,San Francisco,Q1,Tier 3,24,Female,71,5.0,63.2,Medium,154999.49,151898.32,12658.19,-3101.17,1
+PRJ-FIN-1303,Sales Operations,Facility Operations,Chicago,Q2,Tier 1,36,Male,45,4.0,52.1,High,183847.13,233762.46,19480.2,49915.33,0
+PRJ-FIN-1304,Engineering,Facility Operations,Tokyo,Q1,Tier 3,36,Male,94,7.0,86.6,Low,218605.35,188948.68,15745.72,-29656.67,1
+PRJ-FIN-1305,Marketing & Growth,Consulting Services,San Francisco,Q2,Tier 1,35,Female,30,4.0,59.0,Medium,108246.61,104025.8,8668.82,-4220.81,1
+PRJ-FIN-1306,R&D Innovation,Hardware Upgrades,New York,Q2,Tier 2,42,Female,69,19.0,65.9,Medium,196516.73,204950.97,17079.25,8434.24,0
+PRJ-FIN-1307,Marketing & Growth,Marketing Campaigns,Bangalore,Q3,Tier 1,46,Male,15,6.0,59.4,,74077.36,72112.67,6009.39,-1964.69,1
+PRJ-FIN-1308,Sales Operations,Staff Augmentation,Bangalore,Q4,Tier 3,42,Female,109,21.0,77.7,High,187209.91,209760.82,17480.07,22550.91,0
+PRJ-FIN-1309,Engineering,Cloud Infrastructure,Bangalore,Q2,Tier 1,38,Male,87,8.0,75.9,Low,251746.33,233907.94,19492.33,-17838.39,1
+PRJ-FIN-1310,Sales Operations,Staff Augmentation,London,Q3,Tier 1,44,Female,102,12.0,79.2,Medium,161787.9,158480.85,13206.74,-3307.05,1
+PRJ-FIN-1311,Finance & Accounting,Consulting Services,Chicago,Q1,Tier 2,32,Male,101,6.0,,Medium,150800.52,148228.56,12352.38,-2571.96,1
+PRJ-FIN-1312,Human Resources,Consulting Services,Bangalore,Q1,Tier 1,33,Female,89,17.0,38.4,High,91485.91,107466.75,8955.56,15980.84,0
+PRJ-FIN-1313,Engineering,Hardware Upgrades,Sydney,Q3,Tier 1,35,Female,23,19.0,52.2,High,158242.45,189329.36,15777.45,31086.91,0
+PRJ-FIN-1314,Engineering,Facility Operations,Tokyo,Q2,Tier 1,39,Female,44,6.0,34.4,High,161089.96,167432.05,13952.67,6342.09,0
+PRJ-FIN-1315,Engineering,Software Licenses,Toronto,Q4,Tier 2,40,Female,31,21.0,72.6,High,159299.55,177401.45,14783.45,18101.9,0
+PRJ-FIN-1316,Marketing & Growth,Consulting Services,New York,Q4,Tier 3,63,Female,84,4.0,65.1,Medium,174933.25,184262.69,15355.22,9329.44,0
+PRJ-FIN-1317,Sales Operations,Cloud Infrastructure,Bangalore,Q2,Tier 1,25,Female,20,26.0,71.5,Critical,190726.18,235796.05,19649.67,45069.87,0
+PRJ-FIN-1318,Legal & Compliance,Staff Augmentation,Bangalore,Q4,Tier 1,37,Female,93,3.0,66.8,Medium,101744.5,109462.6,9121.88,7718.1,0
+PRJ-FIN-1319,R&D Innovation,Marketing Campaigns,New York,Q2,Tier 1,25,Female,47,11.0,62.2,Medium,217077.2,199464.15,16622.01,-17613.05,1
+PRJ-FIN-1320,Engineering,Cloud Infrastructure,London,Q3,Tier 2,33,Male,32,23.0,57.2,High,233283.97,244040.47,20336.71,10756.5,0
+PRJ-FIN-1321,IT & Cloud,Software Licenses,Tokyo,Q4,Tier 2,33,Female,85,3.0,63.6,Medium,154447.16,159071.24,13255.94,4624.08,0
+PRJ-FIN-1322,Human Resources,Cloud Infrastructure,Sydney,Q1,Tier 1,38,Female,34,14.0,67.3,Medium,67908.58,70553.03,5879.42,2644.45,0
+PRJ-FIN-1323,Marketing & Growth,Facility Operations,Tokyo,Q1,Tier 1,35,Female,67,5.0,78.4,Low,162706.68,139523.32,11626.94,-23183.36,1
+PRJ-FIN-1324,Finance & Accounting,Hardware Upgrades,Bangalore,Q4,Tier 1,48,Female,67,25.0,97.4,High,87963.75,98514.71,8209.56,10550.96,0
+PRJ-FIN-1325,Sales Operations,Cloud Infrastructure,Chicago,Q1,Tier 2,55,Male,103,8.0,57.3,Medium,184435.37,185391.38,15449.28,956.01,1
+PRJ-FIN-1326,Sales Operations,Hardware Upgrades,New York,Q4,Tier 2,41,Female,17,4.0,63.5,Medium,94105.88,92630.77,7719.23,-1475.11,1
+PRJ-FIN-1327,Legal & Compliance,Marketing Campaigns,New York,Q3,Tier 1,50,Male,62,11.0,51.3,High,107422.45,120953.25,10079.44,13530.8,0
+PRJ-FIN-1328,Marketing & Growth,Hardware Upgrades,New York,Q2,Tier 1,41,Female,78,13.0,61.6,Medium,209883.71,232344.29,19362.02,22460.58,0
+PRJ-FIN-1329,Engineering,Marketing Campaigns,Singapore,Q2,Tier 3,38,Male,73,10.0,61.8,Medium,263649.73,257002.73,21416.89,-6647.0,1
+PRJ-FIN-1330,IT & Cloud,Consulting Services,Bangalore,Q1,Tier 1,49,Male,61,26.0,92.6,Critical,141792.52,159147.61,13262.3,17355.09,0
+PRJ-FIN-1331,R&D Innovation,Marketing Campaigns,Tokyo,Q4,Tier 1,54,Male,66,41.0,63.6,Critical,165605.79,228770.82,19064.24,63165.03,0
+PRJ-FIN-1332,Engineering,Marketing Campaigns,New York,Q2,Tier 1,36,Female,24,34.0,,Critical,139510.39,150227.68,12518.97,10717.29,0
+PRJ-FIN-1333,Engineering,Consulting Services,Bangalore,Q4,Tier 1,40,Male,65,11.0,77.5,Medium,155648.56,158557.06,13213.09,2908.5,1
+PRJ-FIN-1334,Sales Operations,Consulting Services,London,Q4,Tier 2,44,Female,87,4.0,64.2,Medium,181189.15,203046.15,16920.51,21857.0,0
+PRJ-FIN-1335,Marketing & Growth,Consulting Services,Berlin,Q4,Tier 2,32,Female,24,4.0,82.6,Low,99056.99,107440.79,8953.4,8383.8,0
+PRJ-FIN-1336,Finance & Accounting,Staff Augmentation,Toronto,Q3,Tier 2,48,Non-Binary,16,5.0,80.6,Low,98545.74,80965.65,6747.14,-17580.09,1
+PRJ-FIN-1337,Finance & Accounting,Software Licenses,New York,Q1,Tier 1,39,Female,77,17.0,62.5,Medium,166392.75,150006.42,12500.54,-16386.33,1
+PRJ-FIN-1338,Marketing & Growth,Cloud Infrastructure,New York,Q3,Tier 2,48,Male,48,9.0,68.8,Medium,200516.66,174414.08,14534.51,-26102.58,1
+PRJ-FIN-1339,IT & Cloud,Marketing Campaigns,San Francisco,Q1,Tier 1,42,Female,8,7.0,82.0,Low,153960.14,136057.78,11338.15,-17902.36,1
+PRJ-FIN-1340,Legal & Compliance,Marketing Campaigns,Tokyo,Q1,Tier 1,40,Male,68,6.0,60.7,Medium,149469.02,150164.36,12513.7,695.34,1
+PRJ-FIN-1341,Engineering,Facility Operations,Singapore,Q3,Tier 1,39,Female,100,7.0,51.1,High,258680.01,311102.68,25925.22,52422.67,0
+PRJ-FIN-1342,Marketing & Growth,Hardware Upgrades,Bangalore,Q3,Tier 2,24,Female,67,40.0,73.1,Critical,162132.23,199128.07,16594.01,36995.84,0
+PRJ-FIN-1343,Legal & Compliance,Staff Augmentation,Tokyo,Q2,Tier 1,47,Male,62,16.0,94.5,Medium,119220.8,95886.15,7990.51,-23334.65,1
+PRJ-FIN-1344,R&D Innovation,Hardware Upgrades,Sydney,Q4,Tier 1,24,Female,47,5.0,45.4,High,179828.5,233811.28,19484.27,53982.78,0
+PRJ-FIN-1345,Sales Operations,Facility Operations,San Francisco,Q2,Tier 1,28,Male,52,6.0,59.5,Medium,139242.55,145473.1,12122.76,6230.55,0
+PRJ-FIN-1346,Legal & Compliance,Software Licenses,London,Q4,Tier 2,39,Male,85,4.0,56.6,Medium,141411.75,172401.34,14366.78,30989.59,0
+PRJ-FIN-1347,Finance & Accounting,Facility Operations,Bangalore,Q4,Tier 1,42,Female,52,5.0,52.5,High,99623.42,121243.48,10103.62,21620.06,0
+PRJ-FIN-1348,Marketing & Growth,Hardware Upgrades,Singapore,Q4,Tier 3,42,Male,59,7.0,73.2,Medium,135693.04,146778.38,12231.53,11085.34,0
+PRJ-FIN-1349,Marketing & Growth,Marketing Campaigns,San Francisco,Q1,Tier 3,30,Female,76,15.0,58.5,Medium,260503.69,250998.08,20916.51,-9505.61,1
+PRJ-FIN-1350,IT & Cloud,Cloud Infrastructure,Singapore,Q1,Tier 1,46,Male,36,20.0,80.2,High,108558.0,114395.08,9532.92,5837.08,0
+PRJ-FIN-1351,Marketing & Growth,Software Licenses,New York,Q3,Tier 2,37,Female,22,8.0,78.9,Low,89638.64,87104.7,7258.72,-2533.94,1
+PRJ-FIN-1352,Marketing & Growth,Marketing Campaigns,San Francisco,Q2,Tier 3,41,Male,71,14.0,35.4,High,167012.23,186529.0,15544.08,19516.77,0
+PRJ-FIN-1353,Marketing & Growth,Cloud Infrastructure,Tokyo,Q1,Tier 2,46,Female,81,30.0,65.5,Critical,179954.42,198730.24,16560.85,18775.82,0
+PRJ-FIN-1354,Engineering,Cloud Infrastructure,Tokyo,Q1,Tier 1,52,Female,48,6.0,85.9,Low,241766.35,210074.24,17506.19,-31692.11,1
+PRJ-FIN-1355,Legal & Compliance,Hardware Upgrades,London,Q3,Tier 1,29,Female,81,16.0,65.4,Medium,124363.13,122227.4,10185.62,-2135.73,1
+PRJ-FIN-1356,IT & Cloud,Hardware Upgrades,Berlin,Q2,Tier 2,46,Female,73,10.0,46.1,High,211992.03,244613.32,20384.44,32621.29,0
+PRJ-FIN-1357,IT & Cloud,Software Licenses,London,Q2,Tier 1,47,Male,58,15.0,39.9,High,238937.74,319914.88,26659.57,80977.14,0
+PRJ-FIN-1358,Sales Operations,Staff Augmentation,Chicago,Q3,Tier 1,47,Female,29,18.0,,,169964.08,154306.98,12858.92,-15657.1,1
+PRJ-FIN-1359,Marketing & Growth,Facility Operations,Tokyo,Q4,Tier 1,58,Female,56,5.0,47.1,High,183277.58,225597.0,18799.75,42319.42,0
+PRJ-FIN-1360,Human Resources,Staff Augmentation,New York,Q1,Tier 3,42,Male,39,14.0,76.8,Medium,102191.11,101961.91,8496.83,-229.2,1
+PRJ-FIN-1361,Engineering,Staff Augmentation,Bangalore,Q1,Tier 1,53,Male,6,,,Medium,91196.43,80246.12,6687.18,-10950.31,1
+PRJ-FIN-1362,Human Resources,Marketing Campaigns,Sydney,Q3,Tier 1,32,Male,50,32.0,74.6,Critical,109198.55,131178.97,10931.58,21980.42,0
+PRJ-FIN-1363,IT & Cloud,Facility Operations,Chicago,Q3,Tier 2,35,Female,15,30.0,57.9,Critical,137202.4,173642.05,14470.17,36439.65,0
+PRJ-FIN-1364,R&D Innovation,Hardware Upgrades,Singapore,Q4,Tier 2,45,Female,41,4.0,51.8,High,147097.86,187209.48,15600.79,40111.62,0
+PRJ-FIN-1365,R&D Innovation,Consulting Services,Berlin,Q1,Tier 1,34,Female,104,12.0,55.7,Medium,288567.14,296624.77,24718.73,8057.63,0
+PRJ-FIN-1366,R&D Innovation,Facility Operations,London,Q4,Tier 2,51,Female,67,16.0,49.9,High,158603.87,186700.64,15558.39,28096.77,0
+PRJ-FIN-1367,IT & Cloud,Software Licenses,New York,Q3,Tier 2,44,Female,95,12.0,85.7,Medium,235274.94,223200.7,18600.06,-12074.24,1
+PRJ-FIN-1368,R&D Innovation,Software Licenses,New York,Q2,Tier 1,56,Female,104,18.0,84.1,Medium,230953.64,216290.7,18024.23,-14662.94,1
+PRJ-FIN-1369,Sales Operations,Hardware Upgrades,London,Q3,Tier 1,32,Female,81,28.0,76.5,Critical,167167.0,208240.01,17353.33,41073.01,0
+PRJ-FIN-1370,Marketing & Growth,Hardware Upgrades,New York,Q1,Tier 1,34,Female,33,28.0,58.8,Critical,88413.46,116147.15,9678.93,27733.69,0
+PRJ-FIN-1371,Engineering,Software Licenses,Chicago,Q3,Tier 1,45,Female,107,48.0,71.7,Critical,218880.27,254591.3,21215.94,35711.03,0
+PRJ-FIN-1372,Legal & Compliance,Consulting Services,London,Q1,Tier 1,35,Female,37,,64.2,High,76203.06,78933.39,6577.78,2730.33,0
+PRJ-FIN-1373,IT & Cloud,Marketing Campaigns,London,Q2,Tier 1,59,Male,36,3.0,77.7,Low,149435.55,145919.62,12159.97,-3515.93,1
+PRJ-FIN-1374,Human Resources,Software Licenses,Toronto,Q3,Tier 1,32,Female,34,10.0,93.1,Medium,102386.0,81382.06,6781.84,-21003.94,1
+PRJ-FIN-1375,Engineering,Staff Augmentation,New York,Q2,Tier 2,49,Male,90,5.0,72.8,Medium,192787.9,205555.24,17129.6,12767.34,0
+PRJ-FIN-1376,Marketing & Growth,Cloud Infrastructure,New York,Q4,Tier 2,31,Male,15,6.0,67.8,Medium,88450.28,102126.49,8510.54,13676.21,0
+PRJ-FIN-1377,Marketing & Growth,Software Licenses,London,Q3,Tier 1,43,Male,75,8.0,32.1,High,194397.24,239240.56,19936.71,44843.32,0
+PRJ-FIN-1378,Legal & Compliance,Cloud Infrastructure,New York,Q4,Tier 1,48,Male,40,6.0,46.1,High,113812.69,156482.18,13040.18,42669.49,0
+PRJ-FIN-1379,IT & Cloud,Software Licenses,Berlin,Q2,Tier 3,39,Male,21,7.0,75.6,Low,147960.4,125251.12,10437.59,-22709.28,1
+PRJ-FIN-1380,Legal & Compliance,Software Licenses,Bangalore,Q1,Tier 1,44,Female,61,4.0,56.5,Medium,133731.67,119403.11,9950.26,-14328.56,1
+PRJ-FIN-1381,IT & Cloud,Consulting Services,New York,Q2,Tier 1,35,Female,39,16.0,69.0,Medium,130323.93,148098.55,12341.55,17774.62,0
+PRJ-FIN-1382,Legal & Compliance,Staff Augmentation,New York,Q4,Tier 1,44,Male,33,48.0,82.8,Critical,104037.35,140871.28,11739.27,36833.93,0
+PRJ-FIN-1383,Legal & Compliance,Staff Augmentation,Toronto,Q4,Tier 2,39,Female,79,7.0,62.4,Medium,146090.99,157977.0,13164.75,11886.01,0
+PRJ-FIN-1384,Finance & Accounting,Consulting Services,London,Q1,Tier 2,28,Male,87,16.0,80.9,Medium,106365.74,103993.01,8666.08,-2372.73,1
+PRJ-FIN-1385,IT & Cloud,Software Licenses,San Francisco,Q1,Tier 2,46,Female,42,9.0,66.5,Medium,177458.44,175034.37,14586.2,-2424.07,1
+PRJ-FIN-1386,Engineering,Hardware Upgrades,Sydney,Q4,Tier 2,38,Female,5,15.0,57.2,Medium,178929.59,194487.32,16207.28,15557.73,0
+PRJ-FIN-1387,Sales Operations,Hardware Upgrades,London,Q2,Tier 3,41,Female,18,10.0,66.1,Medium,84222.13,81830.89,6819.24,-2391.24,1
+PRJ-FIN-1388,IT & Cloud,Software Licenses,Singapore,Q3,Tier 2,38,Female,48,4.0,76.9,Low,128783.93,117051.92,9754.33,-11732.01,1
+PRJ-FIN-1389,Human Resources,Cloud Infrastructure,Tokyo,Q4,Tier 2,50,Male,42,24.0,62.3,High,93767.44,119841.23,9986.77,26073.79,0
+PRJ-FIN-1390,IT & Cloud,Cloud Infrastructure,San Francisco,Q1,Tier 1,47,Male,27,4.0,69.0,Medium,132348.15,114269.69,9522.47,-18078.46,1
+PRJ-FIN-1391,Finance & Accounting,Consulting Services,Tokyo,Q3,Tier 2,32,Female,46,3.0,67.6,Medium,105373.22,100550.72,8379.23,-4822.5,1
+PRJ-FIN-1392,Sales Operations,Staff Augmentation,New York,Q2,Tier 2,38,Male,42,14.0,75.0,Medium,126321.01,115219.11,9601.59,-11101.9,1
+PRJ-FIN-1393,Engineering,Consulting Services,Bangalore,Q1,Tier 1,49,Female,58,5.0,78.5,Low,173763.89,132294.56,11024.55,-41469.33,1
+PRJ-FIN-1394,Sales Operations,Hardware Upgrades,Singapore,Q3,Tier 1,41,Male,65,6.0,79.2,Low,102431.18,83772.43,6981.04,-18658.75,1
+PRJ-FIN-1395,Human Resources,Staff Augmentation,Tokyo,Q4,Tier 3,44,Female,22,14.0,56.1,Medium,74723.91,91971.27,7664.27,17247.36,0
+PRJ-FIN-1396,Finance & Accounting,Marketing Campaigns,San Francisco,Q3,Tier 1,46,Male,56,6.0,59.2,Medium,114095.13,99088.53,8257.38,-15006.6,1
+PRJ-FIN-1397,Sales Operations,Cloud Infrastructure,London,Q4,Tier 1,40,Male,69,4.0,71.8,Medium,137387.05,152700.06,12725.0,15313.01,0
+PRJ-FIN-1398,Finance & Accounting,Staff Augmentation,Sydney,Q2,Tier 1,28,Male,7,18.0,63.6,Medium,75273.36,74580.84,6215.07,-692.52,1
+PRJ-FIN-1399,Marketing & Growth,Facility Operations,London,Q3,Tier 2,52,Female,55,23.0,55.4,High,150820.26,193997.39,16166.45,43177.13,0
+PRJ-FIN-1400,Marketing & Growth,Staff Augmentation,San Francisco,Q3,Tier 2,37,Female,61,6.0,85.9,Low,146614.56,139369.75,11614.15,-7244.81,1
+PRJ-FIN-1401,IT & Cloud,Cloud Infrastructure,Toronto,Q2,Tier 2,43,Male,81,15.0,56.8,Medium,173181.89,164997.11,13749.76,-8184.78,1
+PRJ-FIN-1402,IT & Cloud,Facility Operations,San Francisco,Q3,Tier 1,47,Female,32,13.0,79.7,Medium,173868.37,,,963.28,1
+PRJ-FIN-1403,Marketing & Growth,Marketing Campaigns,New York,Q3,Tier 3,44,Male,72,14.0,64.1,Medium,193719.82,190936.26,15911.36,-2783.56,1
+PRJ-FIN-1404,Sales Operations,Software Licenses,Bangalore,Q4,Tier 1,51,Female,6,17.0,92.5,Medium,76492.04,84855.56,7071.3,8363.52,0
+PRJ-FIN-1405,Engineering,Software Licenses,Tokyo,Q2,Tier 1,43,Non-Binary,83,3.0,78.3,Low,201775.23,179667.11,14972.26,-22108.12,1
+PRJ-FIN-1406,Sales Operations,Software Licenses,New York,Q2,Tier 1,42,Female,107,14.0,49.9,High,207484.07,209199.93,17433.33,1715.86,1
+PRJ-FIN-1407,Finance & Accounting,Facility Operations,San Francisco,Q3,Tier 3,30,Male,50,6.0,62.3,Medium,121768.6,109818.8,9151.57,-11949.8,1
+PRJ-FIN-1408,IT & Cloud,Hardware Upgrades,New York,Q1,Tier 2,45,Female,64,7.0,53.9,High,199177.91,214980.66,17915.06,15802.75,0
+PRJ-FIN-1409,Sales Operations,Software Licenses,Berlin,Q4,Tier 2,42,Female,81,10.0,65.6,Medium,474399.075,196699.4,16391.62,6939.77,0
+PRJ-FIN-1410,Human Resources,Hardware Upgrades,London,Q2,Tier 1,24,Male,20,32.0,79.2,Critical,68454.37,76203.36,6350.28,7748.99,0
+PRJ-FIN-1411,Finance & Accounting,Cloud Infrastructure,Singapore,Q4,Tier 1,45,Female,69,34.0,68.4,Critical,151268.14,201153.21,16762.77,49885.07,0
+PRJ-FIN-1412,IT & Cloud,Hardware Upgrades,New York,Q2,Tier 3,55,Non-Binary,23,,83.3,Medium,162191.36,154226.84,12852.24,-7964.52,1
+PRJ-FIN-1413,Engineering,Hardware Upgrades,San Francisco,Q4,Tier 1,43,Female,22,6.0,48.4,High,161555.13,211302.9,17608.58,49747.77,0
+PRJ-FIN-1414,Marketing & Growth,Marketing Campaigns,San Francisco,Q4,Tier 1,59,Female,41,25.0,81.1,High,147577.57,178768.72,14897.39,31191.15,0
+PRJ-FIN-1415,Marketing & Growth,Cloud Infrastructure,Chicago,Q2,Tier 1,30,Female,27,4.0,73.9,Medium,142469.85,135703.07,11308.59,-6766.78,1
+PRJ-FIN-1416,Engineering,Hardware Upgrades,London,Q4,Tier 2,39,Non-Binary,46,5.0,49.7,High,144734.51,187181.21,15598.43,42446.7,0
+PRJ-FIN-1417,Legal & Compliance,Consulting Services,New York,Q3,Tier 3,35,Female,37,8.0,81.7,,114358.91,99864.29,8322.02,-14494.62,1
+PRJ-FIN-1418,R&D Innovation,Marketing Campaigns,San Francisco,Q2,Tier 3,52,Male,47,19.0,89.6,Medium,157134.26,154302.63,12858.55,-2831.63,1
+PRJ-FIN-1419,IT & Cloud,Consulting Services,London,Q3,Tier 2,28,Non-Binary,69,9.0,62.5,Medium,165127.02,169077.54,14089.8,3950.52,0
+PRJ-FIN-1420,Engineering,Cloud Infrastructure,New York,Q1,Tier 2,32,Male,103,4.0,,Medium,288157.89,272403.32,22700.28,-15754.57,1
+PRJ-FIN-1421,IT & Cloud,Cloud Infrastructure,Tokyo,Q3,Tier 3,37,Male,103,6.0,39.4,High,229437.46,276818.65,23068.22,47381.19,0
+PRJ-FIN-1422,Marketing & Growth,Consulting Services,Tokyo,Q4,Tier 1,27,Female,50,22.0,65.5,High,106528.32,128897.7,10741.48,22369.38,0
+PRJ-FIN-1423,Human Resources,Facility Operations,Singapore,Q2,Tier 1,38,Female,32,4.0,88.9,Low,71059.18,61238.47,5103.21,-9820.71,1
+PRJ-FIN-1424,Marketing & Growth,Cloud Infrastructure,Tokyo,Q3,Tier 2,50,Female,37,10.0,69.2,Medium,131954.19,129464.47,10788.71,-2489.72,1
+PRJ-FIN-1425,Engineering,Software Licenses,London,Q3,Tier 2,49,Male,31,6.0,71.0,Medium,161570.73,175145.65,14595.47,13574.92,0
+PRJ-FIN-1426,Marketing & Growth,Software Licenses,San Francisco,Q3,Tier 2,40,Female,59,26.0,70.5,Critical,191273.64,227674.1,18972.84,36400.46,0
+PRJ-FIN-1427,Marketing & Growth,Consulting Services,San Francisco,Q3,Tier 2,45,Female,98,9.0,82.6,Low,198683.46,,,-46064.41,1
+PRJ-FIN-1428,R&D Innovation,Marketing Campaigns,San Francisco,Q4,Tier 1,34,Female,103,,80.2,Medium,205671.22,204423.87,17035.32,-1247.35,1
+PRJ-FIN-1429,IT & Cloud,Consulting Services,London,Q1,Tier 2,47,Non-Binary,21,6.0,72.0,Medium,167647.11,153844.69,12820.39,-13802.42,1
+PRJ-FIN-1430,Engineering,Cloud Infrastructure,New York,Q4,Tier 1,24,Female,57,24.0,89.0,High,183844.51,210065.77,17505.48,26221.26,0
+PRJ-FIN-1431,IT & Cloud,Hardware Upgrades,San Francisco,Q3,Tier 1,47,Male,33,13.0,83.3,Medium,168667.14,174206.24,14517.19,5539.1,0
+PRJ-FIN-1432,Marketing & Growth,Facility Operations,San Francisco,Q4,Tier 2,24,Male,31,13.0,86.2,Medium,127146.31,130815.85,10901.32,3669.54,0
+PRJ-FIN-1433,Finance & Accounting,Staff Augmentation,London,Q2,Tier 3,39,Female,100,17.0,83.7,Medium,178821.34,164754.49,13729.54,-14066.85,1
+PRJ-FIN-1434,Human Resources,Cloud Infrastructure,London,Q2,Tier 1,35,Female,61,48.0,74.9,Critical,86508.89,105151.44,8762.62,18642.55,0
+PRJ-FIN-1435,Legal & Compliance,Marketing Campaigns,San Francisco,Q2,Tier 2,25,Female,58,9.0,92.4,Low,86181.86,67975.9,5664.66,-18205.96,1
+PRJ-FIN-1436,Engineering,Staff Augmentation,Singapore,Q3,Tier 2,39,Non-Binary,65,6.0,68.7,Medium,205024.77,176349.48,14695.79,-28675.29,1
+PRJ-FIN-1437,Marketing & Growth,Cloud Infrastructure,Singapore,Q1,Tier 1,47,Female,9,5.0,90.9,Low,77815.17,79673.92,6639.49,1858.75,0
+PRJ-FIN-1438,Human Resources,Hardware Upgrades,New York,Q4,Tier 3,47,Female,70,6.0,64.3,Medium,269564.925,105002.24,8750.19,-2823.73,1
+PRJ-FIN-1439,Finance & Accounting,Staff Augmentation,Tokyo,Q2,Tier 2,49,Female,16,8.0,65.4,Medium,97005.84,107566.4,8963.87,10560.56,0
+PRJ-FIN-1440,Engineering,Software Licenses,Sydney,Q2,Tier 2,46,Female,55,3.0,85.9,Low,240062.64,213857.7,17821.48,-26204.94,1
+PRJ-FIN-1441,Finance & Accounting,Staff Augmentation,Tokyo,Q1,Tier 1,38,Male,107,8.0,99.0,Low,187280.8,158847.93,13237.33,-28432.87,1
+PRJ-FIN-1442,Legal & Compliance,Cloud Infrastructure,San Francisco,Q2,Tier 2,47,Male,87,12.0,76.5,Medium,142703.45,129733.76,10811.15,-12969.69,1
+PRJ-FIN-1443,IT & Cloud,Marketing Campaigns,Tokyo,Q3,Tier 2,42,Male,97,14.0,69.2,Medium,189293.03,196730.11,16394.18,7437.08,0
+PRJ-FIN-1444,Sales Operations,Consulting Services,Chicago,Q1,Tier 2,42,Female,109,7.0,82.2,Low,189398.94,147084.85,12257.07,-42314.09,1
+PRJ-FIN-1445,Engineering,Consulting Services,Singapore,Q1,Tier 2,35,Female,8,15.0,81.3,Medium,125305.49,114468.42,9539.04,-10837.07,1
+PRJ-FIN-1446,Engineering,Software Licenses,San Francisco,Q2,Tier 1,52,Female,18,22.0,67.8,High,117025.45,136915.98,11409.66,19890.53,0
+PRJ-FIN-1447,Legal & Compliance,Consulting Services,San Francisco,Q2,Tier 1,53,Male,40,14.0,73.8,Medium,94794.92,82590.56,6882.55,-12204.36,1
+PRJ-FIN-1448,Engineering,Cloud Infrastructure,New York,Q4,Tier 2,52,Male,73,23.0,81.2,High,136774.91,182926.61,15243.88,46151.7,0
+PRJ-FIN-1449,R&D Innovation,Consulting Services,Sydney,Q3,Tier 3,43,Female,16,29.0,78.9,Critical,143747.21,180071.33,15005.94,36324.12,0
+PRJ-FIN-1450,Finance & Accounting,Consulting Services,New York,Q2,Tier 1,31,Female,41,15.0,81.6,Medium,122413.39,107825.9,8985.49,-14587.49,1
+PRJ-FIN-1451,Sales Operations,Cloud Infrastructure,San Francisco,Q4,Tier 1,49,Female,42,21.0,75.9,High,143735.38,172068.24,14339.02,28332.86,0
+PRJ-FIN-1452,R&D Innovation,Facility Operations,London,Q4,Tier 2,32,Female,43,28.0,67.5,Critical,191568.45,289744.82,24145.4,98176.37,0
+PRJ-FIN-1453,Engineering,Staff Augmentation,Toronto,Q2,Tier 2,42,Female,29,26.0,60.0,Critical,182562.38,221489.09,18457.42,38926.71,0
+PRJ-FIN-1454,IT & Cloud,Hardware Upgrades,Toronto,Q4,Tier 1,53,Male,74,5.0,74.9,Medium,203208.63,213647.86,17803.99,10439.23,0
+PRJ-FIN-1455,IT & Cloud,Facility Operations,Singapore,Q1,Tier 1,45,Male,51,6.0,68.8,Medium,212757.69,218598.97,18216.58,5841.28,0
+PRJ-FIN-1456,Legal & Compliance,Software Licenses,Berlin,Q1,Tier 1,41,Female,37,17.0,64.2,Medium,100021.54,99782.83,8315.24,-238.71,1
+PRJ-FIN-1457,Finance & Accounting,Facility Operations,Berlin,Q1,Tier 1,37,Female,23,26.0,50.4,Critical,82386.95,97488.99,8124.08,15102.04,0
+PRJ-FIN-1458,Finance & Accounting,Marketing Campaigns,New York,Q4,Tier 1,46,Male,78,4.0,95.0,Low,117452.64,99762.41,8313.53,-17690.23,1
+PRJ-FIN-1459,Finance & Accounting,Marketing Campaigns,Singapore,Q1,Tier 3,37,Female,42,7.0,72.6,Medium,96883.47,88548.13,7379.01,-8335.34,1
+PRJ-FIN-1460,Finance & Accounting,Facility Operations,New York,Q1,Tier 2,45,Male,19,7.0,57.2,Medium,84036.43,80439.91,6703.33,-3596.52,1
+PRJ-FIN-1461,IT & Cloud,Marketing Campaigns,New York,Q4,Tier 1,27,Male,11,27.0,84.2,Critical,137605.71,193746.0,16145.5,56140.29,0
+PRJ-FIN-1462,Marketing & Growth,Software Licenses,San Francisco,Q3,Tier 1,41,Female,81,14.0,93.6,Medium,171560.29,174005.82,14500.48,2445.53,1
+PRJ-FIN-1463,Marketing & Growth,Consulting Services,Singapore,Q1,Tier 2,49,Female,97,11.0,54.8,High,192733.22,189356.38,15779.7,-3376.84,1
+PRJ-FIN-1464,Marketing & Growth,Staff Augmentation,Singapore,Q2,Tier 2,51,Male,71,7.0,56.6,Medium,124911.51,120719.82,10059.98,-4191.69,1
+PRJ-FIN-1465,Sales Operations,Marketing Campaigns,Singapore,Q2,Tier 1,52,Female,23,11.0,68.0,Medium,198465.13,199589.65,16632.47,1124.52,1
+PRJ-FIN-1466,IT & Cloud,Facility Operations,Singapore,Q1,Tier 1,34,Female,33,4.0,66.1,Medium,121722.67,109791.06,9149.25,-11931.61,1
+PRJ-FIN-1467,R&D Innovation,Software Licenses,Berlin,Q3,Tier 2,40,Female,99,10.0,66.3,Medium,314093.98,337839.47,28153.29,23745.49,0
+PRJ-FIN-1468,Sales Operations,Software Licenses,Tokyo,Q2,Tier 3,38,Male,83,28.0,72.2,Critical,154598.59,191657.8,15971.48,37059.21,0
+PRJ-FIN-1469,Marketing & Growth,Staff Augmentation,Singapore,Q3,Tier 1,38,Female,26,12.0,67.0,Medium,138034.26,133917.89,11159.82,-4116.37,1
+PRJ-FIN-1470,R&D Innovation,Staff Augmentation,Bangalore,Q3,Tier 1,49,Male,60,20.0,57.2,High,161587.66,174110.91,14509.24,12523.25,0
+PRJ-FIN-1471,Engineering,Consulting Services,San Francisco,Q2,Tier 2,30,Male,66,,66.4,Medium,251328.36,265720.89,22143.41,14392.53,0
+PRJ-FIN-1472,Engineering,Software Licenses,New York,Q3,Tier 2,27,Male,48,18.0,,Medium,210660.66,236823.93,19735.33,26163.27,0
+PRJ-FIN-1473,R&D Innovation,Staff Augmentation,Singapore,Q2,Tier 2,27,Male,97,48.0,62.8,Critical,216504.39,251529.46,20960.79,35025.07,0
+PRJ-FIN-1474,Marketing & Growth,Staff Augmentation,Singapore,Q3,Tier 2,54,Male,88,5.0,63.6,Medium,135271.07,148794.63,12399.55,13523.56,0
+PRJ-FIN-1475,Sales Operations,Hardware Upgrades,London,Q4,Tier 2,37,Female,95,9.0,53.8,High,189376.35,,,43465.04,0
+PRJ-FIN-1476,IT & Cloud,Marketing Campaigns,Tokyo,Q2,Tier 2,44,Male,48,6.0,59.3,Medium,176579.98,194379.19,16198.27,17799.21,0
+PRJ-FIN-1477,Sales Operations,Marketing Campaigns,London,Q2,Tier 1,30,Male,73,5.0,87.0,Low,154903.41,158295.96,13191.33,3392.55,0
+PRJ-FIN-1478,IT & Cloud,Hardware Upgrades,London,Q1,Tier 1,43,Female,107,7.0,72.2,Medium,241568.88,225272.75,18772.73,-16296.13,1
+PRJ-FIN-1479,Engineering,Cloud Infrastructure,San Francisco,Q3,Tier 1,53,Female,16,9.0,95.9,Low,189768.61,169313.11,14109.43,-20455.5,1
+PRJ-FIN-1480,Engineering,Software Licenses,San Francisco,Q1,Tier 2,39,Male,91,4.0,65.5,Medium,195031.9,174445.32,14537.11,-20586.58,1
+PRJ-FIN-1481,IT & Cloud,Software Licenses,Tokyo,Q4,Tier 2,52,Female,78,24.0,44.1,High,208805.73,261519.17,21793.26,52713.44,0
+PRJ-FIN-1482,Engineering,Consulting Services,New York,Q1,Tier 1,44,Female,34,6.0,70.2,Medium,171062.78,158639.11,13219.93,-12423.67,1
+PRJ-FIN-1483,R&D Innovation,Facility Operations,New York,Q3,Tier 1,43,Male,101,8.0,66.8,Medium,237491.51,241530.22,20127.52,4038.71,1
+PRJ-FIN-1484,Finance & Accounting,Staff Augmentation,Tokyo,Q2,Tier 1,50,Female,8,9.0,72.1,Medium,98599.62,94099.73,7841.64,-4499.89,1
+PRJ-FIN-1485,Legal & Compliance,Software Licenses,Sydney,Q4,Tier 2,38,Female,62,4.0,56.9,Medium,100705.76,103043.27,8586.94,2337.51,0
+PRJ-FIN-1486,IT & Cloud,Hardware Upgrades,London,Q1,Tier 1,50,Female,102,23.0,77.4,High,179824.03,196414.52,16367.88,16590.49,0
+PRJ-FIN-1487,Engineering,Software Licenses,London,Q2,Tier 2,48,Male,46,6.0,52.3,High,176107.73,211956.8,17663.07,35849.07,0
+PRJ-FIN-1488,Engineering,Consulting Services,Toronto,Q1,Tier 2,29,Female,65,5.0,62.3,Medium,259857.37,224264.74,18688.73,-35592.63,1
+PRJ-FIN-1489,IT & Cloud,Cloud Infrastructure,San Francisco,Q4,Tier 2,44,Male,68,7.0,55.7,Medium,181858.67,190139.13,15844.93,8280.46,0
+PRJ-FIN-1490,Legal & Compliance,Software Licenses,Bangalore,Q2,Tier 2,32,Female,36,3.0,74.8,Medium,102526.83,85988.41,7165.7,-16538.42,1
+PRJ-FIN-1491,IT & Cloud,Marketing Campaigns,Berlin,Q2,Tier 1,39,Male,25,,82.5,Critical,150399.63,178595.02,14882.92,28195.39,0
+PRJ-FIN-1492,Engineering,Marketing Campaigns,London,Q2,Tier 1,45,Male,85,16.0,73.9,Medium,231203.38,213219.84,17768.32,-17983.54,1
+PRJ-FIN-1493,Marketing & Growth,Facility Operations,London,Q2,Tier 1,47,Female,15,8.0,57.3,Medium,164466.36,160575.33,13381.28,-3891.03,1
+PRJ-FIN-1494,R&D Innovation,Software Licenses,Bangalore,Q2,Tier 3,39,Female,99,23.0,78.5,High,226920.4,277233.68,23102.81,50313.28,0
+PRJ-FIN-1495,IT & Cloud,Consulting Services,New York,Q1,Tier 1,40,Male,59,38.0,95.0,Critical,158369.81,152377.47,12698.12,-5992.34,1
+PRJ-FIN-1496,Finance & Accounting,Staff Augmentation,Bangalore,Q3,Tier 1,39,Male,25,6.0,68.8,Medium,111221.19,102599.77,8549.98,-8621.42,1
+PRJ-FIN-1497,Engineering,Cloud Infrastructure,San Francisco,Q4,Tier 2,58,Male,55,3.0,55.1,Medium,211452.65,221857.92,18488.16,10405.27,0
+PRJ-FIN-1498,Sales Operations,Software Licenses,San Francisco,Q3,Tier 3,43,Female,54,45.0,81.5,Critical,114189.69,149240.49,12436.71,35050.8,0
+PRJ-FIN-1499,IT & Cloud,Consulting Services,Berlin,Q3,Tier 1,40,Female,103,8.0,60.9,Medium,211758.45,223080.38,18590.03,11321.93,0
+PRJ-FIN-1500,Sales Operations,Software Licenses,London,Q4,Tier 2,52,Male,6,18.0,57.6,Medium,62690.81,69616.67,5801.39,6925.86,0
+PRJ-FIN-1501,Engineering,Cloud Infrastructure,New York,Q3,Tier 1,38,Female,104,20.0,55.9,High,239605.87,267688.92,22307.41,28083.05,0
+PRJ-FIN-1502,Sales Operations,Cloud Infrastructure,London,Q2,Tier 1,50,Female,76,30.0,81.5,Critical,146733.82,177748.47,14812.37,31014.65,0
+PRJ-FIN-1503,Human Resources,Staff Augmentation,Singapore,Q4,Tier 3,34,Female,15,48.0,90.4,Critical,78310.27,100612.99,8384.42,22302.72,0
+PRJ-FIN-1504,R&D Innovation,Cloud Infrastructure,Tokyo,Q2,Tier 2,44,Female,101,35.0,63.6,Critical,260710.68,314531.02,26210.92,53820.34,0
+PRJ-FIN-1505,Sales Operations,Software Licenses,Bangalore,Q4,Tier 2,36,Male,24,11.0,40.1,High,78933.57,98634.41,8219.53,19700.84,0
+PRJ-FIN-1506,IT & Cloud,Marketing Campaigns,Bangalore,Q3,Tier 1,30,Male,81,5.0,63.8,Medium,181695.69,172489.98,14374.16,-9205.71,1
+PRJ-FIN-1507,Marketing & Growth,Facility Operations,Berlin,Q1,Tier 2,37,Female,99,7.0,75.2,Low,198319.31,191969.2,15997.43,-6350.11,1
+PRJ-FIN-1508,Engineering,Facility Operations,Singapore,Q2,Tier 2,41,Male,59,16.0,69.0,Medium,254842.3,255002.01,21250.17,159.71,1
+PRJ-FIN-1509,Finance & Accounting,Cloud Infrastructure,Sydney,Q3,Tier 1,35,Male,74,9.0,49.4,High,117101.99,131021.3,10918.44,13919.31,0
+PRJ-FIN-1510,Human Resources,Cloud Infrastructure,London,Q1,Tier 1,53,Non-Binary,102,20.0,54.0,High,193217.58,210608.46,17550.7,17390.88,0
+PRJ-FIN-1511,Sales Operations,Consulting Services,London,Q4,Tier 3,44,Male,27,6.0,59.4,Medium,126827.4,139712.66,11642.72,12885.26,0
+PRJ-FIN-1512,Marketing & Growth,Hardware Upgrades,Sydney,Q4,Tier 1,50,Male,17,9.0,66.2,Medium,170411.03,197841.87,16486.82,27430.84,0
+PRJ-FIN-1513,IT & Cloud,Hardware Upgrades,Sydney,Q3,Tier 2,35,Female,9,,77.9,Medium,96492.95,97871.98,8156.0,1379.03,1
+PRJ-FIN-1514,Engineering,Software Licenses,Singapore,Q4,Tier 2,39,Female,17,6.0,,Low,195050.76,213096.87,17758.07,18046.11,0
+PRJ-FIN-1515,Marketing & Growth,Staff Augmentation,London,Q3,Tier 2,44,Male,88,4.0,59.9,Medium,179784.59,174697.14,14558.1,-5087.45,1
+PRJ-FIN-1516,Sales Operations,Software Licenses,Singapore,Q3,Tier 1,43,Male,84,9.0,54.7,High,166652.13,192619.37,16051.61,25967.24,0
+PRJ-FIN-1517,IT & Cloud,Consulting Services,Tokyo,Q1,Tier 1,49,Female,95,5.0,81.0,Low,213907.23,196402.64,16366.89,-17504.59,1
+PRJ-FIN-1518,Sales Operations,Staff Augmentation,Singapore,Q1,Tier 1,36,Female,78,7.0,65.7,Medium,168168.61,125072.58,10422.72,-43096.03,1
+PRJ-FIN-1519,Engineering,Marketing Campaigns,Toronto,Q3,Tier 1,43,Male,13,16.0,94.3,Medium,164715.17,156227.93,13018.99,-8487.24,1
+PRJ-FIN-1520,Sales Operations,Facility Operations,San Francisco,Q2,Tier 1,35,Male,44,13.0,52.1,High,124081.92,156248.01,13020.67,32166.09,0
+PRJ-FIN-1521,Sales Operations,Software Licenses,Singapore,Q3,Tier 3,48,Female,64,4.0,84.4,Low,172427.01,151036.52,12586.38,-21390.49,1
+PRJ-FIN-1522,Marketing & Growth,Cloud Infrastructure,San Francisco,Q1,Tier 1,49,Female,84,5.0,89.9,Low,142158.27,111502.12,9291.84,-30656.15,1
+PRJ-FIN-1523,Sales Operations,Cloud Infrastructure,London,Q1,Tier 2,36,Male,95,17.0,72.0,Medium,216470.88,195778.94,16314.91,-20691.94,1
+PRJ-FIN-1524,Sales Operations,Facility Operations,Singapore,Q3,Tier 3,47,Male,75,25.0,81.0,High,165523.69,158888.86,13240.74,-6634.83,1
+PRJ-FIN-1525,Human Resources,Staff Augmentation,Sydney,Q2,Tier 1,42,Male,58,26.0,57.2,Critical,121028.68,153709.05,12809.09,32680.37,0
+PRJ-FIN-1526,Engineering,Marketing Campaigns,San Francisco,Q1,Tier 1,31,Female,92,21.0,59.6,High,262035.02,276024.92,23002.08,13989.9,0
+PRJ-FIN-1527,Engineering,Consulting Services,New York,Q2,Tier 1,55,Female,80,20.0,47.7,High,177527.85,207163.61,17263.63,29635.76,0
+PRJ-FIN-1528,Engineering,Facility Operations,Toronto,Q2,Tier 2,40,Female,62,25.0,43.0,High,178115.67,209330.59,17444.22,31214.92,0
+PRJ-FIN-1529,Marketing & Growth,Hardware Upgrades,London,Q3,Tier 1,37,Male,88,5.0,50.0,High,164126.85,181789.28,15149.11,17662.43,0
+PRJ-FIN-1530,Legal & Compliance,Software Licenses,San Francisco,Q1,Tier 1,63,Female,10,3.0,72.6,Medium,80256.67,69479.24,5789.94,-10777.43,1
+PRJ-FIN-1531,Engineering,Facility Operations,Tokyo,Q3,Tier 3,39,Male,8,,64.2,Medium,127471.52,127170.12,10597.51,-301.4,1
+PRJ-FIN-1532,R&D Innovation,Software Licenses,New York,Q3,Tier 1,42,Male,46,5.0,54.8,High,251815.99,323207.38,26933.95,71391.39,0
+PRJ-FIN-1533,IT & Cloud,Facility Operations,New York,Q2,Tier 3,47,Female,94,7.0,70.7,Medium,293803.0,269383.03,22448.59,-24419.97,1
+PRJ-FIN-1534,Marketing & Growth,Hardware Upgrades,San Francisco,Q3,Tier 3,36,Female,56,13.0,91.9,Medium,108983.19,101531.85,8460.99,-7451.34,1
+PRJ-FIN-1535,Sales Operations,Marketing Campaigns,Sydney,Q2,Tier 3,49,Male,92,9.0,75.0,Medium,233970.06,212865.44,17738.79,-21104.62,1
+PRJ-FIN-1536,IT & Cloud,Cloud Infrastructure,Singapore,Q1,Tier 1,32,Female,89,6.0,51.5,High,212592.68,223911.83,18659.32,11319.15,0
+PRJ-FIN-1537,IT & Cloud,Software Licenses,New York,Q1,Tier 2,50,Female,92,9.0,79.5,Low,267339.04,219074.73,18256.23,-48264.31,1
+PRJ-FIN-1538,Sales Operations,Facility Operations,San Francisco,Q4,Tier 1,45,Female,109,19.0,81.8,Medium,190731.05,192064.6,16005.38,1333.55,1
+PRJ-FIN-1539,Finance & Accounting,Consulting Services,Toronto,Q2,Tier 2,43,Male,35,3.0,86.8,Low,93919.76,76414.63,6367.89,-17505.13,1
+PRJ-FIN-1540,Engineering,Software Licenses,New York,Q2,Tier 1,51,Non-Binary,64,3.0,56.3,Medium,240437.3,230761.23,19230.1,-9676.07,1
+PRJ-FIN-1541,IT & Cloud,Staff Augmentation,Tokyo,Q2,Tier 3,35,Male,15,6.0,87.5,Low,108015.66,91885.98,7657.16,-16129.68,1
+PRJ-FIN-1542,Engineering,Hardware Upgrades,London,Q3,Tier 1,39,Male,78,5.0,,High,195091.77,225421.87,18785.16,30330.1,0
+PRJ-FIN-1543,Engineering,Software Licenses,Bangalore,Q1,Tier 2,47,Male,15,8.0,63.6,Medium,107454.1,106172.86,8847.74,-1281.24,1
+PRJ-FIN-1544,Engineering,Software Licenses,Tokyo,Q3,Tier 1,34,Female,83,48.0,87.5,Critical,204781.43,224390.99,18699.25,19609.56,0
+PRJ-FIN-1545,IT & Cloud,Consulting Services,Sydney,Q2,Tier 1,44,Female,104,19.0,95.2,Medium,213135.89,195823.75,16318.65,-17312.14,1
+PRJ-FIN-1546,Legal & Compliance,Staff Augmentation,Bangalore,Q4,Tier 1,43,Female,19,48.0,78.3,Critical,74358.79,98359.31,8196.61,24000.52,0
+PRJ-FIN-1547,IT & Cloud,Staff Augmentation,Bangalore,Q2,Tier 1,45,Male,46,20.0,63.7,High,194158.62,205869.53,17155.79,11710.91,0
+PRJ-FIN-1548,Sales Operations,Hardware Upgrades,Toronto,Q4,Tier 2,37,Male,62,8.0,,Low,132620.7,114754.39,9562.87,-17866.31,1
+PRJ-FIN-1549,Sales Operations,Cloud Infrastructure,New York,Q1,Tier 1,34,Female,34,9.0,89.5,Low,125557.07,90220.98,7518.42,-35336.09,1
+PRJ-FIN-1550,Engineering,Marketing Campaigns,Berlin,Q2,Tier 3,45,Male,43,33.0,55.1,Critical,160799.68,206104.62,17175.38,45304.94,0
+PRJ-FIN-1551,IT & Cloud,Facility Operations,Tokyo,Q3,Tier 2,47,Male,28,7.0,32.4,High,133705.16,169024.06,14085.34,35318.9,0
+PRJ-FIN-1552,Marketing & Growth,Marketing Campaigns,London,Q2,Tier 2,32,Female,81,8.0,62.8,Medium,169768.31,176294.0,14691.17,6525.69,0
+PRJ-FIN-1553,IT & Cloud,Facility Operations,Berlin,Q3,Tier 2,44,Non-Binary,8,12.0,62.7,Medium,84290.97,87787.37,7315.61,3496.4,0
+PRJ-FIN-1554,IT & Cloud,Facility Operations,Singapore,Q3,Tier 1,41,Female,79,7.0,79.3,Low,144678.23,117240.53,9770.04,-27437.7,1
+PRJ-FIN-1555,R&D Innovation,Marketing Campaigns,New York,Q4,Tier 3,48,Female,20,19.0,,Medium,227299.55,277677.01,23139.75,50377.46,0
+PRJ-FIN-1556,IT & Cloud,Hardware Upgrades,Singapore,Q4,Tier 3,40,Non-Binary,42,5.0,82.6,Low,113624.41,102366.17,8530.51,-11258.24,1
+PRJ-FIN-1557,IT & Cloud,Software Licenses,Singapore,Q2,Tier 1,44,Female,38,5.0,46.1,High,158245.04,169922.1,14160.18,11677.06,0
+PRJ-FIN-1558,IT & Cloud,Software Licenses,Toronto,Q1,Tier 1,42,Female,31,18.0,69.6,Medium,168819.32,161298.51,13441.54,-7520.81,1
+PRJ-FIN-1559,Finance & Accounting,Consulting Services,Singapore,Q4,Tier 1,49,Male,73,4.0,80.1,Low,106733.78,108769.0,9064.08,2035.22,1
+PRJ-FIN-1560,Legal & Compliance,Software Licenses,Singapore,Q4,Tier 2,37,Female,70,6.0,,Medium,149324.17,180244.88,15020.41,30920.71,0
+PRJ-FIN-1561,Legal & Compliance,Facility Operations,New York,Q2,Tier 1,38,Female,87,14.0,81.1,Medium,141380.74,133908.33,11159.03,-7472.41,1
+PRJ-FIN-1562,IT & Cloud,Marketing Campaigns,Bangalore,Q4,Tier 1,50,Female,46,15.0,62.0,Medium,134941.88,153027.15,12752.26,18085.27,0
+PRJ-FIN-1563,Sales Operations,Consulting Services,Sydney,Q4,Tier 3,34,Male,49,15.0,71.0,Medium,132107.83,140627.29,11718.94,8519.46,0
+PRJ-FIN-1564,Sales Operations,Cloud Infrastructure,New York,Q4,Tier 2,26,Female,48,5.0,59.1,Medium,146256.21,169027.73,14085.64,22771.52,0
+PRJ-FIN-1565,Human Resources,Hardware Upgrades,Chicago,Q1,Tier 1,37,Female,49,11.0,64.7,Medium,78717.49,73811.12,6150.93,-4906.37,1
+PRJ-FIN-1566,Finance & Accounting,Facility Operations,Singapore,Q2,Tier 1,41,Female,62,13.0,91.2,,158846.78,165061.35,13755.11,6214.57,0
+PRJ-FIN-1567,Marketing & Growth,Facility Operations,New York,Q1,Tier 1,52,Male,85,4.0,48.4,High,170614.31,156921.0,13076.75,-13693.31,1
+PRJ-FIN-1568,Marketing & Growth,Staff Augmentation,Bangalore,Q1,Tier 2,47,Female,5,17.0,54.3,High,84382.68,90669.13,7555.76,6286.45,0
+PRJ-FIN-1569,Engineering,Marketing Campaigns,New York,Q2,Tier 3,44,Female,13,12.0,44.4,High,117883.44,128174.31,10681.19,10290.87,0
+PRJ-FIN-1570,Sales Operations,Cloud Infrastructure,Toronto,Q1,Tier 1,43,Male,38,5.0,44.2,High,157735.72,160213.66,13351.14,2477.94,1
+PRJ-FIN-1571,Sales Operations,Staff Augmentation,Bangalore,Q2,Tier 2,40,Female,93,20.0,66.9,High,163089.62,190993.93,15916.16,27904.31,0
+PRJ-FIN-1572,Marketing & Growth,Software Licenses,Sydney,Q4,Tier 1,24,Male,56,15.0,,Medium,129880.75,159953.19,13329.43,30072.44,0
+PRJ-FIN-1573,R&D Innovation,Consulting Services,Toronto,Q4,Tier 2,46,Female,18,16.0,55.7,Medium,153705.45,168228.82,14019.07,14523.37,0
+PRJ-FIN-1574,Finance & Accounting,Hardware Upgrades,London,Q2,Tier 3,29,Male,17,18.0,46.8,High,62095.64,72160.3,6013.36,10064.66,0
+PRJ-FIN-1575,Finance & Accounting,Consulting Services,Singapore,Q2,Tier 2,49,Female,58,24.0,74.5,High,123511.1,126869.84,10572.49,3358.74,0
+PRJ-FIN-1576,Engineering,Consulting Services,Toronto,Q4,Tier 1,31,Male,95,12.0,78.0,Medium,201569.21,256269.1,21355.76,54699.89,0
+PRJ-FIN-1577,Finance & Accounting,Cloud Infrastructure,New York,Q2,Tier 1,52,Male,102,14.0,66.8,Medium,136683.71,134511.48,11209.29,-2172.23,1
+PRJ-FIN-1578,Engineering,Software Licenses,Tokyo,Q4,Tier 1,36,Male,17,11.0,80.3,Medium,127281.93,142108.51,11842.38,14826.58,0
+PRJ-FIN-1579,R&D Innovation,Staff Augmentation,Singapore,Q3,Tier 3,35,Male,69,7.0,65.1,Medium,181313.89,177362.12,14780.18,-3951.77,1
+PRJ-FIN-1580,Engineering,Software Licenses,Bangalore,Q4,Tier 2,39,Female,89,3.0,83.4,Low,228670.26,223918.14,18659.84,-4752.12,1
+PRJ-FIN-1581,Finance & Accounting,Hardware Upgrades,New York,Q2,Tier 3,35,Female,88,48.0,77.6,Critical,125666.52,134391.64,11199.3,8725.12,0
+PRJ-FIN-1582,IT & Cloud,Facility Operations,Chicago,Q4,Tier 1,41,Male,84,9.0,48.0,High,253085.14,308130.2,25677.52,55045.06,0
+PRJ-FIN-1583,Engineering,Marketing Campaigns,San Francisco,Q3,Tier 1,51,Male,53,,49.9,Critical,240249.58,300128.04,25010.67,59878.46,0
+PRJ-FIN-1584,IT & Cloud,Consulting Services,Berlin,Q4,Tier 2,24,Female,37,18.0,81.1,Medium,219017.54,228470.65,19039.22,9453.11,0
+PRJ-FIN-1585,Engineering,Marketing Campaigns,Tokyo,Q1,Tier 3,35,Female,86,5.0,60.9,Medium,287830.04,255849.85,21320.82,-31980.19,1
+PRJ-FIN-1586,Engineering,Consulting Services,San Francisco,Q3,Tier 1,36,Male,40,16.0,79.9,Medium,126029.78,128275.98,10689.66,2246.2,1
+PRJ-FIN-1587,IT & Cloud,Software Licenses,Bangalore,Q3,Tier 3,34,Female,49,11.0,48.7,High,170158.54,179237.51,14936.46,9078.97,0
+PRJ-FIN-1588,Marketing & Growth,Hardware Upgrades,London,Q4,Tier 1,51,Female,94,6.0,58.9,Medium,187662.9,200444.95,16703.75,12782.05,0
+PRJ-FIN-1589,IT & Cloud,Marketing Campaigns,Berlin,Q4,Tier 1,32,Male,75,27.0,86.3,Critical,205845.39,294427.58,24535.63,88582.19,0
+PRJ-FIN-1590,Legal & Compliance,Hardware Upgrades,London,Q2,Tier 2,28,Male,50,11.0,88.2,Medium,135284.82,129839.81,10819.98,-5445.01,1
+PRJ-FIN-1591,Human Resources,Software Licenses,Toronto,Q2,Tier 3,54,Female,85,10.0,60.6,Medium,120898.74,117906.85,9825.57,-2991.89,1
+PRJ-FIN-1592,Human Resources,Consulting Services,London,Q3,Tier 2,32,Male,36,5.0,78.5,Low,94082.48,96387.38,8032.28,2304.9,0
+PRJ-FIN-1593,Marketing & Growth,Facility Operations,Tokyo,Q3,Tier 1,47,Male,78,5.0,70.4,Medium,189765.15,179113.65,14926.14,-10651.5,1
+PRJ-FIN-1594,Legal & Compliance,Marketing Campaigns,London,Q1,Tier 3,45,Female,87,20.0,74.7,High,104100.66,110091.21,9174.27,5990.55,0
+PRJ-FIN-1595,Engineering,Cloud Infrastructure,Bangalore,Q4,Tier 3,37,Male,17,16.0,61.8,Medium,137497.63,168322.15,14026.85,30824.52,0
+PRJ-FIN-1596,Engineering,Staff Augmentation,New York,Q3,Tier 1,51,Female,86,18.0,82.4,Medium,204764.04,218919.86,18243.32,14155.82,0
+PRJ-FIN-1597,Engineering,Software Licenses,New York,Q2,Tier 2,52,Female,47,10.0,31.1,High,143137.68,175804.89,14650.41,32667.21,0
+PRJ-FIN-1598,Legal & Compliance,Marketing Campaigns,Bangalore,Q1,Tier 1,41,Male,11,4.0,53.5,High,116580.61,118655.27,9887.94,2074.66,1
+PRJ-FIN-1599,Engineering,Cloud Infrastructure,Bangalore,Q1,Tier 3,41,Male,8,41.0,72.7,Critical,154163.07,186480.67,15540.06,32317.6,0
+PRJ-FIN-1600,Marketing & Growth,Cloud Infrastructure,Tokyo,Q2,Tier 2,31,Female,11,19.0,90.4,Medium,101323.73,104510.77,8709.23,3187.04,0
+PRJ-FIN-1601,Sales Operations,Facility Operations,San Francisco,Q4,Tier 2,41,Male,43,12.0,80.6,Medium,106995.75,117719.02,9809.92,10723.27,0
+PRJ-FIN-1602,Marketing & Growth,Software Licenses,San Francisco,Q2,Tier 2,31,Female,105,8.0,65.0,Medium,152590.12,140566.13,11713.84,-12023.99,1
+PRJ-FIN-1603,Finance & Accounting,Consulting Services,San Francisco,Q4,Tier 1,37,Female,73,45.0,69.6,Critical,127594.96,184415.76,15367.98,56820.8,0
+PRJ-FIN-1604,Engineering,Consulting Services,Berlin,Q2,Tier 2,37,Female,64,48.0,96.9,Critical,177846.9,186390.14,15532.51,8543.24,0
+PRJ-FIN-1605,Sales Operations,Facility Operations,Tokyo,Q2,Tier 3,30,Male,55,7.0,52.5,High,138461.67,151113.39,12592.78,12651.72,0
+PRJ-FIN-1606,Finance & Accounting,Marketing Campaigns,San Francisco,Q2,Tier 1,32,Male,25,5.0,54.6,High,121421.46,131571.61,10964.3,10150.15,0
+PRJ-FIN-1607,Legal & Compliance,Staff Augmentation,San Francisco,Q1,Tier 2,44,Male,46,5.0,,Medium,144753.17,142459.16,11871.6,-2294.01,1
+PRJ-FIN-1608,Engineering,Software Licenses,San Francisco,Q1,Tier 2,53,Male,94,10.0,89.1,Medium,228873.71,195822.63,16318.55,-33051.08,1
+PRJ-FIN-1609,IT & Cloud,Cloud Infrastructure,Berlin,Q1,Tier 3,41,Male,20,15.0,54.7,High,101802.89,104639.98,8720.0,2837.09,0
+PRJ-FIN-1610,R&D Innovation,Hardware Upgrades,Singapore,Q3,Tier 1,45,Male,99,21.0,89.0,High,209760.34,188118.02,15676.5,-21642.32,1
+PRJ-FIN-1611,Marketing & Growth,Marketing Campaigns,Singapore,Q4,Tier 1,46,Female,59,15.0,80.8,Medium,237346.3,258813.94,21567.83,21467.64,0
+PRJ-FIN-1612,R&D Innovation,Cloud Infrastructure,Singapore,Q1,Tier 1,36,Male,100,7.0,68.7,Medium,238702.34,240433.11,20036.09,1730.77,1
+PRJ-FIN-1613,R&D Innovation,Hardware Upgrades,London,Q2,Tier 2,38,Female,92,11.0,49.6,High,210064.41,215452.06,17954.34,5387.65,0
+PRJ-FIN-1614,Marketing & Growth,Staff Augmentation,New York,Q2,Tier 1,52,Male,28,13.0,68.4,Medium,152481.35,147901.72,12325.14,-4579.63,1
+PRJ-FIN-1615,Marketing & Growth,Facility Operations,Tokyo,Q4,Tier 1,53,Female,91,11.0,81.7,Medium,208781.56,239059.33,19921.61,30277.77,0
+PRJ-FIN-1616,Marketing & Growth,Staff Augmentation,Singapore,Q2,Tier 2,42,Male,98,18.0,83.9,Medium,178265.87,172215.68,14351.31,-6050.19,1
+PRJ-FIN-1617,Marketing & Growth,Consulting Services,New York,Q4,Tier 1,39,Female,67,16.0,74.0,Medium,195492.96,204496.76,17041.4,9003.8,0
+PRJ-FIN-1618,Sales Operations,Consulting Services,San Francisco,Q2,Tier 1,65,Male,33,,54.1,High,153323.86,169413.73,14117.81,16089.87,0
+PRJ-FIN-1619,Engineering,Facility Operations,San Francisco,Q3,Tier 2,39,Female,22,21.0,85.9,High,189417.87,209904.79,17492.07,20486.92,0
+PRJ-FIN-1620,R&D Innovation,Staff Augmentation,New York,Q2,Tier 2,41,Male,85,10.0,69.2,Medium,204819.98,191583.46,15965.29,-13236.52,1
+PRJ-FIN-1621,IT & Cloud,Cloud Infrastructure,Toronto,Q2,Tier 1,45,Male,28,16.0,72.2,Medium,129643.07,122486.16,10207.18,-7156.91,1
+PRJ-FIN-1622,IT & Cloud,Marketing Campaigns,London,Q1,Tier 2,44,Female,46,6.0,64.1,Medium,149490.14,,,20504.57,0
+PRJ-FIN-1623,Sales Operations,Hardware Upgrades,Berlin,Q2,Tier 1,42,Male,83,3.0,50.1,High,220527.63,252500.25,21041.69,31972.62,0
+PRJ-FIN-1624,Legal & Compliance,Software Licenses,Sydney,Q4,Tier 1,52,Female,7,29.0,78.8,Critical,66425.68,95838.52,7986.54,29412.84,0
+PRJ-FIN-1625,R&D Innovation,Software Licenses,Toronto,Q2,Tier 1,41,Male,45,10.0,56.5,Medium,117640.48,110779.84,9231.65,-6860.64,1
+PRJ-FIN-1626,Marketing & Growth,Consulting Services,Toronto,Q3,Tier 1,48,Female,98,11.0,60.8,Medium,191316.03,178370.24,14864.19,-12945.79,1
+PRJ-FIN-1627,Legal & Compliance,Hardware Upgrades,New York,Q3,Tier 2,37,Non-Binary,62,25.0,79.8,High,96214.28,104220.46,8685.04,8006.18,0
+PRJ-FIN-1628,Finance & Accounting,Software Licenses,Chicago,Q2,Tier 1,53,Male,88,8.0,64.8,Medium,168978.25,166007.39,13833.95,-2970.86,1
+PRJ-FIN-1629,Engineering,Software Licenses,Berlin,Q4,Tier 1,38,Male,90,15.0,63.1,Medium,296319.29,340482.33,28373.53,44163.04,0
+PRJ-FIN-1630,R&D Innovation,Facility Operations,London,Q4,Tier 2,38,Male,24,5.0,56.1,Medium,230001.92,262540.03,21878.34,32538.11,0
+PRJ-FIN-1631,IT & Cloud,Hardware Upgrades,Singapore,Q1,Tier 1,32,Male,53,26.0,80.8,Critical,156333.74,183979.79,15331.65,27646.05,0
+PRJ-FIN-1632,Marketing & Growth,Hardware Upgrades,Bangalore,Q1,Tier 1,36,Male,82,7.0,50.3,High,223354.03,240193.11,20016.09,16839.08,0
+PRJ-FIN-1633,Human Resources,Software Licenses,Tokyo,Q3,Tier 3,54,Male,44,,67.0,Medium,103828.9,95716.78,7976.4,-8112.12,1
+PRJ-FIN-1634,Sales Operations,Consulting Services,Sydney,Q3,Tier 1,35,Male,49,7.0,69.9,Medium,93250.54,94380.75,7865.06,1130.21,1
+PRJ-FIN-1635,Legal & Compliance,Marketing Campaigns,London,Q1,Tier 2,48,Female,29,8.0,61.5,Medium,96442.52,84003.42,7000.28,-12439.1,1
+PRJ-FIN-1636,Engineering,Marketing Campaigns,Tokyo,Q2,Tier 1,44,Male,11,26.0,60.0,,125377.61,161461.96,13455.16,36084.35,0
+PRJ-FIN-1637,Sales Operations,Software Licenses,Tokyo,Q1,Tier 1,32,Female,50,26.0,56.6,Critical,112496.39,137288.98,11440.75,24792.59,0
+PRJ-FIN-1638,Engineering,Cloud Infrastructure,Tokyo,Q4,Tier 3,33,Female,73,8.0,65.5,Medium,236324.17,283917.07,23659.76,47592.9,0
+PRJ-FIN-1639,Engineering,Consulting Services,Tokyo,Q2,Tier 2,39,Female,43,23.0,50.7,,168518.5,173582.6,14465.22,5064.1,0
+PRJ-FIN-1640,Marketing & Growth,Software Licenses,London,Q4,Tier 1,51,Female,7,13.0,49.1,High,95077.33,138338.47,11528.21,43261.14,0
+PRJ-FIN-1641,R&D Innovation,Software Licenses,San Francisco,Q2,Tier 2,38,Female,103,9.0,35.1,High,201203.12,214706.25,17892.19,13503.13,0
+PRJ-FIN-1642,Human Resources,Hardware Upgrades,San Francisco,Q4,Tier 1,36,Male,58,5.0,71.0,Medium,109344.73,121201.23,10100.1,11856.5,0
+PRJ-FIN-1643,Marketing & Growth,Cloud Infrastructure,San Francisco,Q1,Tier 1,35,Male,81,7.0,43.0,High,183222.15,197881.86,16490.16,14659.71,0
+PRJ-FIN-1644,Marketing & Growth,Hardware Upgrades,Berlin,Q2,Tier 2,54,Male,74,5.0,83.4,Low,188525.08,144447.71,12037.31,-44077.37,1
+PRJ-FIN-1645,Sales Operations,Marketing Campaigns,Tokyo,Q4,Tier 2,58,Male,90,7.0,69.0,Medium,207075.03,220659.49,18388.29,13584.46,0
+PRJ-FIN-1646,Marketing & Growth,Marketing Campaigns,Singapore,Q4,Tier 2,38,Female,95,10.0,59.2,Medium,197108.27,222389.34,18532.44,25281.07,0
+PRJ-FIN-1647,Engineering,Facility Operations,New York,Q2,Tier 1,57,Female,35,6.0,86.0,Low,166819.33,143628.55,11969.05,-23190.78,1
+PRJ-FIN-1648,Human Resources,Hardware Upgrades,Chicago,Q4,Tier 3,54,Male,105,26.0,77.3,Critical,151850.46,199659.72,16638.31,47809.26,0
+PRJ-FIN-1649,Finance & Accounting,Software Licenses,San Francisco,Q1,Tier 1,33,Female,72,4.0,58.0,Medium,114609.26,,,-9785.4,1
+PRJ-FIN-1650,Engineering,Facility Operations,Sydney,Q1,Tier 2,57,Female,108,16.0,60.9,Medium,291044.38,236340.45,19695.04,-54703.93,1
+PRJ-FIN-1651,Marketing & Growth,Facility Operations,London,Q4,Tier 1,32,Male,43,12.0,57.2,Medium,144639.91,,,9435.15,0
+PRJ-FIN-1652,Marketing & Growth,Marketing Campaigns,San Francisco,Q4,Tier 2,39,Male,41,17.0,56.1,Medium,191802.69,200539.95,16711.66,8737.26,0
+PRJ-FIN-1653,Sales Operations,Facility Operations,San Francisco,Q4,Tier 2,39,Male,77,4.0,80.6,Low,205021.38,211174.27,17597.86,6152.89,0
+PRJ-FIN-1654,Marketing & Growth,Facility Operations,San Francisco,Q1,Tier 2,33,Female,68,12.0,61.1,Medium,128001.26,119453.24,9954.44,-8548.02,1
+PRJ-FIN-1655,R&D Innovation,Staff Augmentation,Berlin,Q2,Tier 1,37,Female,58,23.0,66.7,High,218564.98,244786.07,20398.84,26221.09,0
+PRJ-FIN-1656,Human Resources,Facility Operations,London,Q1,Tier 1,44,Male,67,22.0,81.6,High,121745.97,125647.73,10470.64,3901.76,0
+PRJ-FIN-1657,Marketing & Growth,Facility Operations,San Francisco,Q1,Tier 2,47,Male,52,31.0,75.7,Critical,144929.47,151397.19,12616.43,6467.72,0
+PRJ-FIN-1658,Engineering,Hardware Upgrades,London,Q2,Tier 2,43,Female,33,22.0,48.3,High,226792.84,252187.94,21015.66,25395.1,0
+PRJ-FIN-1659,Sales Operations,Consulting Services,London,Q1,Tier 2,42,Male,57,48.0,65.4,Critical,144909.51,144805.86,12067.16,-103.65,1
+PRJ-FIN-1660,Marketing & Growth,Marketing Campaigns,Bangalore,Q2,Tier 1,38,Male,90,6.0,90.2,Low,195985.66,174166.89,14513.91,-21818.77,1
+PRJ-FIN-1661,Marketing & Growth,Facility Operations,London,Q3,Tier 2,50,Male,16,6.0,64.2,Medium,86831.83,87077.74,7256.48,245.91,1
+PRJ-FIN-1662,Human Resources,Staff Augmentation,London,Q3,Tier 1,40,Male,76,11.0,59.6,Medium,124436.87,118302.02,9858.5,-6134.85,1
+PRJ-FIN-1663,Legal & Compliance,Software Licenses,Tokyo,Q3,Tier 1,31,Male,64,4.0,74.6,Medium,116974.03,124276.32,10356.36,7302.29,0
+PRJ-FIN-1664,Human Resources,Facility Operations,San Francisco,Q4,Tier 2,28,Female,19,14.0,78.1,Medium,73405.57,77320.16,6443.35,3914.59,0
+PRJ-FIN-1665,Sales Operations,Consulting Services,Singapore,Q1,Tier 3,29,Female,47,23.0,87.1,High,126985.15,136408.22,11367.35,9423.07,0
+PRJ-FIN-1666,Engineering,Cloud Infrastructure,Berlin,Q4,Tier 1,60,Male,18,42.0,75.0,Critical,160133.5,208892.12,17407.68,48758.62,0
+PRJ-FIN-1667,Human Resources,Consulting Services,Tokyo,Q3,Tier 2,55,Female,19,48.0,66.6,Critical,88097.52,111857.41,9321.45,23759.89,0
+PRJ-FIN-1668,Engineering,Facility Operations,San Francisco,Q2,Tier 2,33,Female,93,4.0,62.6,Medium,223202.72,172981.56,14415.13,-50221.16,1
+PRJ-FIN-1669,Engineering,Staff Augmentation,New York,Q2,Tier 2,37,Male,62,12.0,52.1,High,258010.24,319702.28,26641.86,61692.04,0
+PRJ-FIN-1670,Engineering,Consulting Services,New York,Q3,Tier 2,47,Male,30,15.0,54.5,High,145964.17,172330.38,14360.86,26366.21,0
+PRJ-FIN-1671,Finance & Accounting,Staff Augmentation,San Francisco,Q4,Tier 3,30,Male,86,7.0,77.0,Low,170055.44,162013.03,13501.09,-8042.41,1
+PRJ-FIN-1672,R&D Innovation,Software Licenses,Sydney,Q3,Tier 2,27,Female,81,11.0,49.0,High,187690.55,218765.28,18230.44,31074.73,0
+PRJ-FIN-1673,IT & Cloud,Cloud Infrastructure,San Francisco,Q2,Tier 3,30,Male,50,,75.9,Low,147189.37,134240.53,11186.71,-12948.84,1
+PRJ-FIN-1674,Sales Operations,Staff Augmentation,Toronto,Q3,Tier 3,40,Male,8,5.0,67.0,Medium,138407.65,150723.26,12560.27,12315.61,0
+PRJ-FIN-1675,Finance & Accounting,Consulting Services,Bangalore,Q4,Tier 2,46,Non-Binary,28,31.0,59.8,Critical,117629.78,164129.2,13677.43,46499.42,0
+PRJ-FIN-1676,Marketing & Growth,Consulting Services,New York,Q3,Tier 1,46,Male,108,8.0,53.6,High,182968.82,204168.56,17014.05,21199.74,0
+PRJ-FIN-1677,Sales Operations,Cloud Infrastructure,Toronto,Q2,Tier 3,48,Male,27,13.0,49.3,High,129080.21,130110.87,10842.57,1030.66,1
+PRJ-FIN-1678,Marketing & Growth,Staff Augmentation,Sydney,Q3,Tier 1,42,Male,9,5.0,85.5,Low,137324.76,124877.04,10406.42,-12447.72,1
+PRJ-FIN-1679,Marketing & Growth,Software Licenses,San Francisco,Q3,Tier 2,42,Female,43,27.0,61.8,Critical,125131.08,146768.47,12230.71,21637.39,0
+PRJ-FIN-1680,IT & Cloud,Software Licenses,San Francisco,Q4,Tier 1,46,Male,5,4.0,65.7,Medium,114405.93,143768.65,11980.72,29362.72,0
+PRJ-FIN-1681,Sales Operations,Software Licenses,London,Q1,Tier 2,40,Male,12,13.0,62.9,Medium,126658.69,118104.19,9842.02,-8554.5,1
+PRJ-FIN-1682,Marketing & Growth,Marketing Campaigns,Chicago,Q4,Tier 1,45,Male,65,16.0,59.3,Medium,136481.8,141854.59,11821.22,5372.79,0
+PRJ-FIN-1683,Human Resources,Software Licenses,Singapore,Q2,Tier 1,42,Female,109,5.0,71.9,Medium,138644.08,149093.58,12424.46,10449.5,0
+PRJ-FIN-1684,Marketing & Growth,Software Licenses,New York,Q4,Tier 1,35,Male,64,,61.6,Medium,200401.42,213117.64,17759.8,12716.22,0
+PRJ-FIN-1685,IT & Cloud,Marketing Campaigns,Berlin,Q1,Tier 2,43,Female,89,7.0,44.2,High,195172.42,218300.37,18191.7,23127.95,0
+PRJ-FIN-1686,Engineering,Software Licenses,Bangalore,Q3,Tier 1,51,Non-Binary,67,39.0,57.8,Critical,207803.67,266926.88,22243.91,59123.21,0
+PRJ-FIN-1687,Legal & Compliance,Software Licenses,New York,Q1,Tier 2,49,Male,108,21.0,63.3,High,166175.13,188907.91,15742.33,22732.78,0
+PRJ-FIN-1688,Marketing & Growth,Cloud Infrastructure,Singapore,Q1,Tier 2,29,Female,12,16.0,62.1,Medium,99710.16,101299.35,8441.61,1589.19,1
+PRJ-FIN-1689,Sales Operations,Hardware Upgrades,New York,Q3,Tier 3,35,Non-Binary,107,22.0,68.0,High,183077.7,226511.46,18875.95,43433.76,0
+PRJ-FIN-1690,Engineering,Hardware Upgrades,San Francisco,Q1,Tier 1,46,Male,56,7.0,80.0,Low,196166.64,168352.71,14029.39,-27813.93,1
+PRJ-FIN-1691,Engineering,Staff Augmentation,London,Q3,Tier 1,44,Male,83,36.0,63.5,Critical,204660.46,252421.56,21035.13,47761.1,0
+PRJ-FIN-1692,Sales Operations,Hardware Upgrades,Tokyo,Q1,Tier 1,27,Female,52,,77.0,Medium,128227.4,124598.6,10383.22,-3628.8,1
+PRJ-FIN-1693,Sales Operations,Cloud Infrastructure,Sydney,Q4,Tier 3,48,Male,92,15.0,74.9,Medium,156740.59,188283.38,15690.28,31542.79,0
+PRJ-FIN-1694,IT & Cloud,Marketing Campaigns,London,Q1,Tier 3,45,Male,25,9.0,87.9,Low,177435.22,153587.7,12798.98,-23847.52,1
+PRJ-FIN-1695,IT & Cloud,Software Licenses,San Francisco,Q4,Tier 1,42,Male,28,7.0,82.7,Low,184007.96,191516.73,15959.73,7508.77,0
+PRJ-FIN-1696,IT & Cloud,Software Licenses,Toronto,Q3,Tier 1,53,Male,53,17.0,41.8,High,126920.29,149824.68,12485.39,22904.39,0
+PRJ-FIN-1697,Engineering,Staff Augmentation,Singapore,Q2,Tier 1,42,Male,20,32.0,46.2,Critical,168064.11,216846.63,18070.55,48782.52,0
+PRJ-FIN-1698,Sales Operations,Software Licenses,San Francisco,Q4,Tier 2,46,Female,69,7.0,69.4,Medium,158203.62,202770.39,16897.53,44566.77,0
+PRJ-FIN-1699,Marketing & Growth,Marketing Campaigns,New York,Q3,Tier 1,30,Female,61,17.0,99.0,Medium,162848.81,154455.53,12871.29,-8393.28,1
+PRJ-FIN-1700,Human Resources,Software Licenses,San Francisco,Q3,Tier 2,24,Female,88,33.0,69.4,Critical,122002.14,151065.99,12588.83,29063.85,0
+PRJ-FIN-1701,Human Resources,Cloud Infrastructure,Bangalore,Q3,Tier 1,34,Female,35,11.0,46.7,High,79502.52,95456.41,7954.7,15953.89,0
+PRJ-FIN-1702,Human Resources,Marketing Campaigns,Berlin,Q3,Tier 2,31,Male,22,13.0,58.5,Medium,69861.92,71092.33,5924.36,1230.41,1
+PRJ-FIN-1703,Marketing & Growth,Software Licenses,Singapore,Q3,Tier 2,44,Female,41,4.0,98.3,Low,165461.95,156738.73,13061.56,-8723.22,1
+PRJ-FIN-1704,IT & Cloud,Marketing Campaigns,Tokyo,Q4,Tier 3,48,Female,53,4.0,85.9,Low,198665.04,201408.21,16784.02,2743.17,1
+PRJ-FIN-1705,Marketing & Growth,Software Licenses,San Francisco,Q2,Tier 2,48,Female,66,9.0,65.9,Medium,138194.68,122768.1,10230.68,-15426.58,1
+PRJ-FIN-1706,Sales Operations,Hardware Upgrades,Singapore,Q4,Tier 3,44,Female,43,5.0,74.9,,117102.58,139012.4,11584.37,21909.82,0
+PRJ-FIN-1707,IT & Cloud,Staff Augmentation,Tokyo,Q1,Tier 2,36,Male,106,12.0,75.5,Medium,244195.79,258843.98,21570.33,14648.19,0
+PRJ-FIN-1708,Sales Operations,Consulting Services,New York,Q3,Tier 1,56,Female,67,27.0,77.1,Critical,154695.53,169913.11,14159.43,15217.58,0
+PRJ-FIN-1709,Engineering,Software Licenses,New York,Q4,Tier 2,40,Male,77,10.0,77.3,Medium,196792.55,214180.08,17848.34,17387.53,0
+PRJ-FIN-1710,Engineering,Software Licenses,Bangalore,Q2,Tier 2,44,Female,101,25.0,66.1,High,302996.13,318477.54,26539.8,15481.41,0
+PRJ-FIN-1711,IT & Cloud,Marketing Campaigns,New York,Q3,Tier 3,55,Male,11,4.0,89.3,Low,169459.72,159716.79,13309.73,-9742.93,1
+PRJ-FIN-1712,Engineering,Cloud Infrastructure,San Francisco,Q1,Tier 1,57,Female,95,10.0,75.0,Medium,335581.59,309121.51,25760.13,-26460.08,1
+PRJ-FIN-1713,IT & Cloud,Hardware Upgrades,London,Q1,Tier 2,50,Male,75,7.0,48.5,High,156211.64,139925.11,11660.43,-16286.53,1
+PRJ-FIN-1714,Engineering,Software Licenses,San Francisco,Q3,Tier 2,38,Female,41,3.0,,High,164467.17,176477.18,14706.43,12010.01,0
+PRJ-FIN-1715,Sales Operations,Software Licenses,San Francisco,Q4,Tier 3,45,Male,106,11.0,59.1,Medium,132292.74,157160.49,13096.71,24867.75,0
+PRJ-FIN-1716,Engineering,Cloud Infrastructure,New York,Q1,Tier 1,30,Male,18,30.0,84.0,Critical,142433.57,166509.88,13875.82,24076.31,0
+PRJ-FIN-1717,Marketing & Growth,Staff Augmentation,Chicago,Q1,Tier 1,24,Male,41,11.0,80.8,Medium,180086.73,154322.47,12860.21,-25764.26,1
+PRJ-FIN-1718,Engineering,Cloud Infrastructure,London,Q3,Tier 2,58,Female,32,,62.6,Medium,147382.58,136701.49,11391.79,-10681.09,1
+PRJ-FIN-1719,Engineering,Consulting Services,New York,Q2,Tier 3,49,Male,99,13.0,73.5,Medium,255786.29,223778.99,18648.25,-32007.3,1
+PRJ-FIN-1720,R&D Innovation,Facility Operations,New York,Q1,Tier 2,41,Female,53,7.0,95.0,Low,147607.87,115119.82,9593.32,-32488.05,1
+PRJ-FIN-1721,Sales Operations,Facility Operations,San Francisco,Q2,Tier 1,51,Male,101,13.0,98.4,Medium,235256.36,207166.07,17263.84,-28090.29,1
+PRJ-FIN-1722,Marketing & Growth,Consulting Services,Toronto,Q2,Tier 1,30,Male,11,37.0,62.3,Critical,100650.54,126340.79,10528.4,25690.25,0
+PRJ-FIN-1723,Sales Operations,Marketing Campaigns,London,Q1,Tier 3,33,Male,84,21.0,55.5,High,213905.6,224793.14,18732.76,10887.54,0
+PRJ-FIN-1724,Marketing & Growth,Cloud Infrastructure,London,Q2,Tier 1,42,Male,75,4.0,85.4,Low,175819.33,144843.72,12070.31,-30975.61,1
+PRJ-FIN-1725,Finance & Accounting,Consulting Services,Bangalore,Q3,Tier 1,32,Male,86,13.0,49.5,High,159885.9,188967.59,15747.3,29081.69,0
+PRJ-FIN-1726,Finance & Accounting,Software Licenses,San Francisco,Q3,Tier 2,51,Male,49,19.0,,High,78628.08,91663.23,7638.6,13035.15,0
+PRJ-FIN-1727,Engineering,Facility Operations,Bangalore,Q3,Tier 1,45,Female,80,21.0,62.6,High,178606.69,200054.94,16671.24,21448.25,0
+PRJ-FIN-1728,Finance & Accounting,Facility Operations,San Francisco,Q4,Tier 2,46,Female,59,19.0,62.7,Medium,89616.71,98454.27,8204.52,8837.56,0
+PRJ-FIN-1729,Finance & Accounting,Staff Augmentation,New York,Q4,Tier 1,43,Female,51,10.0,68.7,,98735.71,108151.73,9012.64,9416.02,0
+PRJ-FIN-1730,Sales Operations,Software Licenses,New York,Q1,Tier 1,38,Female,91,9.0,73.0,Medium,196323.62,153645.58,12803.8,-42678.04,1
+PRJ-FIN-1731,R&D Innovation,Cloud Infrastructure,London,Q3,Tier 1,29,Male,46,14.0,86.8,Medium,199504.83,176966.9,14747.24,-22537.93,1
+PRJ-FIN-1732,Marketing & Growth,Facility Operations,Toronto,Q2,Tier 2,38,Male,80,11.0,71.0,Medium,172449.47,145615.89,12134.66,-26833.58,1
+PRJ-FIN-1733,Finance & Accounting,Hardware Upgrades,Tokyo,Q3,Tier 2,46,Female,68,4.0,63.9,Medium,147180.84,161472.56,13456.05,14291.72,0
+PRJ-FIN-1734,Engineering,Software Licenses,San Francisco,Q2,Tier 3,44,Male,68,27.0,50.8,Critical,172705.64,200763.07,16730.26,28057.43,0
+PRJ-FIN-1735,Engineering,Cloud Infrastructure,London,Q1,Tier 1,45,Female,14,8.0,63.3,Medium,100679.05,85848.5,7154.04,-14830.55,1
+PRJ-FIN-1736,Engineering,Software Licenses,London,Q3,Tier 2,52,Male,14,17.0,54.9,High,187504.66,210391.66,17532.64,22887.0,0
+PRJ-FIN-1737,Engineering,Staff Augmentation,Tokyo,Q2,Tier 1,49,Male,68,18.0,56.1,Medium,175580.2,169568.66,14130.72,-6011.54,1
+PRJ-FIN-1738,Marketing & Growth,Marketing Campaigns,Bangalore,Q1,Tier 1,43,Male,17,7.0,66.8,Medium,88425.83,82624.39,6885.37,-5801.44,1
+PRJ-FIN-1739,Sales Operations,Hardware Upgrades,Tokyo,Q2,Tier 3,39,Male,100,,77.3,Low,174443.76,157566.26,13130.52,-16877.5,1
+PRJ-FIN-1740,Marketing & Growth,Cloud Infrastructure,New York,Q4,Tier 2,37,Female,107,19.0,94.7,Medium,229422.72,264944.72,22078.73,35522.0,0
+PRJ-FIN-1741,Sales Operations,Software Licenses,San Francisco,Q4,Tier 3,30,Male,92,5.0,51.6,High,142750.92,181852.81,15154.4,39101.89,0
+PRJ-FIN-1742,Marketing & Growth,Cloud Infrastructure,Sydney,Q3,Tier 1,45,Non-Binary,60,13.0,85.8,Medium,140235.21,154621.88,12885.16,14386.67,0
+PRJ-FIN-1743,Marketing & Growth,Consulting Services,Tokyo,Q3,Tier 1,50,Female,55,7.0,80.9,Low,165256.12,150717.68,12559.81,-14538.44,1
+PRJ-FIN-1744,Marketing & Growth,Cloud Infrastructure,Toronto,Q3,Tier 2,65,Male,20,4.0,55.4,Medium,120741.96,96218.91,8018.24,-24523.05,1
+PRJ-FIN-1745,Finance & Accounting,Marketing Campaigns,New York,Q1,Tier 2,31,Male,12,5.0,48.8,High,60033.57,57437.71,4786.48,-2595.86,1
+PRJ-FIN-1746,Engineering,Software Licenses,Singapore,Q1,Tier 1,43,Female,76,4.0,77.8,Low,212972.56,178025.42,14835.45,-34947.14,1
+PRJ-FIN-1747,R&D Innovation,Marketing Campaigns,Tokyo,Q2,Tier 2,41,Male,19,4.0,75.3,Low,188410.84,132378.55,11031.55,-56032.29,1
+PRJ-FIN-1748,Finance & Accounting,Marketing Campaigns,Toronto,Q1,Tier 1,31,Male,37,3.0,56.3,Medium,116068.15,318945.592,26578.8,202877.442,0
+PRJ-FIN-1749,Marketing & Growth,Hardware Upgrades,Bangalore,Q4,Tier 2,24,Male,98,,61.0,Medium,180073.36,224278.87,18689.91,44205.51,0
+PRJ-FIN-1750,Marketing & Growth,Consulting Services,New York,Q4,Tier 3,38,Male,39,11.0,49.6,High,146826.16,202522.09,16876.84,55695.93,0
+PRJ-FIN-1751,Legal & Compliance,Hardware Upgrades,Bangalore,Q2,Tier 1,64,Female,103,5.0,62.9,Medium,157053.84,156231.36,13019.28,-822.48,1
+PRJ-FIN-1752,Human Resources,Consulting Services,New York,Q4,Tier 1,50,Female,78,41.0,69.4,Critical,119392.93,165941.69,13828.47,46548.76,0
+PRJ-FIN-1753,Sales Operations,Consulting Services,Singapore,Q2,Tier 2,51,Male,44,8.0,63.4,Medium,94250.8,86833.93,7236.16,-7416.87,1
+PRJ-FIN-1754,IT & Cloud,Staff Augmentation,Tokyo,Q1,Tier 3,43,Female,88,15.0,58.3,Medium,186388.19,185000.34,15416.7,-1387.85,1
+PRJ-FIN-1755,R&D Innovation,Cloud Infrastructure,New York,Q3,Tier 2,32,Male,33,,69.7,Medium,170137.12,167628.0,13969.0,-2509.12,1
+PRJ-FIN-1756,Legal & Compliance,Consulting Services,New York,Q2,Tier 1,44,Female,89,11.0,70.5,Medium,122533.42,127426.47,10618.87,4893.05,0
+PRJ-FIN-1757,Engineering,Software Licenses,Sydney,Q4,Tier 1,31,Female,55,23.0,82.2,High,403312.425,,,35885.27,0
+PRJ-FIN-1758,Engineering,Cloud Infrastructure,London,Q1,Tier 2,42,Male,20,7.0,57.5,Medium,88772.82,89841.53,7486.79,1068.71,1
+PRJ-FIN-1759,Human Resources,Consulting Services,New York,Q2,Tier 1,52,Male,89,6.0,39.1,High,113120.78,131648.04,10970.67,18527.26,0
+PRJ-FIN-1760,IT & Cloud,Cloud Infrastructure,New York,Q1,Tier 1,50,Female,83,4.0,67.5,,146117.84,155798.24,12983.19,9680.4,0
+PRJ-FIN-1761,R&D Innovation,Facility Operations,Sydney,Q2,Tier 1,48,Female,91,9.0,77.6,Low,246861.39,197466.55,16455.55,-49394.84,1
+PRJ-FIN-1762,Finance & Accounting,Hardware Upgrades,London,Q3,Tier 3,42,Female,66,10.0,36.7,High,106719.38,136418.82,11368.24,29699.44,0
+PRJ-FIN-1763,IT & Cloud,Hardware Upgrades,London,Q1,Tier 2,24,Male,105,,73.4,Medium,230127.99,203557.87,16963.16,-26570.12,1
+PRJ-FIN-1764,Sales Operations,Hardware Upgrades,Singapore,Q1,Tier 3,54,Female,13,36.0,81.0,Critical,138064.53,167290.27,13940.86,29225.74,0
+PRJ-FIN-1765,IT & Cloud,Hardware Upgrades,Singapore,Q3,Tier 1,51,Male,96,3.0,66.1,Medium,280754.18,321964.65,26830.39,41210.47,0
+PRJ-FIN-1766,R&D Innovation,Consulting Services,London,Q3,Tier 2,51,Female,47,48.0,58.1,Critical,120828.38,153431.94,12786.0,32603.56,0
+PRJ-FIN-1767,Legal & Compliance,Hardware Upgrades,San Francisco,Q4,Tier 3,33,Female,73,7.0,70.8,Medium,114580.87,117635.09,9802.92,3054.22,0
+PRJ-FIN-1768,Sales Operations,Marketing Campaigns,Bangalore,Q4,Tier 1,54,Male,34,4.0,61.5,Medium,102291.04,100221.35,8351.78,-2069.69,1
+PRJ-FIN-1769,IT & Cloud,Marketing Campaigns,New York,Q4,Tier 1,29,Male,50,4.0,,Medium,150666.41,172281.58,14356.8,21615.17,0
+PRJ-FIN-1770,Engineering,Software Licenses,New York,Q4,Tier 1,24,Male,72,8.0,,High,226644.07,287720.03,23976.67,61075.96,0
+PRJ-FIN-1771,IT & Cloud,Software Licenses,Toronto,Q4,Tier 1,34,Male,64,12.0,72.8,Medium,220557.74,225969.54,18830.8,5411.8,0
+PRJ-FIN-1772,Legal & Compliance,Facility Operations,Berlin,Q1,Tier 2,45,Male,76,6.0,82.0,Low,129325.3,97184.94,8098.74,-32140.36,1
+PRJ-FIN-1773,Marketing & Growth,Cloud Infrastructure,Singapore,Q2,Tier 1,35,Male,9,13.0,76.1,Medium,110068.55,99070.61,8255.88,-10997.94,1
+PRJ-FIN-1774,Sales Operations,Hardware Upgrades,Singapore,Q3,Tier 3,49,Male,101,15.0,78.2,Medium,215345.54,222981.34,18581.78,7635.8,0
+PRJ-FIN-1775,Sales Operations,Facility Operations,Toronto,Q1,Tier 2,46,Female,87,3.0,53.5,High,145102.12,163472.99,13622.75,18370.87,0
+PRJ-FIN-1776,IT & Cloud,Consulting Services,San Francisco,Q2,Tier 1,34,Male,99,23.0,,High,251058.67,281308.46,23442.37,30249.79,0
+PRJ-FIN-1777,IT & Cloud,Software Licenses,Chicago,Q1,Tier 1,41,Male,91,5.0,54.8,High,182334.7,192151.0,16012.58,9816.3,0
+PRJ-FIN-1778,Sales Operations,Cloud Infrastructure,London,Q2,Tier 1,43,Male,107,7.0,52.1,High,234197.26,284798.83,23733.24,50601.57,0
+PRJ-FIN-1779,Human Resources,Cloud Infrastructure,Tokyo,Q1,Tier 1,41,Male,30,13.0,70.3,Medium,101378.37,98154.85,8179.57,-3223.52,1
+PRJ-FIN-1780,Engineering,Facility Operations,New York,Q3,Tier 1,25,Female,71,17.0,41.7,High,238829.91,267931.57,22327.63,29101.66,0
+PRJ-FIN-1781,Engineering,Hardware Upgrades,San Francisco,Q3,Tier 3,42,Female,87,48.0,56.8,Critical,235523.39,292237.11,24353.09,56713.72,0
+PRJ-FIN-1782,Finance & Accounting,Consulting Services,New York,Q4,Tier 1,35,Female,31,11.0,84.9,Medium,93942.48,94522.68,7876.89,580.2,1
+PRJ-FIN-1783,Sales Operations,Facility Operations,Bangalore,Q3,Tier 2,41,Male,100,14.0,35.9,High,188580.04,198300.66,16525.06,9720.62,0
+PRJ-FIN-1784,Marketing & Growth,Consulting Services,San Francisco,Q1,Tier 2,24,Male,6,11.0,74.4,Medium,73690.29,71018.84,5918.24,-2671.45,1
+PRJ-FIN-1785,Legal & Compliance,Staff Augmentation,London,Q3,Tier 1,37,Female,61,12.0,75.6,Medium,116211.71,111997.39,9333.12,-4214.32,1
+PRJ-FIN-1786,Human Resources,Staff Augmentation,New York,Q4,Tier 1,50,Female,48,7.0,74.0,Medium,59461.65,,,1678.17,0
+PRJ-FIN-1787,Engineering,Hardware Upgrades,Sydney,Q4,Tier 3,51,Female,30,10.0,75.1,Medium,161640.3,165816.31,13818.03,4176.01,0
+PRJ-FIN-1788,Engineering,Cloud Infrastructure,Berlin,Q1,Tier 2,35,Male,83,4.0,87.7,Low,354491.58,288725.62,24060.47,-65765.96,1
+PRJ-FIN-1789,Marketing & Growth,Marketing Campaigns,Singapore,Q4,Tier 2,35,Male,34,24.0,47.7,High,128280.42,163629.85,13635.82,35349.43,0
+PRJ-FIN-1790,Marketing & Growth,Cloud Infrastructure,Berlin,Q2,Tier 2,43,Non-Binary,56,9.0,50.6,High,194500.63,231814.26,19317.86,37313.63,0
+PRJ-FIN-1791,Sales Operations,Hardware Upgrades,Sydney,Q1,Tier 2,32,Female,76,10.0,38.9,High,152536.71,164146.58,13678.88,11609.87,0
+PRJ-FIN-1792,IT & Cloud,Marketing Campaigns,New York,Q2,Tier 2,33,Male,50,13.0,81.0,Medium,121647.81,123390.87,10282.57,1743.06,1
+PRJ-FIN-1793,IT & Cloud,Consulting Services,Chicago,Q3,Tier 3,43,Female,106,22.0,57.7,High,261132.82,290639.76,24219.98,29506.94,0
+PRJ-FIN-1794,Legal & Compliance,Hardware Upgrades,New York,Q1,Tier 1,29,Female,15,10.0,82.3,Medium,111699.11,93228.62,7769.05,-18470.49,1
+PRJ-FIN-1795,R&D Innovation,Facility Operations,New York,Q3,Tier 1,57,Male,80,44.0,60.1,Critical,249499.86,279016.85,23251.4,29516.99,0
+PRJ-FIN-1796,Engineering,Software Licenses,Toronto,Q3,Tier 1,36,Female,14,33.0,96.6,Critical,149598.9,162607.43,13550.62,13008.53,0
+PRJ-FIN-1797,IT & Cloud,Software Licenses,London,Q1,Tier 1,40,Male,53,14.0,67.8,Medium,148860.0,131301.45,10941.79,-17558.55,1
+PRJ-FIN-1798,Engineering,Cloud Infrastructure,Tokyo,Q3,Tier 2,50,Male,49,21.0,79.3,High,176037.24,204434.65,17036.22,28397.41,0
+PRJ-FIN-1799,Human Resources,Facility Operations,Tokyo,Q4,Tier 1,38,Male,60,10.0,79.9,Medium,90722.87,103928.29,8660.69,13205.42,0
+PRJ-FIN-1800,Finance & Accounting,Hardware Upgrades,New York,Q3,Tier 2,50,Female,74,17.0,72.0,Medium,91514.55,92067.16,7672.26,552.61,1
+PRJ-FIN-1801,IT & Cloud,Consulting Services,New York,Q4,Tier 1,36,Male,70,8.0,72.5,Medium,164917.22,175400.93,14616.74,10483.71,0
+PRJ-FIN-1802,Marketing & Growth,Consulting Services,San Francisco,Q4,Tier 2,43,Male,88,8.0,66.1,Medium,247123.18,278139.74,23178.31,31016.56,0
+PRJ-FIN-1803,IT & Cloud,Cloud Infrastructure,Berlin,Q2,Tier 1,40,Male,47,4.0,57.7,Medium,145354.78,123153.19,10262.77,-22201.59,1
+PRJ-FIN-1804,IT & Cloud,Facility Operations,San Francisco,Q2,Tier 1,45,Non-Binary,45,13.0,68.0,Medium,150811.95,146066.95,12172.25,-4745.0,1
+PRJ-FIN-1805,Human Resources,Staff Augmentation,Bangalore,Q3,Tier 1,41,Female,53,4.0,73.1,Medium,95561.83,99446.56,8287.21,3884.73,0
+PRJ-FIN-1806,IT & Cloud,Hardware Upgrades,Bangalore,Q4,Tier 1,35,Female,101,28.0,62.5,Critical,193084.33,262182.02,21848.5,69097.69,0
+PRJ-FIN-1807,IT & Cloud,Hardware Upgrades,Tokyo,Q3,Tier 1,34,Female,98,12.0,92.8,Medium,283063.84,276754.22,23062.85,-6309.62,1
+PRJ-FIN-1808,Marketing & Growth,Hardware Upgrades,New York,Q2,Tier 1,40,Male,59,48.0,84.0,Critical,200003.2,234952.71,19579.39,34949.51,0
+PRJ-FIN-1809,Human Resources,Staff Augmentation,Sydney,Q4,Tier 2,50,Female,75,,75.8,Medium,135659.65,141993.07,11832.76,6333.42,0
+PRJ-FIN-1810,Legal & Compliance,Cloud Infrastructure,New York,Q1,Tier 1,65,Male,104,7.0,65.2,Medium,149459.86,136935.01,11411.25,-12524.85,1
+PRJ-FIN-1811,IT & Cloud,Cloud Infrastructure,New York,Q3,Tier 1,34,Male,98,4.0,86.8,Low,263134.91,222809.54,18567.46,-40325.37,1
+PRJ-FIN-1812,Marketing & Growth,Consulting Services,Toronto,Q1,Tier 3,31,Male,71,7.0,61.3,Medium,144192.47,135472.02,11289.34,-8720.45,1
+PRJ-FIN-1813,Sales Operations,Facility Operations,London,Q1,Tier 2,31,Female,29,10.0,68.5,Medium,128483.64,113671.8,9472.65,-14811.84,1
+PRJ-FIN-1814,Engineering,Software Licenses,Bangalore,Q1,Tier 2,36,Non-Binary,13,4.0,99.0,Low,143790.11,123186.04,10265.5,-20604.07,1
+PRJ-FIN-1815,IT & Cloud,Staff Augmentation,London,Q4,Tier 1,42,Male,72,,74.6,Medium,337995.71,,,37881.18,0
+PRJ-FIN-1816,Human Resources,Hardware Upgrades,Tokyo,Q3,Tier 1,50,Male,14,19.0,79.3,Medium,63555.12,67488.02,5624.0,3932.9,0
+PRJ-FIN-1817,Engineering,Marketing Campaigns,New York,Q1,Tier 2,46,Female,64,5.0,85.9,Low,191260.18,171472.43,14289.37,-19787.75,1
+PRJ-FIN-1818,Engineering,Cloud Infrastructure,Bangalore,Q2,Tier 1,46,Non-Binary,85,8.0,45.0,High,210983.7,258904.5,21575.38,47920.8,0
+PRJ-FIN-1819,IT & Cloud,Marketing Campaigns,San Francisco,Q3,Tier 1,51,Male,60,23.0,72.5,High,158290.6,170053.23,14171.1,11762.63,0
+PRJ-FIN-1820,Finance & Accounting,Consulting Services,Tokyo,Q4,Tier 2,36,Female,99,19.0,69.7,Medium,138054.39,159547.33,13295.61,21492.94,0
+PRJ-FIN-1821,Marketing & Growth,Hardware Upgrades,New York,Q2,Tier 2,35,Female,79,11.0,65.4,Medium,169872.76,142938.85,11911.57,-26933.91,1
+PRJ-FIN-1822,Marketing & Growth,Software Licenses,San Francisco,Q3,Tier 2,41,Male,82,7.0,56.8,Medium,160742.43,178885.4,14907.12,18142.97,0
+PRJ-FIN-1823,Engineering,Facility Operations,Singapore,Q1,Tier 1,49,Male,90,13.0,42.3,High,607609.5,262357.77,21863.15,19313.97,0
+PRJ-FIN-1824,Legal & Compliance,Cloud Infrastructure,Tokyo,Q1,Tier 2,29,Female,76,22.0,90.1,High,148932.75,150833.41,12569.45,1900.66,1
+PRJ-FIN-1825,IT & Cloud,Consulting Services,London,Q1,Tier 1,36,Non-Binary,54,9.0,84.6,Low,153052.9,138716.15,11559.68,-14336.75,1
+PRJ-FIN-1826,Human Resources,Facility Operations,Singapore,Q3,Tier 1,48,Male,18,,64.1,Medium,39619.15,42226.22,3518.85,2607.07,0
+PRJ-FIN-1827,Legal & Compliance,Consulting Services,Tokyo,Q4,Tier 2,25,Female,74,4.0,73.0,Medium,127733.66,141771.05,11814.25,14037.39,0
+PRJ-FIN-1828,R&D Innovation,Cloud Infrastructure,London,Q1,Tier 2,24,Female,40,9.0,68.5,Medium,161470.76,141927.17,11827.26,-19543.59,1
+PRJ-FIN-1829,Marketing & Growth,Marketing Campaigns,Berlin,Q1,Tier 1,42,Female,89,6.0,,High,181927.16,201143.89,16761.99,19216.73,0
+PRJ-FIN-1830,Engineering,Software Licenses,Tokyo,Q4,Tier 1,40,Female,80,11.0,67.6,Medium,236129.57,241603.8,20133.65,5474.23,0
+PRJ-FIN-1831,Legal & Compliance,Cloud Infrastructure,London,Q1,Tier 1,39,Female,34,4.0,58.0,Medium,88911.89,77504.0,6458.67,-11407.89,1
+PRJ-FIN-1832,Sales Operations,Marketing Campaigns,New York,Q4,Tier 2,38,Male,46,10.0,54.5,High,120459.64,153447.47,12787.29,32987.83,0
+PRJ-FIN-1833,IT & Cloud,Cloud Infrastructure,Tokyo,Q2,Tier 1,41,Male,37,6.0,45.4,,144625.02,158436.46,13203.04,13811.44,0
+PRJ-FIN-1834,Marketing & Growth,Cloud Infrastructure,Sydney,Q3,Tier 1,27,Male,29,11.0,52.2,High,136196.61,158371.13,13197.59,22174.52,0
+PRJ-FIN-1835,Marketing & Growth,Marketing Campaigns,Singapore,Q2,Tier 1,42,Male,93,21.0,66.5,High,175465.83,169557.54,14129.8,-5908.29,1
+PRJ-FIN-1836,Marketing & Growth,Staff Augmentation,San Francisco,Q3,Tier 1,36,Male,60,4.0,76.7,Low,188347.12,180038.56,15003.21,-8308.56,1
+PRJ-FIN-1837,Legal & Compliance,Cloud Infrastructure,Chicago,Q4,Tier 2,29,Female,99,8.0,58.1,Medium,147802.49,176814.23,14734.52,29011.74,0
+PRJ-FIN-1838,Engineering,Hardware Upgrades,New York,Q3,Tier 3,41,Female,93,21.0,79.8,High,208886.68,224908.18,18742.35,16021.5,0
+PRJ-FIN-1839,IT & Cloud,Software Licenses,New York,Q4,Tier 1,38,Male,67,19.0,72.1,Medium,152774.43,182709.98,15225.83,29935.55,0
+PRJ-FIN-1840,R&D Innovation,Hardware Upgrades,San Francisco,Q3,Tier 3,45,Non-Binary,83,40.0,67.5,Critical,222818.62,288718.04,24059.84,65899.42,0
+PRJ-FIN-1841,IT & Cloud,Marketing Campaigns,Berlin,Q4,Tier 2,44,Male,28,9.0,39.1,High,223294.9,314773.29,26231.11,91478.39,0
+PRJ-FIN-1842,IT & Cloud,Software Licenses,Bangalore,Q2,Tier 2,35,Female,38,21.0,81.0,High,118236.33,131870.62,10989.22,13634.29,0
+PRJ-FIN-1843,Engineering,Consulting Services,New York,Q2,Tier 1,40,Male,14,16.0,80.6,Medium,122063.22,120812.39,10067.7,-1250.83,1
+PRJ-FIN-1844,Sales Operations,Hardware Upgrades,London,Q4,Tier 1,43,Non-Binary,50,6.0,41.5,High,117102.09,158343.83,13195.32,41241.74,0
+PRJ-FIN-1845,R&D Innovation,Facility Operations,San Francisco,Q3,Tier 2,37,Male,74,12.0,52.0,High,153077.04,182724.08,15227.01,29647.04,0
+PRJ-FIN-1846,Legal & Compliance,Marketing Campaigns,Sydney,Q2,Tier 1,46,Male,58,11.0,73.3,Medium,132213.85,125599.74,10466.64,-6614.11,1
+PRJ-FIN-1847,Engineering,Software Licenses,Bangalore,Q4,Tier 1,37,Male,62,18.0,96.2,Medium,223042.21,221407.57,18450.63,-1634.64,1
+PRJ-FIN-1848,R&D Innovation,Staff Augmentation,London,Q2,Tier 2,44,Male,37,7.0,66.2,Medium,110964.89,104053.78,8671.15,-6911.11,1
+PRJ-FIN-1849,Marketing & Growth,Staff Augmentation,Bangalore,Q2,Tier 1,47,Female,62,6.0,80.9,Low,112522.44,82495.38,6874.62,-30027.06,1
+PRJ-FIN-1850,Marketing & Growth,Software Licenses,Tokyo,Q2,Tier 1,57,Male,92,24.0,67.2,High,146188.97,161447.95,13454.0,15258.98,0
+PRJ-FIN-1851,Sales Operations,Cloud Infrastructure,Sydney,Q1,Tier 3,48,Male,12,13.0,,Medium,109118.62,103401.73,8616.81,-5716.89,1
+PRJ-FIN-1852,Sales Operations,Marketing Campaigns,New York,Q1,Tier 2,33,Female,64,7.0,,Low,129140.83,103516.96,8626.41,-25623.87,1
+PRJ-FIN-1853,R&D Innovation,Consulting Services,London,Q1,Tier 1,50,Female,76,24.0,85.3,High,230993.15,246429.66,20535.8,15436.51,0
+PRJ-FIN-1854,Legal & Compliance,Consulting Services,New York,Q3,Tier 1,38,Male,48,23.0,63.2,High,83603.47,94483.3,7873.61,10879.83,0
+PRJ-FIN-1855,Sales Operations,Staff Augmentation,Bangalore,Q2,Tier 1,25,Male,14,6.0,93.1,,121644.58,109875.07,9156.26,-11769.51,1
+PRJ-FIN-1856,Human Resources,Software Licenses,New York,Q4,Tier 1,40,Male,40,,80.0,Low,61079.87,67504.06,5625.34,6424.19,0
+PRJ-FIN-1857,Sales Operations,Marketing Campaigns,Berlin,Q2,Tier 3,50,Female,99,15.0,62.7,Medium,186648.55,174102.73,14508.56,-12545.82,1
+PRJ-FIN-1858,Engineering,Software Licenses,Bangalore,Q2,Tier 1,55,Male,76,5.0,77.2,Low,149044.59,143291.54,11940.96,-5753.05,1
+PRJ-FIN-1859,IT & Cloud,Marketing Campaigns,Singapore,Q3,Tier 3,49,Female,22,4.0,63.5,Medium,139965.14,140192.88,11682.74,227.74,1
+PRJ-FIN-1860,Marketing & Growth,Marketing Campaigns,Singapore,Q2,Tier 3,29,Female,24,5.0,64.2,Medium,101658.49,107543.58,8961.96,5885.09,0
+PRJ-FIN-1861,Legal & Compliance,Consulting Services,Tokyo,Q4,Tier 2,43,Female,15,4.0,69.0,Medium,94823.37,98732.36,8227.7,3908.99,0
+PRJ-FIN-1862,IT & Cloud,Facility Operations,Tokyo,Q3,Tier 2,43,Female,94,6.0,73.8,Medium,200055.93,194454.26,16204.52,-5601.67,1
+PRJ-FIN-1863,IT & Cloud,Software Licenses,Singapore,Q4,Tier 2,37,Female,48,4.0,72.6,Medium,136288.87,131910.88,10992.57,-4377.99,1
+PRJ-FIN-1864,Human Resources,Marketing Campaigns,New York,Q3,Tier 3,43,Female,85,12.0,62.2,Medium,123778.28,112271.86,9355.99,-11506.42,1
+PRJ-FIN-1865,Engineering,Marketing Campaigns,Berlin,Q3,Tier 1,39,Male,45,12.0,93.5,Medium,180031.91,,,3903.91,0
+PRJ-FIN-1866,IT & Cloud,Consulting Services,New York,Q1,Tier 2,53,Male,99,25.0,76.6,High,202567.68,213106.79,17758.9,10539.11,0
+PRJ-FIN-1867,Engineering,Consulting Services,San Francisco,Q4,Tier 2,41,Male,96,9.0,46.5,High,237115.35,317325.9,26443.82,80210.55,0
+PRJ-FIN-1868,Marketing & Growth,Consulting Services,Berlin,Q2,Tier 3,33,Female,80,7.0,51.6,High,165056.85,,,15705.69,0
+PRJ-FIN-1869,Sales Operations,Cloud Infrastructure,New York,Q3,Tier 2,34,Male,52,14.0,87.8,Medium,201133.11,184796.03,15399.67,-16337.08,1
+PRJ-FIN-1870,Marketing & Growth,Software Licenses,Tokyo,Q4,Tier 1,45,Male,32,23.0,96.6,High,145010.4,159207.28,13267.27,14196.88,0
+PRJ-FIN-1871,R&D Innovation,Cloud Infrastructure,New York,Q4,Tier 2,50,Non-Binary,7,22.0,61.6,High,90323.02,112000.47,9333.37,21677.45,0
+PRJ-FIN-1872,IT & Cloud,Software Licenses,Sydney,Q1,Tier 1,42,Female,102,8.0,73.3,Medium,235590.55,216353.3,18029.44,-19237.25,1
+PRJ-FIN-1873,Engineering,Marketing Campaigns,London,Q2,Tier 1,44,Female,9,21.0,69.0,High,94777.36,90099.79,7508.32,-4677.57,1
+PRJ-FIN-1874,Sales Operations,Marketing Campaigns,London,Q1,Tier 1,38,Female,18,10.0,60.9,Medium,88820.21,81362.7,6780.22,-7457.51,1
+PRJ-FIN-1875,Sales Operations,Facility Operations,Bangalore,Q1,Tier 1,47,Female,93,3.0,60.4,,190662.36,200626.8,16718.9,9964.44,0
+PRJ-FIN-1876,IT & Cloud,Facility Operations,Berlin,Q3,Tier 1,51,Female,104,7.0,51.3,High,188269.89,216355.18,18029.6,28085.29,0
+PRJ-FIN-1877,Sales Operations,Marketing Campaigns,Toronto,Q1,Tier 1,48,Female,41,13.0,36.3,High,82289.68,72852.26,6071.02,-9437.42,1
+PRJ-FIN-1878,Sales Operations,Software Licenses,Sydney,Q4,Tier 1,36,Male,33,5.0,69.0,Medium,106148.56,119470.45,9955.87,13321.89,0
+PRJ-FIN-1879,Legal & Compliance,Software Licenses,San Francisco,Q3,Tier 3,40,Male,78,3.0,73.0,Medium,159461.34,150777.4,12564.78,-8683.94,1
+PRJ-FIN-1880,Finance & Accounting,Consulting Services,Tokyo,Q1,Tier 1,45,Male,24,7.0,82.9,Low,70277.5,60425.69,5035.47,-9851.81,1
+PRJ-FIN-1881,R&D Innovation,Software Licenses,Tokyo,Q3,Tier 2,35,Non-Binary,79,6.0,42.6,High,198158.21,254558.5,21213.21,56400.29,0
+PRJ-FIN-1882,Engineering,Consulting Services,New York,Q2,Tier 1,33,Male,44,6.0,44.9,High,152569.66,188636.28,15719.69,36066.62,0
+PRJ-FIN-1883,IT & Cloud,Hardware Upgrades,Singapore,Q1,Tier 2,47,Female,14,7.0,88.8,Low,132041.99,92671.53,7722.63,-39370.46,1
+PRJ-FIN-1884,Engineering,Hardware Upgrades,San Francisco,Q1,Tier 2,43,Male,44,9.0,99.0,Low,148934.6,125101.69,10425.14,-23832.91,1
+PRJ-FIN-1885,Marketing & Growth,Facility Operations,Singapore,Q4,Tier 2,45,Male,54,9.0,56.9,Medium,162452.31,179889.86,14990.82,17437.55,0
+PRJ-FIN-1886,IT & Cloud,Consulting Services,Bangalore,Q2,Tier 2,44,Female,45,13.0,68.6,Medium,158986.32,153071.51,12755.96,-5914.81,1
+PRJ-FIN-1887,Engineering,Staff Augmentation,Singapore,Q3,Tier 1,44,Male,22,3.0,59.4,Medium,161868.97,167436.07,13953.01,5567.1,0
+PRJ-FIN-1888,Human Resources,Consulting Services,New York,Q4,Tier 1,31,Male,55,11.0,65.1,Medium,132152.83,140603.42,11716.95,8450.59,0
+PRJ-FIN-1889,Engineering,Software Licenses,New York,Q3,Tier 1,52,Non-Binary,72,8.0,45.3,High,185604.87,215833.12,17986.09,30228.25,0
+PRJ-FIN-1890,Sales Operations,Marketing Campaigns,London,Q4,Tier 1,33,Female,99,19.0,95.7,Medium,174673.3,176034.11,14669.51,1360.81,1
+PRJ-FIN-1891,IT & Cloud,Software Licenses,Bangalore,Q1,Tier 2,30,Female,53,10.0,85.9,Medium,165638.16,149166.85,12430.57,-16471.31,1
+PRJ-FIN-1892,IT & Cloud,Consulting Services,London,Q3,Tier 3,54,Female,71,12.0,84.5,Medium,180204.58,186711.19,15559.27,6506.61,0
+PRJ-FIN-1893,IT & Cloud,Consulting Services,Toronto,Q4,Tier 1,35,Female,8,5.0,62.4,Medium,49461.19,58939.44,4911.62,9478.25,0
+PRJ-FIN-1894,Legal & Compliance,Software Licenses,Bangalore,Q3,Tier 2,30,Female,14,5.0,78.2,Low,55980.35,52752.21,4396.02,-3228.14,1
+PRJ-FIN-1895,IT & Cloud,Staff Augmentation,New York,Q3,Tier 2,24,Female,90,3.0,69.0,Medium,254280.38,254640.81,21220.07,360.43,1
+PRJ-FIN-1896,Sales Operations,Hardware Upgrades,San Francisco,Q3,Tier 1,30,Female,71,7.0,65.8,Medium,149831.28,149628.24,12469.02,-203.04,1
+PRJ-FIN-1897,Marketing & Growth,Software Licenses,San Francisco,Q2,Tier 1,38,Female,69,30.0,72.2,Critical,168444.96,197326.59,16443.88,28881.63,0
+PRJ-FIN-1898,IT & Cloud,Staff Augmentation,Berlin,Q2,Tier 2,34,Female,69,4.0,71.8,Medium,225146.27,213416.69,17784.72,-11729.58,1
+PRJ-FIN-1899,Sales Operations,Facility Operations,New York,Q2,Tier 2,38,Male,70,,50.5,High,164490.34,186039.15,15503.26,21548.81,0
+PRJ-FIN-1900,IT & Cloud,Software Licenses,Singapore,Q3,Tier 1,35,Male,11,,59.5,Medium,126899.43,134383.97,11198.66,7484.54,0
+PRJ-FIN-1901,IT & Cloud,Staff Augmentation,Berlin,Q4,Tier 2,47,Male,107,24.0,79.1,High,221063.9,290202.22,24183.52,69138.32,0
+PRJ-FIN-1902,Marketing & Growth,Marketing Campaigns,Berlin,Q3,Tier 2,37,Female,54,18.0,,Medium,142322.03,136501.06,11375.09,-5820.97,1
+PRJ-FIN-1903,Marketing & Growth,Consulting Services,San Francisco,Q2,Tier 3,28,Female,52,7.0,67.0,Medium,144211.1,146217.95,12184.83,2006.85,1
+PRJ-FIN-1904,Engineering,Consulting Services,Singapore,Q2,Tier 2,40,Male,56,5.0,61.0,Medium,156073.28,154073.2,12839.43,-2000.08,1
+PRJ-FIN-1905,IT & Cloud,Staff Augmentation,Bangalore,Q1,Tier 1,24,Female,41,11.0,67.4,Medium,118557.64,104257.88,8688.16,-14299.76,1
+PRJ-FIN-1906,Finance & Accounting,Facility Operations,Tokyo,Q2,Tier 1,32,Male,99,,71.4,Medium,141815.57,143934.69,11994.56,2119.12,1
+PRJ-FIN-1907,R&D Innovation,Cloud Infrastructure,New York,Q4,Tier 1,43,Male,63,10.0,53.8,High,188090.3,214397.49,17866.46,26307.19,0
+PRJ-FIN-1908,Legal & Compliance,Marketing Campaigns,Tokyo,Q1,Tier 1,41,Female,77,10.0,74.1,Medium,131776.99,112194.63,9349.55,-19582.36,1
+PRJ-FIN-1909,Marketing & Growth,Cloud Infrastructure,Toronto,Q2,Tier 3,40,Male,26,,59.2,High,114088.28,130732.44,10894.37,16644.16,0
+PRJ-FIN-1910,Human Resources,Software Licenses,San Francisco,Q2,Tier 2,55,Male,95,6.0,73.0,Medium,128156.45,124378.69,10364.89,-3777.76,1
+PRJ-FIN-1911,IT & Cloud,Facility Operations,Toronto,Q1,Tier 2,46,Male,9,12.0,48.4,High,148186.59,154059.58,12838.3,5872.99,0
+PRJ-FIN-1912,R&D Innovation,Marketing Campaigns,Tokyo,Q3,Tier 2,42,Male,6,7.0,89.3,Low,162656.04,154154.9,12846.24,-8501.14,1
+PRJ-FIN-1913,Marketing & Growth,Consulting Services,New York,Q1,Tier 1,38,Female,14,6.0,98.0,Low,130034.79,110442.46,9203.54,-19592.33,1
+PRJ-FIN-1914,Marketing & Growth,Marketing Campaigns,London,Q3,Tier 1,50,Female,68,11.0,80.1,Medium,190454.13,186013.0,15501.08,-4441.13,1
+PRJ-FIN-1915,R&D Innovation,Hardware Upgrades,San Francisco,Q3,Tier 3,41,Male,28,27.0,51.4,Critical,111522.05,146013.05,12167.75,34491.0,0
+PRJ-FIN-1916,Finance & Accounting,Staff Augmentation,San Francisco,Q3,Tier 1,55,Female,99,,66.6,Medium,142445.92,156578.45,13048.2,14132.53,0
+PRJ-FIN-1917,Marketing & Growth,Marketing Campaigns,New York,Q2,Tier 1,47,Female,34,5.0,56.8,Medium,115758.14,107639.97,8970.0,-8118.17,1
+PRJ-FIN-1918,IT & Cloud,Cloud Infrastructure,London,Q4,Tier 2,45,Male,30,,72.0,Medium,105475.64,110498.71,9208.23,5023.07,0
+PRJ-FIN-1919,Marketing & Growth,Consulting Services,San Francisco,Q4,Tier 1,40,Male,59,27.0,71.2,Critical,145573.24,197450.74,16454.23,51877.5,0
+PRJ-FIN-1920,IT & Cloud,Marketing Campaigns,San Francisco,Q1,Tier 1,56,Female,16,8.0,85.1,Low,155289.49,107048.76,8920.73,-48240.73,1
+PRJ-FIN-1921,Legal & Compliance,Software Licenses,New York,Q1,Tier 1,44,Female,43,13.0,69.7,Medium,113677.77,108016.34,9001.36,-5661.43,1
+PRJ-FIN-1922,Finance & Accounting,Cloud Infrastructure,Bangalore,Q3,Tier 2,36,Female,8,5.0,78.3,Low,54888.95,43165.28,3597.11,-11723.67,1
+PRJ-FIN-1923,IT & Cloud,Consulting Services,London,Q2,Tier 1,42,Female,40,10.0,70.4,Medium,163947.93,,,-14015.11,1
+PRJ-FIN-1924,Engineering,Cloud Infrastructure,Singapore,Q1,Tier 2,58,Male,12,6.0,83.8,Low,197597.76,148938.4,12411.53,-48659.36,1
+PRJ-FIN-1925,Marketing & Growth,Marketing Campaigns,New York,Q3,Tier 2,43,Male,13,12.0,57.7,Medium,102585.08,99085.92,8257.16,-3499.16,1
+PRJ-FIN-1926,R&D Innovation,Marketing Campaigns,Sydney,Q3,Tier 1,45,Female,31,5.0,63.5,Medium,142653.93,,,-12023.13,1
+PRJ-FIN-1927,IT & Cloud,Facility Operations,San Francisco,Q2,Tier 2,24,Female,54,19.0,57.2,Medium,209950.44,170576.27,14214.69,-39374.17,1
+PRJ-FIN-1928,Engineering,Staff Augmentation,Tokyo,Q1,Tier 3,47,Female,25,20.0,70.9,High,123921.73,126091.37,10507.61,2169.64,1
+PRJ-FIN-1929,Marketing & Growth,Facility Operations,Bangalore,Q4,Tier 2,55,Female,15,3.0,65.5,Medium,77082.27,92686.42,7723.87,15604.15,0
+PRJ-FIN-1930,Human Resources,Staff Augmentation,Tokyo,Q1,Tier 2,42,Female,108,4.0,74.6,Medium,110644.52,103292.26,8607.69,-7352.26,1
+PRJ-FIN-1931,R&D Innovation,Staff Augmentation,Toronto,Q4,Tier 2,33,Female,62,11.0,54.5,High,190328.1,242226.92,20185.58,51898.82,0
+PRJ-FIN-1932,Sales Operations,Consulting Services,Bangalore,Q4,Tier 1,29,Male,45,6.0,24.6,High,188239.76,260486.01,21707.17,72246.25,0
+PRJ-FIN-1933,Sales Operations,Marketing Campaigns,Singapore,Q4,Tier 1,30,Female,50,9.0,70.6,Medium,160959.91,174210.72,14517.56,13250.81,0
+PRJ-FIN-1934,IT & Cloud,Facility Operations,Berlin,Q3,Tier 1,26,Male,106,17.0,62.5,Medium,287951.95,294566.27,24547.19,6614.32,0
+PRJ-FIN-1935,Sales Operations,Software Licenses,Tokyo,Q2,Tier 2,49,Female,84,10.0,92.6,,174818.71,,,-8081.03,1
+PRJ-FIN-1936,Engineering,Software Licenses,San Francisco,Q1,Tier 2,44,Male,40,37.0,41.6,Critical,163093.1,196280.73,16356.73,33187.63,0
+PRJ-FIN-1937,Engineering,Staff Augmentation,New York,Q2,Tier 1,42,Male,58,9.0,80.5,Low,207388.98,177052.38,14754.36,-30336.6,1
+PRJ-FIN-1938,Marketing & Growth,Cloud Infrastructure,Singapore,Q4,Tier 1,39,Male,48,4.0,72.7,Medium,127642.94,151294.88,12607.91,23651.94,0
+PRJ-FIN-1939,Engineering,Hardware Upgrades,London,Q2,Tier 2,44,Male,94,11.0,70.0,Medium,270244.47,254726.42,21227.2,-15518.05,1
+PRJ-FIN-1940,Engineering,Software Licenses,Chicago,Q3,Tier 3,30,Female,19,14.0,71.6,Medium,130015.99,133835.46,11152.96,3819.47,0
+PRJ-FIN-1941,Human Resources,Facility Operations,Berlin,Q3,Tier 2,46,Female,46,4.0,82.5,Low,91024.01,80145.56,6678.8,-10878.45,1
+PRJ-FIN-1942,IT & Cloud,Cloud Infrastructure,San Francisco,Q4,Tier 1,35,Male,96,14.0,72.9,,191146.23,192704.9,16058.74,1558.67,1
+PRJ-FIN-1943,R&D Innovation,Staff Augmentation,Chicago,Q3,Tier 2,52,Female,14,8.0,38.7,High,122455.71,146659.95,12221.66,24204.24,0
+PRJ-FIN-1944,IT & Cloud,Software Licenses,London,Q3,Tier 1,39,Female,32,10.0,61.7,Medium,117282.99,125855.55,10487.96,8572.56,0
+PRJ-FIN-1945,R&D Innovation,Consulting Services,San Francisco,Q4,Tier 2,40,Female,98,14.0,36.9,High,267053.62,357426.01,29785.5,90372.39,0
+PRJ-FIN-1946,Sales Operations,Cloud Infrastructure,London,Q4,Tier 2,38,Male,22,4.0,60.1,Medium,119242.75,137672.47,11472.71,18429.72,0
+PRJ-FIN-1947,Marketing & Growth,Software Licenses,Tokyo,Q2,Tier 1,44,Female,13,16.0,55.9,Medium,113062.89,123157.16,10263.1,10094.27,0
+PRJ-FIN-1948,IT & Cloud,Cloud Infrastructure,London,Q2,Tier 1,34,Female,29,13.0,64.7,Medium,111891.5,116563.61,9713.63,4672.11,0
+PRJ-FIN-1949,Engineering,Consulting Services,London,Q3,Tier 2,46,Male,58,40.0,54.2,Critical,328441.52,385284.77,32107.06,56843.25,0
+PRJ-FIN-1950,Sales Operations,Cloud Infrastructure,Singapore,Q1,Tier 1,41,Female,5,11.0,67.2,Medium,78145.06,69062.16,5755.18,-9082.9,1
+PRJ-FIN-1951,Engineering,Software Licenses,New York,Q3,Tier 1,35,Female,31,32.0,88.1,Critical,142114.5,167157.21,13929.77,25042.71,0
+PRJ-FIN-1952,Sales Operations,Software Licenses,Singapore,Q4,Tier 1,46,Female,45,26.0,70.7,Critical,130010.91,178480.71,14873.39,48469.8,0
+PRJ-FIN-1953,Sales Operations,Facility Operations,Tokyo,Q4,Tier 1,57,Female,104,11.0,75.5,Medium,168289.77,177061.98,14755.16,8772.21,0
+PRJ-FIN-1954,Engineering,Software Licenses,New York,Q1,Tier 1,46,Female,17,13.0,56.7,Medium,202394.14,217663.53,18138.63,15269.39,0
+PRJ-FIN-1955,Sales Operations,Staff Augmentation,San Francisco,Q4,Tier 2,30,Female,23,19.0,,Medium,149223.14,168585.62,14048.8,19362.48,0
+PRJ-FIN-1956,Engineering,Consulting Services,Toronto,Q2,Tier 1,40,Male,92,38.0,91.6,Critical,246619.77,275398.19,22949.85,28778.42,0
+PRJ-FIN-1957,Human Resources,Hardware Upgrades,San Francisco,Q3,Tier 3,43,Female,12,6.0,85.3,Low,42262.52,33835.7,2819.64,-8426.82,1
+PRJ-FIN-1958,Engineering,Hardware Upgrades,Tokyo,Q1,Tier 3,34,Male,105,13.0,81.6,Medium,206205.51,194241.76,16186.81,-11963.75,1
+PRJ-FIN-1959,Marketing & Growth,Hardware Upgrades,Singapore,Q2,Tier 1,27,Male,53,9.0,66.2,Medium,185644.02,184778.11,15398.18,-865.91,1
+PRJ-FIN-1960,Engineering,Software Licenses,Singapore,Q3,Tier 1,47,Female,53,4.0,56.6,Medium,199779.85,232212.97,19351.08,32433.12,0
+PRJ-FIN-1961,Engineering,Staff Augmentation,Berlin,Q4,Tier 1,39,Male,109,26.0,56.0,Critical,236689.13,,,88806.44,0
+PRJ-FIN-1962,Marketing & Growth,Software Licenses,San Francisco,Q3,Tier 2,39,Female,69,26.0,76.1,Critical,140524.23,156558.86,13046.57,16034.63,0
+PRJ-FIN-1963,Sales Operations,Cloud Infrastructure,New York,Q3,Tier 1,54,Male,104,,63.1,Medium,221289.79,215125.5,17927.12,-6164.29,1
+PRJ-FIN-1964,Marketing & Growth,Consulting Services,Tokyo,Q2,Tier 1,42,Male,76,7.0,66.1,Medium,192380.21,186006.96,15500.58,-6373.25,1
+PRJ-FIN-1965,Marketing & Growth,Facility Operations,New York,Q2,Tier 1,46,Female,55,24.0,44.4,High,164857.8,192357.04,16029.75,27499.24,0
+PRJ-FIN-1966,Sales Operations,Facility Operations,San Francisco,Q4,Tier 1,42,Male,45,6.0,48.3,High,128611.43,169364.32,14113.69,40752.89,0
+PRJ-FIN-1967,Finance & Accounting,Facility Operations,Chicago,Q2,Tier 1,32,Female,7,21.0,65.7,High,89193.18,98190.22,8182.52,8997.04,0
+PRJ-FIN-1968,Marketing & Growth,Software Licenses,San Francisco,Q2,Tier 1,32,Female,90,16.0,65.0,Medium,198748.85,190344.3,15862.02,-8404.55,1
+PRJ-FIN-1969,Marketing & Growth,Facility Operations,Singapore,Q3,Tier 1,44,Female,40,5.0,56.6,Medium,117698.96,119240.66,9936.72,1541.7,1
+PRJ-FIN-1970,Engineering,Software Licenses,Berlin,Q4,Tier 1,30,Female,59,8.0,60.0,Medium,177214.53,222010.4,18500.87,44795.87,0
+PRJ-FIN-1971,Engineering,Staff Augmentation,San Francisco,Q3,Tier 3,41,Male,68,14.0,63.0,Medium,211051.0,206192.02,17182.67,-4858.98,1
+PRJ-FIN-1972,Human Resources,Marketing Campaigns,New York,Q3,Tier 1,42,Female,40,12.0,88.2,Medium,98484.36,99932.57,8327.71,1448.21,1
+PRJ-FIN-1973,R&D Innovation,Staff Augmentation,Toronto,Q4,Tier 2,45,Male,39,11.0,72.7,Medium,196731.16,230123.08,19176.92,33391.92,0
+PRJ-FIN-1974,Marketing & Growth,Facility Operations,Chicago,Q1,Tier 3,65,Male,56,11.0,60.3,Medium,189343.84,194405.52,16200.46,5061.68,0
+PRJ-FIN-1975,Sales Operations,Cloud Infrastructure,New York,Q1,Tier 1,38,Female,70,26.0,79.6,Critical,202688.38,215094.28,17924.52,12405.9,0
+PRJ-FIN-1976,Engineering,Facility Operations,Singapore,Q4,Tier 1,32,Female,86,48.0,66.4,Critical,238637.67,341486.41,28457.2,102848.74,0
+PRJ-FIN-1977,Sales Operations,Cloud Infrastructure,New York,Q3,Tier 1,43,Male,67,34.0,73.2,Critical,186040.57,221363.47,18446.96,35322.9,0
+PRJ-FIN-1978,IT & Cloud,Cloud Infrastructure,New York,Q2,Tier 2,37,Female,58,6.0,65.4,Medium,233530.21,240799.79,20066.65,7269.58,0
+PRJ-FIN-1979,Sales Operations,Marketing Campaigns,Singapore,Q2,Tier 1,45,Female,39,15.0,81.2,Medium,78200.79,,,-9166.19,1
+PRJ-FIN-1980,R&D Innovation,Marketing Campaigns,San Francisco,Q4,Tier 2,29,Female,44,,69.4,Medium,128262.36,137329.13,11444.09,9066.77,0
+PRJ-FIN-1981,IT & Cloud,Software Licenses,Singapore,Q2,Tier 1,48,Female,77,9.0,53.6,High,213666.73,229777.5,19148.12,16110.77,0
+PRJ-FIN-1982,Human Resources,Hardware Upgrades,London,Q1,Tier 1,35,Female,68,9.0,19.8,High,134035.55,159414.52,13284.54,25378.97,0
+PRJ-FIN-1983,Engineering,Staff Augmentation,Singapore,Q2,Tier 1,48,Male,49,5.0,57.4,Medium,230466.41,237575.23,19797.94,7108.82,0
+PRJ-FIN-1984,Engineering,Marketing Campaigns,San Francisco,Q2,Tier 2,43,Male,94,5.0,74.1,Medium,275469.08,276420.84,23035.07,951.76,1
+PRJ-FIN-1985,Marketing & Growth,Hardware Upgrades,Toronto,Q3,Tier 1,59,Female,13,48.0,49.0,Critical,131207.7,169784.18,14148.68,38576.48,0
+PRJ-FIN-1986,IT & Cloud,Consulting Services,New York,Q1,Tier 1,39,Male,40,4.0,52.0,High,138231.55,151709.22,12642.44,13477.67,0
+PRJ-FIN-1987,Engineering,Facility Operations,London,Q4,Tier 1,47,Female,86,10.0,,High,213844.1,273624.49,22802.04,59780.39,0
+PRJ-FIN-1988,Finance & Accounting,Staff Augmentation,London,Q4,Tier 3,40,Non-Binary,28,26.0,,Critical,101364.87,142178.62,11848.22,40813.75,0
+PRJ-FIN-1989,Human Resources,Hardware Upgrades,San Francisco,Q4,Tier 1,50,Female,63,6.0,52.0,High,84102.46,113592.1,9466.01,29489.64,0
+PRJ-FIN-1990,Human Resources,Cloud Infrastructure,San Francisco,Q3,Tier 3,47,Female,70,4.0,48.5,High,113899.09,130158.96,10846.58,16259.87,0
+PRJ-FIN-1991,Sales Operations,Consulting Services,Berlin,Q4,Tier 2,24,Female,74,18.0,54.2,High,171739.35,230804.84,19233.74,59065.49,0
+PRJ-FIN-1992,Human Resources,Hardware Upgrades,Tokyo,Q1,Tier 1,63,Female,22,27.0,83.8,Critical,58915.24,64318.68,5359.89,5403.44,0
+PRJ-FIN-1993,IT & Cloud,Software Licenses,Toronto,Q4,Tier 1,35,Male,81,4.0,68.3,Medium,231300.67,257615.43,21467.95,26314.76,0
+PRJ-FIN-1994,Marketing & Growth,Staff Augmentation,Berlin,Q1,Tier 1,52,Female,102,22.0,72.1,High,222639.68,219131.9,18260.99,-3507.78,1
+PRJ-FIN-1995,IT & Cloud,Marketing Campaigns,New York,Q4,Tier 2,47,Male,61,15.0,71.4,Medium,170367.94,172493.2,14374.43,2125.26,1
+PRJ-FIN-1996,Engineering,Consulting Services,London,Q2,Tier 2,51,Male,24,27.0,52.4,Critical,199885.2,228269.98,19022.5,28384.78,0
+PRJ-FIN-1997,Marketing & Growth,Software Licenses,Bangalore,Q4,Tier 2,57,Female,8,25.0,50.2,High,111427.93,145497.09,12124.76,34069.16,0
+PRJ-FIN-1998,Human Resources,Consulting Services,London,Q2,Tier 2,46,Male,8,8.0,99.0,Low,61406.63,55876.46,4656.37,-5530.17,1
+PRJ-FIN-1999,Engineering,Cloud Infrastructure,Bangalore,Q3,Tier 1,51,Male,83,4.0,63.3,Medium,217573.32,218019.83,18168.32,446.51,1
+PRJ-FIN-2000,Finance & Accounting,Consulting Services,Toronto,Q4,Tier 3,35,Female,15,12.0,74.7,Medium,124757.9,139280.84,11606.74,14522.94,0
+PRJ-FIN-2001,R&D Innovation,Marketing Campaigns,Bangalore,Q3,Tier 1,51,Male,67,15.0,56.2,Medium,190447.52,216258.13,18021.51,25810.61,0
+PRJ-FIN-2002,Marketing & Growth,Staff Augmentation,Tokyo,Q2,Tier 2,46,Female,87,4.0,72.4,Medium,212434.52,204630.41,17052.53,-7804.11,1
+PRJ-FIN-2003,Engineering,Software Licenses,San Francisco,Q3,Tier 2,42,Female,6,14.0,46.3,High,128624.67,149302.04,12441.84,20677.37,0
+PRJ-FIN-2004,R&D Innovation,Hardware Upgrades,London,Q4,Tier 2,28,Male,49,5.0,82.2,Low,180085.7,178050.8,14837.57,-2034.9,1
+PRJ-FIN-2005,IT & Cloud,Consulting Services,New York,Q3,Tier 1,59,Female,103,12.0,77.7,Medium,234514.29,243605.41,20300.45,9091.12,0
+PRJ-FIN-2006,Sales Operations,Staff Augmentation,Chicago,Q4,Tier 2,26,Male,69,10.0,81.2,Medium,197041.37,204535.06,17044.59,7493.69,0
+PRJ-FIN-2007,Marketing & Growth,Staff Augmentation,San Francisco,Q3,Tier 3,33,Female,106,11.0,55.1,Medium,206270.86,222811.44,18567.62,16540.58,0
+PRJ-FIN-2008,Engineering,Software Licenses,San Francisco,Q3,Tier 3,40,Male,82,48.0,50.7,Critical,215114.91,271092.3,22591.02,55977.39,0
+PRJ-FIN-2009,Human Resources,Facility Operations,New York,Q4,Tier 1,38,Male,95,36.0,94.3,,123900.72,164304.49,13692.04,40403.77,0
+PRJ-FIN-2010,Marketing & Growth,Marketing Campaigns,Bangalore,Q4,Tier 2,43,Male,107,12.0,67.2,Medium,198357.28,214914.61,17909.55,16557.33,0
+PRJ-FIN-2011,Engineering,Consulting Services,Tokyo,Q1,Tier 2,42,Non-Binary,89,12.0,,High,211092.32,224390.98,18699.25,13298.66,0
+PRJ-FIN-2012,Legal & Compliance,Marketing Campaigns,Singapore,Q3,Tier 1,41,Non-Binary,58,5.0,63.1,Medium,117421.61,104098.74,8674.9,-13322.87,1
+PRJ-FIN-2013,Marketing & Growth,Hardware Upgrades,New York,Q3,Tier 2,40,Female,89,11.0,29.8,High,186025.14,220054.54,18337.88,34029.4,0
+PRJ-FIN-2014,Human Resources,Hardware Upgrades,New York,Q1,Tier 2,29,Female,48,,83.2,High,76663.54,83338.19,6944.85,6674.65,0
+PRJ-FIN-2015,Engineering,Staff Augmentation,New York,Q1,Tier 1,53,Male,61,14.0,60.8,Medium,147705.61,138441.56,11536.8,-9264.05,1
+PRJ-FIN-2016,Marketing & Growth,Staff Augmentation,Tokyo,Q4,Tier 1,43,Male,22,8.0,54.3,High,87934.46,100285.88,8357.16,12351.42,0
+PRJ-FIN-2017,Human Resources,Marketing Campaigns,New York,Q4,Tier 1,53,Non-Binary,26,10.0,63.6,Medium,100266.93,110630.97,9219.25,10364.04,0
+PRJ-FIN-2018,Engineering,Hardware Upgrades,New York,Q4,Tier 1,47,Female,50,6.0,32.2,High,163209.34,222738.88,18561.57,59529.54,0
+PRJ-FIN-2019,Legal & Compliance,Staff Augmentation,Chicago,Q3,Tier 3,39,Male,82,12.0,70.9,Medium,139568.39,133532.5,11127.71,-6035.89,1
+PRJ-FIN-2020,Engineering,Consulting Services,Bangalore,Q4,Tier 2,55,Male,109,30.0,73.2,Critical,258960.01,370923.49,30910.29,111963.48,0
+PRJ-FIN-2021,Marketing & Growth,Facility Operations,New York,Q1,Tier 1,50,Female,22,5.0,57.4,Medium,101284.12,101907.39,8492.28,623.27,1
+PRJ-FIN-2022,Legal & Compliance,Cloud Infrastructure,New York,Q3,Tier 1,39,Male,103,7.0,47.7,High,174405.79,201276.76,16773.06,26870.97,0
+PRJ-FIN-2023,Marketing & Growth,Cloud Infrastructure,London,Q4,Tier 3,46,Male,43,25.0,54.6,High,166591.38,221355.05,18446.25,54763.67,0
+PRJ-FIN-2024,Engineering,Cloud Infrastructure,Berlin,Q1,Tier 2,47,Female,41,33.0,79.8,Critical,152647.28,186508.84,15542.4,33861.56,0
+PRJ-FIN-2025,Legal & Compliance,Cloud Infrastructure,London,Q1,Tier 2,37,Male,76,8.0,80.2,Low,96565.29,95562.54,7963.54,-1002.75,1
+PRJ-FIN-2026,Legal & Compliance,Hardware Upgrades,New York,Q1,Tier 3,41,Male,27,7.0,71.7,Medium,79006.1,73768.84,6147.4,-5237.26,1
+PRJ-FIN-2027,IT & Cloud,Software Licenses,London,Q1,Tier 2,41,Female,95,8.0,89.7,Low,211778.55,173469.12,14455.76,-38309.43,1
+PRJ-FIN-2028,Engineering,Marketing Campaigns,Singapore,Q3,Tier 3,39,Male,78,26.0,91.1,Critical,185771.77,218175.35,18181.28,32403.58,0
+PRJ-FIN-2029,Human Resources,Consulting Services,San Francisco,Q4,Tier 1,43,Male,37,6.0,84.7,Low,94383.07,82215.92,6851.33,-12167.15,1
+PRJ-FIN-2030,Engineering,Hardware Upgrades,Toronto,Q1,Tier 1,43,Female,74,8.0,89.7,Low,179687.41,127375.9,10614.66,-52311.51,1
+PRJ-FIN-2031,Marketing & Growth,Facility Operations,Berlin,Q3,Tier 1,33,Male,84,23.0,53.8,High,175118.14,195540.74,16295.06,20422.6,0
+PRJ-FIN-2032,Engineering,Marketing Campaigns,New York,Q4,Tier 1,49,Male,109,9.0,58.4,Medium,215361.95,223241.04,18603.42,7879.09,0
+PRJ-FIN-2033,Human Resources,Cloud Infrastructure,New York,Q4,Tier 1,33,Female,86,10.0,80.6,Medium,95767.94,109453.11,9121.09,13685.17,0
+PRJ-FIN-2034,Human Resources,Staff Augmentation,New York,Q4,Tier 1,51,Non-Binary,47,7.0,83.2,Low,90309.43,97030.91,8085.91,6721.48,0
+PRJ-FIN-2035,Legal & Compliance,Hardware Upgrades,San Francisco,Q1,Tier 2,49,Female,20,12.0,47.5,High,86779.49,239529.83599999998,19960.82,152750.34599999996,0
+PRJ-FIN-2036,Engineering,Cloud Infrastructure,San Francisco,Q2,Tier 3,40,Male,80,4.0,66.4,Medium,285500.34,265364.54,22113.71,-20135.8,1
+PRJ-FIN-2037,R&D Innovation,Hardware Upgrades,Bangalore,Q1,Tier 3,44,Male,11,6.0,57.5,Medium,93455.52,78396.12,6533.01,-15059.4,1
+PRJ-FIN-2038,R&D Innovation,Cloud Infrastructure,San Francisco,Q1,Tier 1,35,Male,50,11.0,58.9,Medium,306357.42,305542.14,25461.84,-815.28,1
+PRJ-FIN-2039,Marketing & Growth,Marketing Campaigns,San Francisco,Q4,Tier 3,43,Male,56,24.0,82.8,High,177369.27,218018.4,18168.2,40649.13,0
+PRJ-FIN-2040,Marketing & Growth,Software Licenses,San Francisco,Q1,Tier 2,45,Male,89,40.0,76.9,Critical,183456.54,216622.11,18051.84,33165.57,0
+PRJ-FIN-2041,R&D Innovation,Cloud Infrastructure,New York,Q3,Tier 1,37,Female,98,17.0,71.7,Medium,231959.46,244961.76,20413.48,13002.3,0
+PRJ-FIN-2042,Legal & Compliance,Marketing Campaigns,San Francisco,Q1,Tier 2,40,Female,91,10.0,54.4,High,165507.96,168534.36,14044.53,3026.4,1
+PRJ-FIN-2043,R&D Innovation,Hardware Upgrades,San Francisco,Q1,Tier 1,43,Female,102,11.0,70.3,Medium,276000.23,228332.74,19027.73,-47667.49,1
+PRJ-FIN-2044,R&D Innovation,Consulting Services,London,Q1,Tier 2,27,Male,80,13.0,73.3,Medium,286555.2,251052.49,20921.04,-35502.71,1
+PRJ-FIN-2045,Engineering,Marketing Campaigns,Tokyo,Q3,Tier 2,38,Female,78,24.0,68.6,High,214371.3,246686.83,20557.24,32315.53,0
+PRJ-FIN-2046,Legal & Compliance,Staff Augmentation,New York,Q2,Tier 3,44,Male,67,31.0,74.2,Critical,130666.86,174271.56,14522.63,43604.7,0
+PRJ-FIN-2047,IT & Cloud,Staff Augmentation,Berlin,Q3,Tier 1,43,Female,104,33.0,57.9,Critical,239821.19,300745.08,25062.09,60923.89,0
+PRJ-FIN-2048,Sales Operations,Cloud Infrastructure,New York,Q3,Tier 1,36,Male,47,5.0,69.8,Medium,121270.58,127131.14,10594.26,5860.56,0
+PRJ-FIN-2049,R&D Innovation,Staff Augmentation,London,Q1,Tier 2,40,Male,16,6.0,68.5,Medium,154833.87,126340.01,10528.33,-28493.86,1
+PRJ-FIN-2050,R&D Innovation,Facility Operations,San Francisco,Q1,Tier 1,47,Female,86,3.0,49.2,High,197406.26,214583.86,17881.99,17177.6,0
+PRJ-FIN-2051,Legal & Compliance,Hardware Upgrades,Tokyo,Q2,Tier 2,37,Non-Binary,10,38.0,87.5,Critical,53655.12,57466.03,4788.84,3810.91,0
+PRJ-FIN-2052,Engineering,Marketing Campaigns,Bangalore,Q4,Tier 1,36,Male,44,8.0,62.2,Medium,154113.09,185109.61,15425.8,30996.52,0
+PRJ-FIN-2053,Legal & Compliance,Marketing Campaigns,San Francisco,Q1,Tier 1,41,Female,77,13.0,65.9,Medium,144502.7,150631.01,12552.58,6128.31,0
+PRJ-FIN-2054,Sales Operations,Software Licenses,Tokyo,Q3,Tier 1,43,Male,36,15.0,71.5,Medium,115440.53,119987.3,9998.94,4546.77,0
+PRJ-FIN-2055,Human Resources,Hardware Upgrades,London,Q3,Tier 2,31,Non-Binary,70,8.0,58.4,Medium,105698.31,100107.79,8342.32,-5590.52,1
+PRJ-FIN-2056,Marketing & Growth,Cloud Infrastructure,New York,Q4,Tier 1,50,Male,104,16.0,64.0,Medium,179345.72,209621.81,17468.48,30276.09,0
+PRJ-FIN-2057,IT & Cloud,Facility Operations,New York,Q3,Tier 3,52,Female,13,10.0,75.7,Medium,98350.92,105268.74,8772.4,6917.82,0
+PRJ-FIN-2058,Engineering,Marketing Campaigns,San Francisco,Q3,Tier 2,54,Female,70,15.0,89.9,Medium,173901.9,174445.02,14537.08,543.12,1
+PRJ-FIN-2059,Marketing & Growth,Software Licenses,San Francisco,Q2,Tier 1,41,Male,30,7.0,71.0,Medium,182681.22,173784.1,14482.01,-8897.12,1
+PRJ-FIN-2060,Human Resources,Facility Operations,Toronto,Q1,Tier 3,41,Non-Binary,42,28.0,,Critical,81059.88,89483.14,7456.93,8423.26,0
+PRJ-FIN-2061,Marketing & Growth,Marketing Campaigns,San Francisco,Q2,Tier 2,46,Female,79,10.0,71.5,Medium,181433.24,152291.48,12690.96,-29141.76,1
+PRJ-FIN-2062,Marketing & Growth,Consulting Services,Tokyo,Q1,Tier 3,49,Male,41,23.0,54.9,High,135260.16,135027.27,11252.27,-232.89,1
+PRJ-FIN-2063,R&D Innovation,Cloud Infrastructure,Bangalore,Q3,Tier 1,32,Male,25,8.0,39.3,High,99392.92,117087.14,9757.26,17694.22,0
+PRJ-FIN-2064,Human Resources,Facility Operations,Singapore,Q4,Tier 1,52,Male,71,3.0,,Medium,102159.64,119511.05,9959.25,17351.41,0
+PRJ-FIN-2065,Finance & Accounting,Software Licenses,London,Q1,Tier 3,39,Female,95,45.0,75.3,Critical,127019.82,145866.71,12155.56,18846.89,0
+PRJ-FIN-2066,Sales Operations,Software Licenses,Tokyo,Q2,Tier 1,42,Male,23,14.0,62.3,Medium,131651.52,122961.16,10246.76,-8690.36,1
+PRJ-FIN-2067,Finance & Accounting,Staff Augmentation,Bangalore,Q2,Tier 2,54,Female,19,48.0,62.3,Critical,87738.0,114518.85,9543.24,26780.85,0
+PRJ-FIN-2068,Sales Operations,Consulting Services,London,Q2,Tier 2,32,Female,44,44.0,74.6,Critical,125747.61,146668.93,12222.41,20921.32,0
+PRJ-FIN-2069,Sales Operations,Staff Augmentation,Singapore,Q2,Tier 2,40,Female,14,13.0,89.6,Medium,85364.47,79140.47,6595.04,-6224.0,1
+PRJ-FIN-2070,Marketing & Growth,Facility Operations,Chicago,Q3,Tier 2,39,Female,74,20.0,79.3,High,173887.51,175000.57,14583.38,1113.06,1
+PRJ-FIN-2071,Engineering,Facility Operations,Singapore,Q4,Tier 2,45,Male,22,4.0,,High,133090.24,161721.72,13476.81,28631.48,0
+PRJ-FIN-2072,IT & Cloud,Staff Augmentation,New York,Q2,Tier 2,47,Female,74,18.0,80.6,Medium,182713.19,181037.88,15086.49,-1675.31,1
+PRJ-FIN-2073,R&D Innovation,Facility Operations,Tokyo,Q2,Tier 1,40,Female,20,11.0,52.4,High,110763.29,119322.28,9943.52,8558.99,0
+PRJ-FIN-2074,Marketing & Growth,Software Licenses,San Francisco,Q3,Tier 1,34,Male,20,27.0,86.0,Critical,138308.08,162853.85,13571.15,24545.77,0
+PRJ-FIN-2075,Legal & Compliance,Consulting Services,New York,Q4,Tier 3,32,Male,87,12.0,65.8,Medium,143023.14,150317.26,12526.44,7294.12,0
+PRJ-FIN-2076,Marketing & Growth,Facility Operations,Singapore,Q3,Tier 1,37,Male,79,12.0,72.2,Medium,206182.25,201563.92,16796.99,-4618.33,1
+PRJ-FIN-2077,Engineering,Cloud Infrastructure,Singapore,Q3,Tier 2,65,Male,64,4.0,65.7,Medium,172285.75,150872.69,12572.72,-21413.06,1
+PRJ-FIN-2078,Finance & Accounting,Software Licenses,London,Q2,Tier 2,45,Female,94,22.0,78.8,High,129109.98,133048.63,11087.39,3938.65,0
+PRJ-FIN-2079,R&D Innovation,Marketing Campaigns,Bangalore,Q4,Tier 3,40,Female,69,11.0,61.8,Medium,149326.62,172830.1,14402.51,23503.48,0
+PRJ-FIN-2080,Legal & Compliance,Staff Augmentation,New York,Q3,Tier 2,45,Female,88,28.0,62.3,Critical,147781.23,192937.87,16078.16,45156.64,0
+PRJ-FIN-2081,Human Resources,Facility Operations,Toronto,Q1,Tier 3,51,Female,75,7.0,81.1,Low,141960.34,113317.44,9443.12,-28642.9,1
+PRJ-FIN-2082,R&D Innovation,Consulting Services,Singapore,Q3,Tier 1,43,Female,30,13.0,51.2,High,172341.46,199545.87,16628.82,27204.41,0
+PRJ-FIN-2083,IT & Cloud,Software Licenses,London,Q2,Tier 1,41,Female,86,6.0,79.0,Low,220189.42,209358.73,17446.56,-10830.69,1
+PRJ-FIN-2084,Engineering,Staff Augmentation,Singapore,Q1,Tier 2,24,Female,22,21.0,72.5,High,134803.41,142361.71,11863.48,7558.3,0
+PRJ-FIN-2085,Marketing & Growth,Hardware Upgrades,New York,Q3,Tier 1,29,Female,102,9.0,84.2,Low,247828.63,228942.74,19078.56,-18885.89,1
+PRJ-FIN-2086,Legal & Compliance,Consulting Services,Singapore,Q2,Tier 2,36,Male,45,,55.9,Medium,101978.14,101635.33,8469.61,-342.81,1
+PRJ-FIN-2087,Marketing & Growth,Facility Operations,Tokyo,Q3,Tier 2,42,Male,16,15.0,78.4,Medium,90914.78,97650.1,8137.51,6735.32,0
+PRJ-FIN-2088,Finance & Accounting,Cloud Infrastructure,Tokyo,Q4,Tier 1,25,Male,97,14.0,50.5,High,152125.23,189208.48,15767.37,37083.25,0
+PRJ-FIN-2089,Finance & Accounting,Consulting Services,London,Q1,Tier 1,42,Female,63,10.0,24.3,High,127447.77,131844.81,10987.07,4397.04,0
+PRJ-FIN-2090,IT & Cloud,Consulting Services,New York,Q3,Tier 2,24,Non-Binary,61,21.0,69.3,High,162491.6,171784.7,14315.39,9293.1,0
+PRJ-FIN-2091,Sales Operations,Hardware Upgrades,Bangalore,Q2,Tier 2,37,Male,15,48.0,68.1,Critical,94637.02,118771.54,9897.63,24134.52,0
+PRJ-FIN-2092,Marketing & Growth,Cloud Infrastructure,Chicago,Q4,Tier 1,65,Female,107,13.0,78.0,Medium,263450.59,285663.74,23805.31,22213.15,0
+PRJ-FIN-2093,Human Resources,Staff Augmentation,New York,Q4,Tier 3,65,Male,47,6.0,70.5,Medium,103004.64,116653.66,9721.14,13649.02,0
+PRJ-FIN-2094,Sales Operations,Hardware Upgrades,Sydney,Q3,Tier 1,50,Female,79,17.0,58.6,Medium,167863.4,174557.39,14546.45,6693.99,0
+PRJ-FIN-2095,IT & Cloud,Marketing Campaigns,Chicago,Q3,Tier 1,48,Female,21,8.0,75.3,Low,145095.97,131470.14,10955.84,-13625.83,1
+PRJ-FIN-2096,Sales Operations,Consulting Services,New York,Q3,Tier 1,27,Female,47,7.0,87.6,Low,170387.97,148868.74,12405.73,-21519.23,1
+PRJ-FIN-2097,Finance & Accounting,Consulting Services,Bangalore,Q2,Tier 1,32,Female,70,7.0,51.7,,143362.01,170218.07,14184.84,26856.06,0
+PRJ-FIN-2098,IT & Cloud,Hardware Upgrades,Tokyo,Q4,Tier 1,36,Female,75,15.0,87.0,Medium,144250.31,158528.32,13210.69,14278.01,0
+PRJ-FIN-2099,Sales Operations,Marketing Campaigns,Bangalore,Q1,Tier 3,45,Female,106,10.0,70.3,Medium,154441.01,141800.35,11816.7,-12640.66,1
+PRJ-FIN-2100,Sales Operations,Marketing Campaigns,Singapore,Q2,Tier 2,46,Male,18,6.0,91.9,Low,79896.53,73350.55,6112.55,-6545.98,1
+PRJ-FIN-2101,Sales Operations,Facility Operations,Tokyo,Q3,Tier 1,50,Male,33,10.0,57.1,Medium,132731.54,141766.51,11813.88,9034.97,0
+PRJ-FIN-2102,Sales Operations,Marketing Campaigns,San Francisco,Q4,Tier 2,41,Male,40,10.0,46.2,High,102144.9,126560.95,10546.75,24416.05,0
+PRJ-FIN-2103,Sales Operations,Facility Operations,London,Q2,Tier 1,35,Male,103,6.0,58.6,Medium,182199.3,167266.35,13938.86,-14932.95,1
+PRJ-FIN-2104,Sales Operations,Software Licenses,Tokyo,Q1,Tier 2,32,Male,35,9.0,74.8,Medium,209655.92,210966.51,17580.54,1310.59,1
+PRJ-FIN-2105,Engineering,Staff Augmentation,Toronto,Q2,Tier 2,55,Male,93,3.0,50.4,High,247281.41,269170.08,22430.84,21888.67,0
+PRJ-FIN-2106,Engineering,Hardware Upgrades,Tokyo,Q1,Tier 1,32,Female,92,17.0,73.9,Medium,159140.83,165562.87,13796.91,6422.04,0
+PRJ-FIN-2107,Sales Operations,Marketing Campaigns,Sydney,Q3,Tier 2,36,Male,59,12.0,58.8,Medium,167109.32,,,-24564.35,1
+PRJ-FIN-2108,IT & Cloud,Facility Operations,Tokyo,Q2,Tier 1,46,Female,29,21.0,41.9,High,151802.74,162234.38,13519.53,10431.64,0
+PRJ-FIN-2109,Human Resources,Hardware Upgrades,Berlin,Q1,Tier 2,41,Male,107,8.0,49.9,,177232.87,171353.78,14279.48,-5879.09,1
+PRJ-FIN-2110,Sales Operations,Hardware Upgrades,New York,Q2,Tier 2,49,Male,24,4.0,99.0,Low,111278.92,89152.9,7429.41,-22126.02,1
+PRJ-FIN-2111,Engineering,Software Licenses,London,Q1,Tier 1,62,Female,76,7.0,85.2,Low,180653.04,165526.61,13793.88,-15126.43,1
+PRJ-FIN-2112,Engineering,Marketing Campaigns,San Francisco,Q2,Tier 1,41,Male,32,10.0,67.2,Medium,141359.08,138843.62,11570.3,-2515.46,1
+PRJ-FIN-2113,IT & Cloud,Consulting Services,Toronto,Q4,Tier 2,37,Male,7,13.0,62.1,Medium,141080.84,168155.19,14012.93,27074.35,0
+PRJ-FIN-2114,Sales Operations,Consulting Services,Bangalore,Q3,Tier 1,44,Female,54,10.0,70.9,Medium,149127.25,145363.25,12113.6,-3764.0,1
+PRJ-FIN-2115,R&D Innovation,Cloud Infrastructure,New York,Q3,Tier 1,38,Male,88,14.0,61.4,Medium,171864.08,157304.6,13108.72,-14559.48,1
+PRJ-FIN-2116,Engineering,Facility Operations,Singapore,Q3,Tier 1,34,Female,34,10.0,99.0,Medium,188383.25,,,-22297.08,1
+PRJ-FIN-2117,Sales Operations,Hardware Upgrades,Tokyo,Q4,Tier 1,42,Female,65,3.0,,Medium,143117.58,149230.25,12435.85,6112.67,0
+PRJ-FIN-2118,Engineering,Staff Augmentation,San Francisco,Q3,Tier 3,49,Female,53,5.0,71.6,Medium,146388.42,149458.2,12454.85,3069.78,0
+PRJ-FIN-2119,Legal & Compliance,Facility Operations,Singapore,Q2,Tier 1,44,Female,26,10.0,,Medium,81689.6,75557.46,6296.46,-6132.14,1
+PRJ-FIN-2120,Engineering,Software Licenses,Chicago,Q1,Tier 2,44,Male,50,8.0,60.8,Medium,189719.08,208090.42,17340.87,18371.34,0
+PRJ-FIN-2121,IT & Cloud,Software Licenses,New York,Q3,Tier 2,38,Male,28,13.0,59.9,Medium,114447.4,100503.64,8375.3,-13943.76,1
+PRJ-FIN-2122,Engineering,Marketing Campaigns,London,Q1,Tier 2,44,Male,89,5.0,81.2,Low,267352.91,213782.26,17815.19,-53570.65,1
+PRJ-FIN-2123,Sales Operations,Hardware Upgrades,Chicago,Q2,Tier 2,43,Non-Binary,95,,70.9,Medium,173468.92,161934.2,13494.52,-11534.72,1
+PRJ-FIN-2124,Engineering,Consulting Services,New York,Q4,Tier 1,46,Female,88,15.0,97.3,Medium,203499.45,198773.81,16564.48,-4725.64,1
+PRJ-FIN-2125,Legal & Compliance,Facility Operations,Singapore,Q1,Tier 1,32,Male,23,11.0,61.0,Medium,95349.94,93522.5,7793.54,-1827.44,1
+PRJ-FIN-2126,Legal & Compliance,Consulting Services,New York,Q4,Tier 3,39,Male,12,18.0,68.8,Medium,83248.66,103572.95,8631.08,20324.29,0
+PRJ-FIN-2127,IT & Cloud,Software Licenses,San Francisco,Q2,Tier 2,41,Male,32,9.0,35.0,High,172747.55,187687.63,15640.64,14940.08,0
+PRJ-FIN-2128,Sales Operations,Staff Augmentation,Sydney,Q4,Tier 2,35,Male,70,18.0,82.1,Medium,181292.45,200280.92,16690.08,18988.47,0
+PRJ-FIN-2129,Sales Operations,Cloud Infrastructure,New York,Q1,Tier 3,42,Female,39,7.0,78.7,Low,80797.28,,,-12776.05,1
+PRJ-FIN-2130,IT & Cloud,Marketing Campaigns,Singapore,Q4,Tier 1,43,Female,44,6.0,75.3,Low,188532.47,192392.92,16032.74,3860.45,0
+PRJ-FIN-2131,IT & Cloud,Consulting Services,Bangalore,Q3,Tier 1,48,Female,86,9.0,60.6,Medium,244875.72,278678.1,23223.18,33802.38,0
+PRJ-FIN-2132,Legal & Compliance,Hardware Upgrades,New York,Q2,Tier 1,54,Female,91,,66.9,Medium,160151.44,157484.12,13123.68,-2667.32,1
+PRJ-FIN-2133,Sales Operations,Marketing Campaigns,London,Q2,Tier 3,51,Male,50,4.0,97.9,Low,120125.13,88045.6,7337.13,-32079.53,1
+PRJ-FIN-2134,Human Resources,Cloud Infrastructure,New York,Q1,Tier 1,41,Male,13,5.0,78.7,Low,61945.05,58264.71,4855.39,-3680.34,1
+PRJ-FIN-2135,IT & Cloud,Staff Augmentation,Chicago,Q1,Tier 2,38,Male,89,4.0,80.9,Low,225921.93,195325.49,16277.12,-30596.44,1
+PRJ-FIN-2136,IT & Cloud,Marketing Campaigns,Toronto,Q2,Tier 1,45,Male,59,4.0,76.4,Low,221494.12,185297.98,15441.5,-36196.14,1
+PRJ-FIN-2137,Engineering,Cloud Infrastructure,San Francisco,Q1,Tier 3,48,Male,98,27.0,83.5,Critical,206445.29,242040.23,20170.02,35594.94,0
+PRJ-FIN-2138,Engineering,Facility Operations,Berlin,Q4,Tier 1,41,Male,5,5.0,84.9,Low,126836.9,116698.85,9724.9,-10138.05,1
+PRJ-FIN-2139,R&D Innovation,Hardware Upgrades,Singapore,Q1,Tier 1,35,Male,69,,81.4,Critical,205930.29,236841.19,19736.77,30910.9,0
+PRJ-FIN-2140,Sales Operations,Hardware Upgrades,New York,Q3,Tier 2,36,Female,76,9.0,55.7,Medium,136382.34,145131.93,12094.33,8749.59,0
+PRJ-FIN-2141,Human Resources,Marketing Campaigns,Bangalore,Q2,Tier 1,24,Female,37,15.0,70.7,Medium,75638.38,75522.41,6293.53,-115.97,1
+PRJ-FIN-2142,Marketing & Growth,Cloud Infrastructure,Toronto,Q4,Tier 1,47,Female,6,6.0,57.7,Medium,139144.5,169070.12,14089.18,29925.62,0
+PRJ-FIN-2143,IT & Cloud,Facility Operations,Singapore,Q3,Tier 2,46,Female,28,14.0,63.1,Medium,103774.36,105769.28,8814.11,1994.92,1
+PRJ-FIN-2144,IT & Cloud,Software Licenses,London,Q1,Tier 2,44,Male,49,12.0,62.9,Medium,201306.35,190348.66,15862.39,-10957.69,1
+PRJ-FIN-2145,IT & Cloud,Cloud Infrastructure,Bangalore,Q1,Tier 2,55,Female,59,6.0,67.5,Medium,175164.71,155716.24,12976.35,-19448.47,1
+PRJ-FIN-2146,Legal & Compliance,Software Licenses,Berlin,Q3,Tier 1,24,Male,42,4.0,51.5,High,147067.3,168321.44,14026.79,21254.14,0
+PRJ-FIN-2147,IT & Cloud,Staff Augmentation,Sydney,Q1,Tier 2,32,Female,100,12.0,79.2,Medium,274721.12,247986.05,20665.5,-26735.07,1
+PRJ-FIN-2148,Engineering,Software Licenses,Toronto,Q4,Tier 1,52,Female,58,48.0,75.2,Critical,221141.51,282456.7,23538.06,61315.19,0
+PRJ-FIN-2149,R&D Innovation,Facility Operations,New York,Q3,Tier 1,34,Male,32,3.0,78.7,Low,140037.58,123249.92,10270.83,-16787.66,1
+PRJ-FIN-2150,Marketing & Growth,Software Licenses,New York,Q4,Tier 1,34,Male,52,6.0,58.6,Medium,182772.84,220234.73,18352.89,37461.89,0
+PRJ-FIN-2151,Sales Operations,Staff Augmentation,New York,Q1,Tier 3,28,Female,48,8.0,71.6,Medium,128432.18,106817.5,8901.46,-21614.68,1
+PRJ-FIN-2152,Marketing & Growth,Consulting Services,Chicago,Q2,Tier 1,58,Male,59,,97.8,Medium,163282.73,158835.49,13236.29,-4447.24,1
+PRJ-FIN-2153,Engineering,Facility Operations,New York,Q4,Tier 1,51,Male,81,14.0,49.3,High,166976.14,224160.47,18680.04,57184.33,0
+PRJ-FIN-2154,Legal & Compliance,Marketing Campaigns,Berlin,Q4,Tier 2,54,Male,42,10.0,60.2,Medium,81874.63,98085.42,8173.78,16210.79,0
+PRJ-FIN-2155,Legal & Compliance,Software Licenses,London,Q4,Tier 3,34,Female,13,6.0,62.2,Medium,70900.52,78130.73,6510.89,7230.21,0
+PRJ-FIN-2156,Engineering,Software Licenses,Berlin,Q2,Tier 3,37,Female,44,4.0,73.8,Medium,134696.63,134081.37,11173.45,-615.26,1
+PRJ-FIN-2157,Marketing & Growth,Staff Augmentation,San Francisco,Q3,Tier 1,26,Female,24,8.0,65.9,Medium,79414.23,79491.5,6624.29,77.27,1
+PRJ-FIN-2158,R&D Innovation,Software Licenses,Bangalore,Q3,Tier 1,36,Male,103,28.0,61.4,Critical,222940.42,264931.87,22077.66,41991.45,0
+PRJ-FIN-2159,Finance & Accounting,Marketing Campaigns,London,Q3,Tier 2,42,Male,5,,60.2,Medium,83161.71,83789.45,6982.45,627.74,1
+PRJ-FIN-2160,Finance & Accounting,Facility Operations,Bangalore,Q3,Tier 1,29,Male,59,3.0,55.4,Medium,133337.52,146064.94,12172.08,12727.42,0
+PRJ-FIN-2161,Engineering,Consulting Services,Toronto,Q3,Tier 2,40,Female,68,7.0,,Medium,165550.59,176300.1,14691.68,10749.51,0
+PRJ-FIN-2162,Engineering,Hardware Upgrades,Singapore,Q1,Tier 2,42,Male,41,8.0,73.7,,110433.87,107851.92,8987.66,-2581.95,1
+PRJ-FIN-2163,Sales Operations,Staff Augmentation,New York,Q4,Tier 1,38,Male,72,3.0,49.7,High,151646.82,194105.22,16175.44,42458.4,0
+PRJ-FIN-2164,Finance & Accounting,Hardware Upgrades,San Francisco,Q3,Tier 1,48,Female,26,6.0,91.9,Low,81535.72,75945.33,6328.78,-5590.39,1
+PRJ-FIN-2165,Sales Operations,Staff Augmentation,San Francisco,Q4,Tier 2,35,Female,104,17.0,65.0,Medium,222285.32,229839.99,19153.33,7554.67,0
+PRJ-FIN-2166,Marketing & Growth,Cloud Infrastructure,Tokyo,Q1,Tier 3,33,Female,59,29.0,74.5,Critical,183533.85,203940.16,16995.01,20406.31,0
+PRJ-FIN-2167,Sales Operations,Software Licenses,London,Q4,Tier 1,53,Female,52,9.0,57.8,Medium,134307.68,143895.79,11991.32,9588.11,0
+PRJ-FIN-2168,Engineering,Marketing Campaigns,Tokyo,Q1,Tier 2,46,Female,48,22.0,82.6,High,153284.75,156389.03,13032.42,3104.28,0
+PRJ-FIN-2169,R&D Innovation,Software Licenses,New York,Q2,Tier 2,44,Female,79,5.0,69.6,Medium,213637.16,214430.21,17869.18,793.05,1
+PRJ-FIN-2170,Sales Operations,Software Licenses,London,Q3,Tier 2,49,Female,55,8.0,65.1,Medium,138671.59,129447.51,10787.29,-9224.08,1
+PRJ-FIN-2171,Finance & Accounting,Hardware Upgrades,Toronto,Q1,Tier 1,47,Female,88,,,Low,161233.73,140472.34,11706.03,-20761.39,1
+PRJ-FIN-2172,Finance & Accounting,Staff Augmentation,Sydney,Q3,Tier 2,49,Male,42,12.0,85.7,,102835.03,96367.42,8030.62,-6467.61,1
+PRJ-FIN-2173,Engineering,Staff Augmentation,New York,Q2,Tier 1,38,Female,77,6.0,65.4,Medium,200995.41,201958.29,16829.86,962.88,1
+PRJ-FIN-2174,Human Resources,Cloud Infrastructure,London,Q3,Tier 2,41,Female,21,16.0,72.8,Medium,103557.07,99817.04,8318.09,-3740.03,1
+PRJ-FIN-2175,Engineering,Marketing Campaigns,Singapore,Q1,Tier 2,44,Female,19,5.0,74.1,Medium,165184.51,160316.77,13359.73,-4867.74,1
+PRJ-FIN-2176,Marketing & Growth,Hardware Upgrades,Sydney,Q1,Tier 1,42,Male,82,5.0,64.8,Medium,162421.57,149467.34,12455.61,-12954.23,1
+PRJ-FIN-2177,IT & Cloud,Cloud Infrastructure,San Francisco,Q1,Tier 2,50,Female,73,4.0,79.5,Low,157678.7,134279.33,11189.94,-23399.37,1
+PRJ-FIN-2178,Marketing & Growth,Cloud Infrastructure,Bangalore,Q2,Tier 1,61,Female,77,15.0,56.3,Medium,183837.2,173396.9,14449.74,-10440.3,1
+PRJ-FIN-2179,Sales Operations,Marketing Campaigns,New York,Q2,Tier 1,34,Female,81,18.0,52.4,High,187315.99,211104.65,17592.05,23788.66,0
+PRJ-FIN-2180,Human Resources,Hardware Upgrades,London,Q3,Tier 1,56,Male,82,27.0,43.5,Critical,96549.16,121272.4,10106.03,24723.24,0
+PRJ-FIN-2181,Sales Operations,Software Licenses,San Francisco,Q1,Tier 1,30,Female,90,,81.3,Low,161870.34,132678.3,11056.52,-29192.04,1
+PRJ-FIN-2182,Human Resources,Consulting Services,Singapore,Q3,Tier 1,48,Non-Binary,88,,74.5,Medium,135791.9,371577.22,30964.77,235785.31999999998,0
+PRJ-FIN-2183,Marketing & Growth,Hardware Upgrades,Chicago,Q1,Tier 3,54,Male,92,18.0,90.3,Medium,163757.18,143430.73,11952.56,-20326.45,1
+PRJ-FIN-2184,IT & Cloud,Consulting Services,Chicago,Q2,Tier 2,32,Female,89,48.0,,Critical,249484.51,277233.61,23102.8,27749.1,0
+PRJ-FIN-2185,Finance & Accounting,Hardware Upgrades,San Francisco,Q1,Tier 2,44,Male,93,8.0,48.8,High,133480.27,148018.87,12334.91,14538.6,0
+PRJ-FIN-2186,Sales Operations,Hardware Upgrades,London,Q3,Tier 1,28,Male,88,8.0,55.0,High,175500.47,204897.73,17074.81,29397.26,0
+PRJ-FIN-2187,IT & Cloud,Facility Operations,London,Q3,Tier 3,39,Female,12,15.0,69.3,Medium,146554.76,148427.13,12368.93,1872.37,1
+PRJ-FIN-2188,Marketing & Growth,Software Licenses,Toronto,Q1,Tier 3,32,Male,104,30.0,44.9,Critical,169399.5,202299.33,16858.28,32899.83,0
+PRJ-FIN-2189,Engineering,Facility Operations,Bangalore,Q3,Tier 1,38,Male,31,12.0,76.2,Medium,180476.27,169351.96,14112.66,-11124.31,1
+PRJ-FIN-2190,IT & Cloud,Staff Augmentation,Bangalore,Q3,Tier 2,53,Female,107,47.0,79.6,Critical,204035.55,258486.56,21540.55,54451.01,0
+PRJ-FIN-2191,Sales Operations,Software Licenses,Bangalore,Q1,Tier 3,44,Female,106,10.0,77.0,Medium,155034.11,142982.92,11915.24,-12051.19,1
+PRJ-FIN-2192,IT & Cloud,Consulting Services,Singapore,Q3,Tier 1,61,Non-Binary,61,15.0,99.0,Medium,151045.09,136852.06,11404.34,-14193.03,1
+PRJ-FIN-2193,Marketing & Growth,Facility Operations,Bangalore,Q4,Tier 1,32,Female,37,27.0,91.9,Critical,186613.61,259494.46,21624.54,72880.85,0
+PRJ-FIN-2194,Sales Operations,Staff Augmentation,New York,Q1,Tier 1,38,Male,40,6.0,43.1,High,118893.85,123110.47,10259.21,4216.62,0
+PRJ-FIN-2195,Finance & Accounting,Cloud Infrastructure,Berlin,Q4,Tier 2,48,Male,64,8.0,63.4,Medium,93743.95,95146.24,7928.85,1402.29,1
+PRJ-FIN-2196,Finance & Accounting,Consulting Services,Tokyo,Q2,Tier 2,42,Male,42,18.0,54.7,High,110291.28,106553.6,8879.47,-3737.68,1
+PRJ-FIN-2197,R&D Innovation,Cloud Infrastructure,Bangalore,Q1,Tier 1,41,Male,7,14.0,91.8,Medium,104034.16,96821.8,8068.48,-7212.36,1
+PRJ-FIN-2198,Engineering,Facility Operations,Bangalore,Q1,Tier 1,36,Male,72,17.0,64.1,Medium,210923.48,203099.12,16924.93,-7824.36,1
+PRJ-FIN-2199,Engineering,Hardware Upgrades,London,Q2,Tier 1,30,Male,77,19.0,82.3,Medium,223021.94,202484.05,16873.67,-20537.89,1
+PRJ-FIN-1757,Engineering,Software Licenses,Sydney,Q4,Tier 1,31,Female,55,23.0,82.2,High,403312.425,,,35885.27,0
+PRJ-FIN-1170,Human Resources,Consulting Services,Bangalore,Q3,Tier 2,32,Female,79,4.0,97.0,Low,97379.66,87318.77,7276.56,-10060.89,1
+PRJ-FIN-1323,Marketing & Growth,Facility Operations,Tokyo,Q1,Tier 1,35,Female,67,5.0,78.4,Low,162706.68,139523.32,11626.94,-23183.36,1
+PRJ-FIN-2194,Sales Operations,Staff Augmentation,New York,Q1,Tier 1,38,Male,40,6.0,43.1,High,118893.85,123110.47,10259.21,4216.62,0
+PRJ-FIN-1048,Finance & Accounting,Staff Augmentation,London,Q2,Tier 1,50,Male,64,20.0,77.1,High,91138.4,102252.5,8521.04,11114.1,0
+PRJ-FIN-2071,Engineering,Facility Operations,Singapore,Q4,Tier 2,45,Male,22,4.0,,High,133090.24,161721.72,13476.81,28631.48,0
